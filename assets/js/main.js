@@ -27,4 +27,6 @@ $(function(){
       Balls(session);
     });
   });
+
+  $('form').submit();
 });

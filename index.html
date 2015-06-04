@@ -22,7 +22,7 @@
     <header></header>
 
     <script id="header-template" type="text/x-handlebars-template">
-      Eres {{sexText}}, tienes {{age}} años y eres de {{autonomousRegionText}}
+      Eres {{sexText}}, tienes {{age}} y eres de {{autonomousRegionText}}
     </script>
 
     <div class="pure-g">
@@ -77,8 +77,8 @@
               <label for="sex">Sexo</label>
               <select name="sex">
                 <option value="">-- Selecciona tu sexo --</option>
-                <option value="m">Mujer</option>
-                <option value="h">Hombre</option>
+                <option value="Mujer" selected>Mujer</option>
+                <option value="Varón">Hombre</option>
               </select>
             </div>
 
@@ -90,11 +90,11 @@
       </div>
     </div>
 
-    <div id="bolitas_n1">
+    <div id="bolitas_n1" class="balls">
     </div>
-    <div id="bolitas_n2">
+    <div id="bolitas_n2" class="balls">
     </div>
-    <div id="bolitas_n3">
+    <div id="bolitas_n3" class="balls">
     </div>
 
     <div id="streams">
