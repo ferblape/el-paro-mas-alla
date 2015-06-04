@@ -7,7 +7,7 @@ var Balls = function(session){
 
   var margin = { top: 0, right: 10, bottom: 0, left: 10 },
       width = 960 - margin.left - margin.right,
-      height = 380 - margin.top - margin.bottom;
+      height = 400 - margin.top - margin.bottom;
 
   var xScale = d3.scale.ordinal().rangeRoundBands([0, width], .2);
   var yScale = d3.scale.linear().range([0, height]);
@@ -100,7 +100,7 @@ var Balls = function(session){
           .style('left', function(d) { return xScale(d.situation) + margin.left + "px"; })
           .style('margin-top', height + margin.top + "px")
           .style('width', xScale.rangeBand() - margin.left + 'px')
-          .html(function(d) { return niceCategory[d.situation] + ' ' + Math.round(d.porcentaje * 100,0) + '%'; });
+          .html(function(d) { return niceCategory[d.situation] + ' ' + Math.floor(d.porcentaje * 100) + '%'; });
 
     levelVariables.forEach(function(situation, i) {
       var n = data_n.filter(function(s) { return s.situation == situation; });
@@ -112,10 +112,6 @@ var Balls = function(session){
       var xBarScale = d3.scale.linear().
         domain([0,cols]).
         range([xScale(situation), xScale(situation) + xScale.rangeBand()]).
-        clamp(true);
-      var yBarScale = d3.scale.linear().
-        domain([0,rows]).
-        range([height - 20, height - yScale(n_data.length)]).
         clamp(true);
 
       svg3.selectAll('circle.n3.' + situation)
@@ -131,7 +127,7 @@ var Balls = function(session){
           .duration(2000)
           .delay(function(d,i) { return 7*i; })
           .attr("cx", function(d,i){return xBarScale(i%cols);})
-          .attr("cy", function(d,i){return yBarScale(Math.floor(i/cols));})
+          .attr("cy", function(d,i){return height - 20 - Math.floor(i/cols)*12;})
           .attr('fill', color(situation));
     });
   }
@@ -162,7 +158,6 @@ var Balls = function(session){
 
     xScale.domain(levelVariables);
     yScale.domain([0, d3.max(rawData, function(d) { return d.porcentaje*500; })]);
-
     d3.select('#bolitas_n2').selectAll('a.axis')
         .data(data_n)
         .enter()
@@ -174,7 +169,7 @@ var Balls = function(session){
           .style('left', function(d) { return xScale(d.situation) + margin.left + "px"; })
           .style('margin-top', height + margin.top + "px")
           .style('width', xScale.rangeBand() - margin.left + 'px')
-          .html(function(d) { return niceCategory[d.situation] + ' ' + Math.round(d.porcentaje * 100,0) + '%'; });
+          .html(function(d) { return niceCategory[d.situation] + ' ' + Math.floor(d.porcentaje * 100) + '%'; });
 
     levelVariables.forEach(function(situation, i) {
       var n = data_n.filter(function(s) { return s.situation == situation; });
@@ -186,11 +181,6 @@ var Balls = function(session){
       var xBarScale = d3.scale.linear().
         domain([0,cols]).
         range([xScale(situation), xScale(situation) + xScale.rangeBand()]).
-        clamp(true);
-
-      var yBarScale = d3.scale.linear().
-        domain([0,rows]).
-        range([height - 20, height - yScale(n_data.length)]).
         clamp(true);
 
       svg2.selectAll('circle.n2.' + situation)
@@ -206,14 +196,17 @@ var Balls = function(session){
           .duration(2000)
           .delay(function(d,i) { return 7*i; })
           .attr("cx", function(d,i){return xBarScale(i%cols);})
-          .attr("cy", function(d,i){return yBarScale(Math.floor(i/cols));})
+          .attr("cy", function(d,i){return height - 20 - Math.floor(i/cols)*12;})
           .attr('fill', color(situation));
     });
 
-    d3.selectAll(".n2").
-      on("click", function(){
-        level3(this.id);
-      });
+    var firstChild = data_n[0];
+    if(niveles[firstChild.situation] !== undefined){
+      d3.selectAll(".n2").
+        on("click", function(){
+          level3(this.id);
+        });
+    }
   }
 
   d3.csv("assets/data/df_per.csv?1", function(error, csvData) {
@@ -252,17 +245,15 @@ var Balls = function(session){
           .style('left', function(d) { return xScale(d.situation) + margin.left + "px"; })
           .style('margin-top', height + margin.top + "px")
           .style('width', xScale.rangeBand() - margin.left + 'px')
-          .html(function(d) { return niceCategory[d.situation] + ' ' + (Math.round(d.porcentaje * 100,0)) + '%'; });
+          .html(function(d) { return niceCategory[d.situation] + ' ' + (Math.floor(d.porcentaje * 100)) + '%'; });
 
     // generar nuevos datos, un array tan largo como número de bolas quiera, para cada n1 generar un data set   
     levelVariables.forEach(function(situation) {
       var n = data_n.filter(function(s) { return s.situation == situation; });
       var n_data = new Array(Math.round(n[0].porcentaje * 500, 0));
-
       var rows = n_data.length/cols;
 
       var xBarScale = d3.scale.linear().domain([0,cols]).range([xScale(situation),xScale(situation) + xScale.rangeBand()]).clamp(true);
-      var yBarScale = d3.scale.linear().domain([0,rows]).range([height - 20, height - yScale(n_data.length)]).clamp(true);
 
       svg1.selectAll('circle.n1.' + situation)
           .data(n_data)
@@ -277,7 +268,7 @@ var Balls = function(session){
           .duration(2000)
           .delay(function(d,i) { return 5*i; })
           .attr("cx", function(d,i){return xBarScale(i%cols);})
-          .attr("cy", function(d,i){return yBarScale(Math.floor(i/cols));})
+          .attr("cy", function(d,i){return height - 20 - Math.floor(i/cols)*12;})
     });
 
     d3.selectAll(".n1").
