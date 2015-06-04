@@ -1,0 +1,116 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link href='http://fonts.googleapis.com/css?family=Dosis:300,400' rel='stylesheet' type='text/css'>
+    <link rel="icon" type="image/png" href="images/logo.png">
+    <title>Paro: más allá</title>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="assets/css/vendor/pure-min.css" />
+    <link rel="stylesheet" href="assets/css/stream.css" />
+    <link rel="stylesheet" href="assets/css/bolitas.css" />
+
+    <script type="text/javascript" src="assets/js/vendor/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="assets/js/vendor/d3.min.js"></script>
+    <script type="text/javascript" src="assets/js/vendor/handlebars-v3.0.3.js"></script>
+    
+  </head>
+
+  <body class="index">
+
+    <header></header>
+
+    <script id="header-template" type="text/x-handlebars-template">
+      Eres {{sexText}}, tienes {{age}} años y eres de {{autonomousRegionText}}
+    </script>
+
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <form class="pure-form pure-form-aligned">
+          <fieldset>
+            <div class="pure-control-group">
+              <label for="autonomous_region">Comunidad Autónoma</label>
+              <select name="autonomous_region">
+                <option value="">-- Selecciona tu comunidad --</option>
+                <option value="andalucia">Andalucía</option>
+                <option value="aragon">Aragón</option>
+                <option value="asturias">Principado de Asturias</option>
+                <option value="baleares">Baleares</option>
+                <option value="canarias">Canarias</option>
+                <option value="cantabria">Cantabria</option>
+                <option value="castilla-la-mancha">Castilla-La Mancha</option>
+                <option value="castilla-leon">Castilla y León</option>
+                <option value="catalunya">Cataluña</option>
+                <option value="ceuta">Ceuta</option>
+                <option value="comunidad-valenciana">Comunidad Valenciana</option>
+                <option value="extremadura">Extremadura</option>
+                <option value="galicia">Galicia</option>
+                <option value="la-rioja">La Rioja</option>
+                <option value="madrid">Comunidad de Madrid</option>
+                <option value="melilla">Melilla</option>
+                <option value="murcia">Región de Murcia</option>
+                <option value="navarra">Comunidad Foral de Navarra</option>
+                <option value="pais-vasco">País Vasco</option>
+              </select>
+            </div>
+
+            <div class="pure-control-group">
+              <label for="age">Edad</label>
+              <select name="age">
+                <option value="de 16 a 19 años">de 16 a 19 años</option>
+                <option value="de 20 a 24 años">de 20 a 24 año</option>
+                <option value="de 25 a 29 años">de 25 a 29 año</option>
+                <option value="de 30 a 34 años">de 30 a 34 año</option>
+                <option value="de 35 a 39 años">de 35 a 39 año</option>
+                <option value="de 40 a 44 años">de 40 a 44 año</option>
+                <option value="de 45 a 49 años">de 45 a 49 año</option>
+                <option value="de 50 a 54 años">de 50 a 54 año</option>
+                <option value="de 55 a 59 años">de 55 a 59 año</option>
+                <option value="de 60 a 64 años">de 60 a 64 año</option>
+                <option value="65 o más años">65 o más años</option>
+              </select>
+            </div>
+
+            <div class="pure-control-group">
+              <label for="sex">Sexo</label>
+              <select name="sex">
+                <option value="">-- Selecciona tu sexo --</option>
+                <option value="m">Mujer</option>
+                <option value="h">Hombre</option>
+              </select>
+            </div>
+
+            <div class="pure-controls">
+              <button type="submit" class="pure-button pure-button-primary">¡Empezar!</button>
+            </div>
+          </fieldset>
+        </form>
+      </div>
+    </div>
+
+    <div id="bolitas_n1">
+      <!-- 			<a href="#" id="ocupados">Ocupado</a> -->
+    </div>
+    <div id="bolitas_n2">
+      <a href="#" id="asal_indef">Indefinido</a>
+    </div>
+
+    <div id="streams">
+      <div id="stream-label">
+      </div>
+      <div id="stream-viz">
+      </div>
+    </div>
+
+    <div id="streamgraph">
+    </div>
+
+    <!-- Scripts -->
+    <!-- <script src="assets/js/stream.js"></script> -->
+    <script src="assets/js/bolitas.js"></script>
+    <script src="assets/js/main.js"></script>
+    <!-- <script src="assets/js/b2b_bars.js"></script> -->
+  </body>
+</html>

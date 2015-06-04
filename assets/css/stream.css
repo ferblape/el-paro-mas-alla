@@ -1,0 +1,9 @@
+#streams .axis line {
+    stroke: #000;
+    fill:none;
+}
+
+
+.axis path {
+    display: none;
+}
