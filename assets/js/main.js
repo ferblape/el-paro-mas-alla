@@ -28,4 +28,6 @@ $(function(){
       Lines(session);
     });
   });
+
+  $('form').submit();
 });
