@@ -1,20 +1,5 @@
 "use strict";
 
-var Session = window.Session = function() {
-  var self = {},
-      db = {};
-
-  self.set = function(attrName, value) {
-    db[attrName] = value;
-  }
-
-  self.toJSON = function(){
-    return db;
-  }
-
-  return self;
-}
-
 $(function(){
   var dataConfiguration = {
     workers: 1000
@@ -39,7 +24,7 @@ $(function(){
 
       $('header').html(html).fadeIn('slow');
 
-      Balls();
+      Balls(session);
     });
   });
 });

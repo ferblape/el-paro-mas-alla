@@ -1,4 +1,4 @@
-var Balls = function(){
+var Balls = function(session){
   var format = d3.time.format("%Y").parse;
 
   var margin = { top: 20, right: 10, bottom: 20, left: 10 },
@@ -55,10 +55,11 @@ var Balls = function(){
   d3.csv("assets/data/df_per.csv", function(error, data) {
     data = data
             .filter(function(d) { return d.year == "2015"; })
-            .filter(function(d) { return d.ccaa == "Andalucía"; })
-            .filter(function(d) { return d.edad == "de 30 a 34 años"; });
-    
+            .filter(function(d) { return d.ccaa == session.get('autonomousRegionText'); })
+            .filter(function(d) { return d.edad == session.get('age'); });
+
     var n1 = ["ocupados", "parados", "inactivos"];
+
     var data_n1 = data.filter(function(d) { return n1.indexOf(d.situation) != -1; });
 
     data_n1.forEach(function(d) {
