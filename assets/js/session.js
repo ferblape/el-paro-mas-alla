@@ -1,17 +1,17 @@
 var Session = window.Session = function() {
   var self = {},
-      db = {};
+      storage = {};
 
   self.set = function(attrName, value) {
-    db[attrName] = value;
+    storage[attrName] = value;
   }
 
   self.get = function(attrName){
-    return db[attrName];
+    return storage[attrName];
   }
 
   self.toJSON = function(){
-    return db;
+    return storage;
   }
 
   return self;
