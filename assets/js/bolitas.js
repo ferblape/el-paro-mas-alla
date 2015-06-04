@@ -113,10 +113,6 @@ var Balls = function(session){
         domain([0,cols]).
         range([xScale(situation), xScale(situation) + xScale.rangeBand()]).
         clamp(true);
-      var yBarScale = d3.scale.linear().
-        domain([0,rows]).
-        range([height - 20, height - yScale(n_data.length)]).
-        clamp(true);
 
       svg3.selectAll('circle.n3.' + situation)
         .data(n_data)
@@ -131,7 +127,7 @@ var Balls = function(session){
           .duration(2000)
           .delay(function(d,i) { return 7*i; })
           .attr("cx", function(d,i){return xBarScale(i%cols);})
-          .attr("cy", function(d,i){return yBarScale(Math.floor(i/cols));})
+          .attr("cy", function(d,i){return height - 20 - Math.floor(i/cols)*12;})
           .attr('fill', color(situation));
     });
   }
@@ -188,11 +184,6 @@ var Balls = function(session){
         range([xScale(situation), xScale(situation) + xScale.rangeBand()]).
         clamp(true);
 
-      var yBarScale = d3.scale.linear().
-        domain([0,rows]).
-        range([height - 20, height - yScale(n_data.length)]).
-        clamp(true);
-
       svg2.selectAll('circle.n2.' + situation)
         .data(n_data)
         .enter()
@@ -206,7 +197,7 @@ var Balls = function(session){
           .duration(2000)
           .delay(function(d,i) { return 7*i; })
           .attr("cx", function(d,i){return xBarScale(i%cols);})
-          .attr("cy", function(d,i){return yBarScale(Math.floor(i/cols));})
+          .attr("cy", function(d,i){return height - 20 - Math.floor(i/cols)*12;})
           .attr('fill', color(situation));
     });
 
@@ -262,7 +253,6 @@ var Balls = function(session){
       var rows = n_data.length/cols;
 
       var xBarScale = d3.scale.linear().domain([0,cols]).range([xScale(situation),xScale(situation) + xScale.rangeBand()]).clamp(true);
-      var yBarScale = d3.scale.linear().domain([0,rows]).range([height - 20, height - yScale(n_data.length)]).clamp(true);
 
       svg1.selectAll('circle.n1.' + situation)
           .data(n_data)
@@ -277,7 +267,7 @@ var Balls = function(session){
           .duration(2000)
           .delay(function(d,i) { return 5*i; })
           .attr("cx", function(d,i){return xBarScale(i%cols);})
-          .attr("cy", function(d,i){return yBarScale(Math.floor(i/cols));})
+          .attr("cy", function(d,i){return height - 20 - Math.floor(i/cols)*12;})
     });
 
     d3.selectAll(".n1").
