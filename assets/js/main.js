@@ -25,6 +25,7 @@ $(function(){
       $('header').html(html).fadeIn('slow');
 
       Balls(session);
+      Lines(session);
     });
   });
 });
