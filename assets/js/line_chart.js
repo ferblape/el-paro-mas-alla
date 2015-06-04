@@ -1,7 +1,7 @@
 var Lines = function(session){
 
-  var margin = {top: 80, right: 140, bottom: 70, left: 60},
-    width = 950 - margin.left - margin.right,
+  var margin = {top: 80, right: 270, bottom: 70, left: 60},
+    width = 1200 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
   var parseDate = d3.time.format("%Y").parse;
@@ -13,8 +13,12 @@ var Lines = function(session){
       .range([height, 0]);
 
   var color = d3.scale.ordinal()
-              .range(["#BD2D28", "#E3BA22", "#708259", "#E6842A", "#137B80", "#8E6C8A", "#b9c1ab"])
-              .domain(["parados", "inactivos", "ocupados", "activos", "asalariados", "c_propia", "asal_temp", "asal_temp_parc", "asal_temp_parc_inv", "asal_temp_comp", "asal_indef", "asal_indef_parc", "asal_indef_parc_inv", "asal_indef_comp", "para_b_4mas_a", "para_b_2a4a", "para_b_1a2a", "para_b_6ma1a", "para_b_menos6m", "inac_desanim"]);
+              .range(["#708259", "#3EB79E", "#3EA889", "#C8E99C", "#C8E99C", "#C8E99C", "#A4BF81", "#C8E99C", "#C8E99C", "#3F9975", "#BD2D28", "#BD2D28", "#BD2D28", "#BD2D28", "#BD2D28", "#BD2D28", "#E3BA22", "#E3BA22"])
+              .domain(["ocupados", "c_propia", "asal_indef", "asal_indef_parc", "asal_indef_parc_inv", "asal_indef_comp", "asal_temp", "asal_temp_parc", "asal_temp_parc_inv", "asal_temp_comp", "parados", "para_b_4mas_a", "para_b_2a4a", "para_b_1a2a", "para_b_6ma1a", "para_b_menos6m", "inactivos", "inac_desanim"]);
+
+// #3EB79E,#3EA889,#3F9975,#3F8A62,#3F7B52,#3D6D42,#3A5E35,#365029,#31431F
+
+
 
   var xAxis = d3.svg.axis()
       .scale(x)
@@ -43,7 +47,28 @@ var Lines = function(session){
     inactivos:  ["inactivos", "inac_desanim", "inactivos"],
   };
 
-  d3.csv("assets/data/df_per.csv", function(error, rawData) {
+  var niceCategory = {
+    ocupados: "Ocupados",
+    c_propia: "Cuenta propia",
+    asal_temp: "Contrato temporal",
+    asal_indef: "Contrato indefinido",
+    asal_temp_parc: "Jornada parcial",
+    asal_temp_parc_inv: "Jornada parcial involuntaria",
+    asal_temp_comp: "Jornada completa",
+    asal_indef_parc: "Jornada parcial",
+    asal_indef_parc_inv: "Jornada parcial involuntaria",
+    asal_indef_comp: "Jornada completa",
+    parados: "Parados",
+    para_b_4mas_a: "4 años o más",
+    para_b_2a4a: "de 2 a 4 años",
+    para_b_1a2a: "de 1 a 2 años",
+    para_b_6ma1a: "de 6 meses a 1 año",
+    para_b_menos6m: "menos de 6 meses",
+    inactivos: "Inactivos",
+    inac_desanim: "Inactivos desanimados"
+  }
+
+  d3.csv("assets/data/df_agrupado.csv", function(error, rawData) {
 
     // Format the data
     rawData.forEach(function(d) {
@@ -58,11 +83,11 @@ var Lines = function(session){
     x.domain(d3.extent(rawData, function(d) { return d.year; }));
     y.domain([0, 1]);
    
-
+    var fuera = ["total", "asalariados", "activos"]
     data = rawData
               .filter(function(d) { return d.edad == session.get('age'); })
               .filter(function(d) { return d.sexo == session.get('sex'); })
-              .filter(function(d) { return d.situation != "total"; });
+              .filter(function(d) { return fuera.indexOf(d.situation) == -1});
 
     data.sort(function(a,b){
       return a.year - b.year
@@ -82,6 +107,7 @@ var Lines = function(session){
                         .key(function(d) { return d.situation; })
                         .entries(data_esp);
 
+    console.log(nested_data_esp)
 
     // Draw the axis  
     svgLines.append("g")
@@ -146,6 +172,84 @@ var Lines = function(session){
       .style("stroke", function(d) { return d3.rgb(color(d.key)).darker(.5); })
       .style("stroke-width", 2)
       .style("stroke-dasharray", ("8,8"));
+
+
+  // Add the legend.
+
+  var legendScale = d3.scale.ordinal()
+                      .rangeBands([-margin.top, height + margin.top], 0.1)
+                      .domain(color.domain()); 
+
+  var legend = svgLines.selectAll(".legend")
+      .data(nested_data_ccaa)
+      .enter().append("g")
+      .attr('transform', 'translate(' + (width + 30) + ',' + 0 + ')')
+      .attr("class", "legend");
+
+  legend.append("rect")
+    .attr("id", function(d){ return d.key})
+    .attr("rx", 3)
+    .attr("ry", 3)
+    .attr("x", 0)
+    .attr("y", function(d,i) {return legendScale(d.key)})
+    .attr("width", 200)
+    .attr("height", legendScale.rangeBand())
+    .attr("class", "legend")
+    .attr('text-anchor', "middle")
+    .style("fill", function(d) {return color(d.key)})
+    .style("stroke", function(d) { return d3.hsl(color(d.key)).darker(1.2); })
+    .style("stroke-width", function(d) {
+        if (d.key === "parados" || d.key === "ocupados" || d.key === "inactivos") {
+          return 3;
+        } else {
+          return 0;
+        }
+       })
+    .on("click", function(d){
+        // Determine if current line is visible 
+        var active   = d.active ? false : true; 
+        var newOpacity = active ? 1 : 0;
+        var newStroke = active ? 3 : 0;
+        // Hide or show the elements based on the ID
+        d3.selectAll("#"+d.key+".line")
+            .transition().duration(200)
+            .style("opacity", newOpacity);
+        legend.selectAll("#"+d.key)
+            .transition().duration(200)
+            .style("stroke-width", newStroke);
+        // Update whether or not the elements are active
+        d.active = active;
+        console.log(d.active)
+    });             
+               
+
+  legend.append("text")
+    // .filter(function(d) {return d.name !== "CAD-Europa";})
+    .attr("x", 100)
+    .attr("y", function(d,i) {return legendScale(d.key)+(legendScale.rangeBand()/2)})
+    .attr("class", "legend")
+    .attr("fill", "white")
+    .attr("text-anchor", "middle")
+    .attr("dy", ".3em")
+    // .attr('vertical-align', 'middle')
+
+    .text(function(d) {return niceCategory[d.key]})
+    .on("click", function(d){
+        // Determine if current line is visible 
+        var active   = d.active ? false : true; 
+        var newOpacity = active ? 1 : 0;
+        var newStroke = active ? 3 : 0;
+
+        // Hide or show the elements based on the ID
+        d3.selectAll("#"+d.key+".line")
+            .transition().duration(200)
+            .style("opacity", newOpacity);
+        legend.selectAll("#"+d.key)
+            .transition().duration(200)
+            .style("stroke-width", newStroke);
+        // Update whether or not the elements are active
+        d.active = active;
+    }); 
 
   });
 }
