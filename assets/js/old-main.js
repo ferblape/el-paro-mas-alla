@@ -10,6 +10,11 @@ $(function(){
 
   var session = new Session();
 
+  $('.tooltip').tooltipster({
+    theme: 'tooltipster-light',
+    trigger: 'click'
+  });
+
   $('a.tofive').on('click', function(e){
     $('#five').children().each(function(){
       $(this).show();

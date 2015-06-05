@@ -15,7 +15,7 @@ var Lines = function(session){
 
   var color = d3.scale.ordinal()
               .range(["#708259", "#3EB79E", "#3EA889", "#C8E99C", "#C8E99C", "#C8E99C", "#A4BF81", "#C8E99C", "#C8E99C", "#3F9975", "#BD2D28", "#BD2D28", "#BD2D28", "#BD2D28", "#BD2D28", "#BD2D28", "#E3BA22", "#E3BA22"])
-              .domain(["ocupados", "c_propia", "asal_indef", "asal_indef_parc", "asal_indef_parc_inv", "asal_indef_comp", "asal_temp", "asal_temp_parc", "asal_temp_parc_inv", "asal_temp_comp", "parados", "para_b_4mas_a", "para_b_2a4a", "para_b_1a2a", "para_b_6ma1a", "para_b_menos6m", "inactivos", "inac_desanim"]);
+              .domain(["ocupados", "c_propia", "asal_indef", "asal_temp", "asal_parc", "asal_parc_inv", "asal_comp", "parados", "para_b_4mas_a", "para_b_2a4a", "para_b_1a2a", "para_b_6ma1a", "para_b_menos6m", "inactivos", "inac_desanim"]);
 
 // #3EB79E,#3EA889,#3F9975,#3F8A62,#3F7B52,#3D6D42,#3A5E35,#365029,#31431F
 
@@ -69,7 +69,7 @@ var Lines = function(session){
     inac_desanim: "Inactivos desanimados"
   }
 
-  d3.csv("assets/data/df_agrupado.csv", function(error, rawData) {
+  d3.csv("assets/data/df_agrupado.csv?4", function(error, rawData) {
 
     // Format the data
     rawData.forEach(function(d) {
