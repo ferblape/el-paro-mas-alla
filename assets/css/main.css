@@ -1768,7 +1768,7 @@
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: #f7f7f7;
+		background: #ddd;
 		border-radius: 0.35em;
 		border: solid 2px transparent;
 		color: black;
@@ -1811,7 +1811,7 @@
 		}
 
 		.select-wrapper:before {
-			color: #dfdfdf;
+			color: #888;
 			content: '\f078';
 			display: block;
 			height: 2.75em;
