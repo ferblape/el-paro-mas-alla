@@ -1,14 +1,14 @@
 var Lines = function(session){
 
-  var margin = {top: 80, right: 220, bottom: 70, left: 40},
+  var margin = {top: 80, right: 200, bottom: 70, left: 40},
     //width = 1200 - margin.left - margin.right,
-    width = d3.select('#one').node().getBoundingClientRect().width - margin.left - margin.right,
+    width = d3.select('#one').node().getBoundingClientRect().width - margin.left,
     height = 600 - margin.top - margin.bottom;
 
   var parseDate = d3.time.format("%Y").parse;
 
   var x = d3.time.scale()
-      .range([0, width]);
+      .range([0, width-80]);
 
   var y = d3.scale.linear()
       .range([height, 0]);
@@ -49,12 +49,9 @@ var Lines = function(session){
     c_propia: "Cuenta propia",
     asal_temp: "Contrato temporal",
     asal_indef: "Contrato indefinido",
-    asal_temp_parc: "Jornada parcial",
-    asal_temp_parc_inv: "Jornada parcial involuntaria",
-    asal_temp_comp: "Jornada completa",
-    asal_indef_parc: "Jornada parcial",
-    asal_indef_parc_inv: "Jornada parcial involuntaria",
-    asal_indef_comp: "Jornada completa",
+    asal_parc: "J. parcial",
+    asal_parc_inv: "J. parcial involuntaria",
+    asal_comp: "J. completa",
     parados: "Parados",
     para_b_4mas_a: "4 años o más",
     para_b_2a4a: "de 2 a 4 años",
@@ -176,10 +173,14 @@ var Lines = function(session){
                       .rangeBands([-margin.top, height + margin.top], 0.1)
                       .domain(color.domain()); 
 
+  console.log(nested_data_ccaa);
+  console.log(legendScale.domain().length);
+  console.log(nested_data_ccaa.length);
+
   var legend = svgLines.selectAll(".legend")
       .data(nested_data_ccaa)
       .enter().append("g")
-      .attr('transform', 'translate(' + (width + 30) + ',' + 0 + ')')
+      .attr('transform', 'translate(' + (width-20) + ',' + 0 + ')')
       .attr("class", "legend");
 
   legend.append("rect")
@@ -188,7 +189,7 @@ var Lines = function(session){
     .attr("ry", 3)
     .attr("x", 0)
     .attr("y", function(d,i) {return legendScale(d.key)})
-    .attr("width", 200)
+    .attr("width", 150)
     .attr("height", legendScale.rangeBand())
     .attr("class", "legend")
     .attr('text-anchor', "middle")
@@ -220,12 +221,13 @@ var Lines = function(session){
 
   legend.append("text")
     // .filter(function(d) {return d.name !== "CAD-Europa";})
-    .attr("x", 100)
+    .attr("x", 75)
     .attr("y", function(d,i) {return legendScale(d.key)+(legendScale.rangeBand()/2)})
     .attr("class", "legend")
     .attr("fill", "white")
     .attr("text-anchor", "middle")
     .attr("dy", ".3em")
+    .style("font-size", "70%")
     // .attr('vertical-align', 'middle')
 
     .text(function(d) {return niceCategory[d.key]})
