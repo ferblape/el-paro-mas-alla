@@ -19,7 +19,7 @@ $(function(){
     $($(this).attr('href')).show();
 
     $('html, body').animate({
-      scrollTop: $($(this).attr('href')).offset().top
+      scrollTop: $($(this).attr('href')).offset().top + 70
     }, 200);
   });
 
@@ -60,9 +60,9 @@ $(function(){
         var sentences = [
           '¡Vaya, por poco!',
           'Ohhhh, ¡eres un poco pesimista!',
-          'Ohhhh, ¡eres muy pesimista!',
-          'Anda, te has quedado un poco lejos',
-          '¡Uyyyy, casi!'
+          'Anda, te has pasado de optimista',
+          '¡Uyyyy, casi!',
+          '¡La has clavado!'
         ];
 
         var results = {
