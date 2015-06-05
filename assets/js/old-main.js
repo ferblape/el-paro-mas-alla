@@ -54,7 +54,9 @@ $(function(){
             template = Handlebars.compile(source),
             html     = template(results);
 
-        $('#results').html(html).fadeIn();
+        $('#results').html(html).fadeIn(function(){
+          $('#results_graph').show();
+        });
       }, 3000);
     });
   });
