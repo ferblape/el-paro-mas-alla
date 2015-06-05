@@ -1,0 +1,3601 @@
+"year","ccaa","codigo","situation","count","porcentaje"
+2006,"Andalucía","1","activos",3591857,0.55
+2006,"Andalucía","1","asal_comp",2242676,0.87
+2006,"Andalucía","1","asal_indef",1387341,0.54
+2006,"Andalucía","1","asal_parc",167245,0.07
+2006,"Andalucía","1","asal_parc_inv",159435,0.06
+2006,"Andalucía","1","asal_temp",1182016,0.46
+2006,"Andalucía","1","asalariados",2569359,0.82
+2006,"Andalucía","1","c_propia",569146,0.18
+2006,"Andalucía","1","inac_desanim",76042,0.01
+2006,"Andalucía","1","inactivos",2880456,0.45
+2006,"Andalucía","1","ocupados",3138502,0.48
+2006,"Andalucía","1","para_b_1a2a",69287,0.15
+2006,"Andalucía","1","para_b_2a4a",37017,0.08
+2006,"Andalucía","1","para_b_4mas_a",41499,0.09
+2006,"Andalucía","1","para_b_6ma1a",64338,0.14
+2006,"Andalucía","1","para_b_menos6m",178580,0.39
+2006,"Andalucía","1","parados",453355,0.07
+2006,"Andalucía","1","total",6472316,1
+2006,"Aragón","2","activos",622083,0.57
+2006,"Aragón","2","asal_comp",420230,0.87
+2006,"Aragón","2","asal_indef",341523,0.71
+2006,"Aragón","2","asal_parc",43425,0.09
+2006,"Aragón","2","asal_parc_inv",19086,0.04
+2006,"Aragón","2","asal_temp",141212,0.29
+2006,"Aragón","2","asalariados",482736,0.82
+2006,"Aragón","2","c_propia",105000,0.18
+2006,"Aragón","2","inac_desanim",3992,0
+2006,"Aragón","2","inactivos",465612,0.43
+2006,"Aragón","2","ocupados",587740,0.54
+2006,"Aragón","2","para_b_1a2a",4560,0.13
+2006,"Aragón","2","para_b_2a4a",2708,0.08
+2006,"Aragón","2","para_b_4mas_a",1926,0.06
+2006,"Aragón","2","para_b_6ma1a",5645,0.16
+2006,"Aragón","2","para_b_menos6m",16635,0.48
+2006,"Aragón","2","parados",34346,0.03
+2006,"Aragón","2","total",1087695,1
+2006,"Asturias (Principado de)","3","activos",470439,0.5
+2006,"Asturias (Principado de)","3","asal_comp",297117,0.89
+2006,"Asturias (Principado de)","3","asal_indef",230220,0.69
+2006,"Asturias (Principado de)","3","asal_parc",20468,0.06
+2006,"Asturias (Principado de)","3","asal_parc_inv",15365,0.05
+2006,"Asturias (Principado de)","3","asal_temp",102732,0.31
+2006,"Asturias (Principado de)","3","asalariados",332947,0.78
+2006,"Asturias (Principado de)","3","c_propia",94392,0.22
+2006,"Asturias (Principado de)","3","inac_desanim",5305,0.01
+2006,"Asturias (Principado de)","3","inactivos",470389,0.5
+2006,"Asturias (Principado de)","3","ocupados",427344,0.45
+2006,"Asturias (Principado de)","3","para_b_1a2a",7069,0.16
+2006,"Asturias (Principado de)","3","para_b_2a4a",4062,0.09
+2006,"Asturias (Principado de)","3","para_b_4mas_a",4827,0.11
+2006,"Asturias (Principado de)","3","para_b_6ma1a",7172,0.17
+2006,"Asturias (Principado de)","3","para_b_menos6m",14625,0.34
+2006,"Asturias (Principado de)","3","parados",43096,0.05
+2006,"Asturias (Principado de)","3","total",940828,1
+2006,"Balears (Illes)","4","activos",528868,0.64
+2006,"Balears (Illes)","4","asal_comp",359975,0.9
+2006,"Balears (Illes)","4","asal_indef",267119,0.66
+2006,"Balears (Illes)","4","asal_parc",30861,0.08
+2006,"Balears (Illes)","4","asal_parc_inv",11130,0.03
+2006,"Balears (Illes)","4","asal_temp",134844,0.34
+2006,"Balears (Illes)","4","asalariados",401967,0.81
+2006,"Balears (Illes)","4","c_propia",92824,0.19
+2006,"Balears (Illes)","4","inac_desanim",1417,0
+2006,"Balears (Illes)","4","inactivos",291734,0.36
+2006,"Balears (Illes)","4","ocupados",494788,0.6
+2006,"Balears (Illes)","4","para_b_1a2a",5789,0.17
+2006,"Balears (Illes)","4","para_b_2a4a",3016,0.09
+2006,"Balears (Illes)","4","para_b_4mas_a",1085,0.03
+2006,"Balears (Illes)","4","para_b_6ma1a",4980,0.15
+2006,"Balears (Illes)","4","para_b_menos6m",21186,0.62
+2006,"Balears (Illes)","4","parados",34082,0.04
+2006,"Balears (Illes)","4","total",820604,1
+2006,"Canarias","5","activos",972956,0.61
+2006,"Canarias","5","asal_comp",656353,0.89
+2006,"Canarias","5","asal_indef",448795,0.61
+2006,"Canarias","5","asal_parc",46194,0.06
+2006,"Canarias","5","asal_parc_inv",31939,0.04
+2006,"Canarias","5","asal_temp",285695,0.39
+2006,"Canarias","5","asalariados",734489,0.85
+2006,"Canarias","5","c_propia",125411,0.15
+2006,"Canarias","5","inac_desanim",10353,0.01
+2006,"Canarias","5","inactivos",619418,0.39
+2006,"Canarias","5","ocupados",859898,0.54
+2006,"Canarias","5","para_b_1a2a",15104,0.13
+2006,"Canarias","5","para_b_2a4a",8648,0.08
+2006,"Canarias","5","para_b_4mas_a",6446,0.06
+2006,"Canarias","5","para_b_6ma1a",18213,0.16
+2006,"Canarias","5","para_b_menos6m",49539,0.44
+2006,"Canarias","5","parados",113058,0.07
+2006,"Canarias","5","total",1592374,1
+2006,"Cantabria","6","activos",269198,0.56
+2006,"Cantabria","6","asal_comp",182004,0.89
+2006,"Cantabria","6","asal_indef",141430,0.69
+2006,"Cantabria","6","asal_parc",12509,0.06
+2006,"Cantabria","6","asal_parc_inv",9491,0.05
+2006,"Cantabria","6","asal_temp",62572,0.31
+2006,"Cantabria","6","asalariados",204004,0.81
+2006,"Cantabria","6","c_propia",47801,0.19
+2006,"Cantabria","6","inac_desanim",2477,0.01
+2006,"Cantabria","6","inactivos",215567,0.44
+2006,"Cantabria","6","ocupados",251803,0.52
+2006,"Cantabria","6","para_b_1a2a",4915,0.28
+2006,"Cantabria","6","para_b_2a4a",1774,0.1
+2006,"Cantabria","6","para_b_4mas_a",2912,0.17
+2006,"Cantabria","6","para_b_6ma1a",6528,0.38
+2006,"Cantabria","6","para_b_menos6m",15706,0.9
+2006,"Cantabria","6","parados",17395,0.04
+2006,"Cantabria","6","total",484767,1
+2006,"Castilla y León","7","activos",1143284,0.53
+2006,"Castilla y León","7","asal_comp",728143,0.89
+2006,"Castilla y León","7","asal_indef",577014,0.7
+2006,"Castilla y León","7","asal_parc",50463,0.06
+2006,"Castilla y León","7","asal_parc_inv",42441,0.05
+2006,"Castilla y León","7","asal_temp",244031,0.3
+2006,"Castilla y León","7","asalariados",821047,0.78
+2006,"Castilla y León","7","c_propia",229490,0.22
+2006,"Castilla y León","7","inac_desanim",14579,0.01
+2006,"Castilla y León","7","inactivos",1005925,0.47
+2006,"Castilla y León","7","ocupados",1050532,0.49
+2006,"Castilla y León","7","para_b_1a2a",16426,0.18
+2006,"Castilla y León","7","para_b_2a4a",8577,0.09
+2006,"Castilla y León","7","para_b_4mas_a",8167,0.09
+2006,"Castilla y León","7","para_b_6ma1a",15200,0.16
+2006,"Castilla y León","7","para_b_menos6m",41111,0.44
+2006,"Castilla y León","7","parados",92748,0.04
+2006,"Castilla y León","7","total",2149206,1
+2006,"Castilla-La Mancha","8","activos",888741,0.55
+2006,"Castilla-La Mancha","8","asal_comp",581574,0.9
+2006,"Castilla-La Mancha","8","asal_indef",414506,0.64
+2006,"Castilla-La Mancha","8","asal_parc",36532,0.06
+2006,"Castilla-La Mancha","8","asal_parc_inv",25565,0.04
+2006,"Castilla-La Mancha","8","asal_temp",229164,0.36
+2006,"Castilla-La Mancha","8","asalariados",643668,0.79
+2006,"Castilla-La Mancha","8","c_propia",166491,0.21
+2006,"Castilla-La Mancha","8","inac_desanim",11906,0.01
+2006,"Castilla-La Mancha","8","inactivos",713678,0.45
+2006,"Castilla-La Mancha","8","ocupados",810159,0.51
+2006,"Castilla-La Mancha","8","para_b_1a2a",12357,0.16
+2006,"Castilla-La Mancha","8","para_b_2a4a",6753,0.09
+2006,"Castilla-La Mancha","8","para_b_4mas_a",3552,0.05
+2006,"Castilla-La Mancha","8","para_b_6ma1a",12134,0.15
+2006,"Castilla-La Mancha","8","para_b_menos6m",33331,0.42
+2006,"Castilla-La Mancha","8","parados",78585,0.05
+2006,"Castilla-La Mancha","8","total",1602419,1
+2006,"Cataluña","9","activos",3729039,0.63
+2006,"Cataluña","9","asal_comp",2544353,0.88
+2006,"Cataluña","9","asal_indef",2126485,0.74
+2006,"Cataluña","9","asal_parc",258704,0.09
+2006,"Cataluña","9","asal_parc_inv",87586,0.03
+2006,"Cataluña","9","asal_temp",764156,0.26
+2006,"Cataluña","9","asalariados",2890645,0.83
+2006,"Cataluña","9","c_propia",596302,0.17
+2006,"Cataluña","9","inac_desanim",11766,0
+2006,"Cataluña","9","inactivos",2200032,0.37
+2006,"Cataluña","9","ocupados",3486939,0.59
+2006,"Cataluña","9","para_b_1a2a",37180,0.15
+2006,"Cataluña","9","para_b_2a4a",15164,0.06
+2006,"Cataluña","9","para_b_4mas_a",7803,0.03
+2006,"Cataluña","9","para_b_6ma1a",35975,0.15
+2006,"Cataluña","9","para_b_menos6m",103526,0.43
+2006,"Cataluña","9","parados",242099,0.04
+2006,"Cataluña","9","total",5929073,1
+2006,"Ceuta","18","activos",30603,0.54
+2006,"Ceuta","18","asal_comp",18728,0.91
+2006,"Ceuta","18","asal_indef",14087,0.68
+2006,"Ceuta","18","asal_parc",677,0.03
+2006,"Ceuta","18","asal_parc_inv",1272,0.06
+2006,"Ceuta","18","asal_temp",6590,0.32
+2006,"Ceuta","18","asalariados",20677,0.86
+2006,"Ceuta","18","c_propia",3352,0.14
+2006,"Ceuta","18","inac_desanim",950,0.02
+2006,"Ceuta","18","inactivos",26301,0.46
+2006,"Ceuta","18","ocupados",24026,0.42
+2006,"Ceuta","18","para_b_1a2a",1665,0.25
+2006,"Ceuta","18","para_b_2a4a",870,0.13
+2006,"Ceuta","18","para_b_4mas_a",762,0.12
+2006,"Ceuta","18","para_b_6ma1a",1350,0.21
+2006,"Ceuta","18","para_b_menos6m",1955,0.3
+2006,"Ceuta","18","parados",6577,0.12
+2006,"Ceuta","18","total",56905,1
+2006,"Comunidad Valenciana","10","activos",2361454,0.6
+2006,"Comunidad Valenciana","10","asal_comp",1543097,0.86
+2006,"Comunidad Valenciana","10","asal_indef",1135873,0.64
+2006,"Comunidad Valenciana","10","asal_parc",166445,0.09
+2006,"Comunidad Valenciana","10","asal_parc_inv",76691,0.04
+2006,"Comunidad Valenciana","10","asal_temp",650364,0.36
+2006,"Comunidad Valenciana","10","asalariados",1786235,0.83
+2006,"Comunidad Valenciana","10","c_propia",378417,0.17
+2006,"Comunidad Valenciana","10","inac_desanim",20080,0.01
+2006,"Comunidad Valenciana","10","inactivos",1605521,0.4
+2006,"Comunidad Valenciana","10","ocupados",2164651,0.55
+2006,"Comunidad Valenciana","10","para_b_1a2a",26015,0.13
+2006,"Comunidad Valenciana","10","para_b_2a4a",13795,0.07
+2006,"Comunidad Valenciana","10","para_b_4mas_a",10388,0.05
+2006,"Comunidad Valenciana","10","para_b_6ma1a",26768,0.14
+2006,"Comunidad Valenciana","10","para_b_menos6m",87988,0.45
+2006,"Comunidad Valenciana","10","parados",196804,0.05
+2006,"Comunidad Valenciana","10","total",3966976,1
+2006,"Extremadura","11","activos",460754,0.52
+2006,"Extremadura","11","asal_comp",271494,0.87
+2006,"Extremadura","11","asal_indef",179031,0.58
+2006,"Extremadura","11","asal_parc",18869,0.06
+2006,"Extremadura","11","asal_parc_inv",20736,0.07
+2006,"Extremadura","11","asal_temp",132068,0.42
+2006,"Extremadura","11","asalariados",311095,0.78
+2006,"Extremadura","11","c_propia",88317,0.22
+2006,"Extremadura","11","inac_desanim",15300,0.02
+2006,"Extremadura","11","inactivos",432120,0.48
+2006,"Extremadura","11","ocupados",399413,0.45
+2006,"Extremadura","11","para_b_1a2a",9898,0.16
+2006,"Extremadura","11","para_b_2a4a",6697,0.11
+2006,"Extremadura","11","para_b_4mas_a",5003,0.08
+2006,"Extremadura","11","para_b_6ma1a",8750,0.14
+2006,"Extremadura","11","para_b_menos6m",22326,0.36
+2006,"Extremadura","11","parados",61341,0.07
+2006,"Extremadura","11","total",892876,1
+2006,"Galicia","12","activos",1270948,0.53
+2006,"Galicia","12","asal_comp",792850,0.89
+2006,"Galicia","12","asal_indef",579613,0.65
+2006,"Galicia","12","asal_parc",54885,0.06
+2006,"Galicia","12","asal_parc_inv",39492,0.04
+2006,"Galicia","12","asal_temp",307611,0.35
+2006,"Galicia","12","asalariados",887222,0.76
+2006,"Galicia","12","c_propia",277646,0.24
+2006,"Galicia","12","inac_desanim",15655,0.01
+2006,"Galicia","12","inactivos",1109500,0.47
+2006,"Galicia","12","ocupados",1164867,0.49
+2006,"Galicia","12","para_b_1a2a",14277,0.13
+2006,"Galicia","12","para_b_2a4a",10795,0.1
+2006,"Galicia","12","para_b_4mas_a",10509,0.1
+2006,"Galicia","12","para_b_6ma1a",15594,0.15
+2006,"Galicia","12","para_b_menos6m",41504,0.39
+2006,"Galicia","12","parados",106078,0.04
+2006,"Galicia","12","total",2380445,1
+2006,"Madrid (Comunidad de)","13","activos",3227343,0.64
+2006,"Madrid (Comunidad de)","13","asal_comp",2366426,0.9
+2006,"Madrid (Comunidad de)","13","asal_indef",1877962,0.71
+2006,"Madrid (Comunidad de)","13","asal_parc",177858,0.07
+2006,"Madrid (Comunidad de)","13","asal_parc_inv",98985,0.04
+2006,"Madrid (Comunidad de)","13","asal_temp",765312,0.29
+2006,"Madrid (Comunidad de)","13","asalariados",2643270,0.87
+2006,"Madrid (Comunidad de)","13","c_propia",380651,0.13
+2006,"Madrid (Comunidad de)","13","inac_desanim",22751,0
+2006,"Madrid (Comunidad de)","13","inactivos",1793542,0.36
+2006,"Madrid (Comunidad de)","13","ocupados",3023923,0.6
+2006,"Madrid (Comunidad de)","13","para_b_1a2a",23705,0.12
+2006,"Madrid (Comunidad de)","13","para_b_2a4a",12358,0.06
+2006,"Madrid (Comunidad de)","13","para_b_4mas_a",12506,0.06
+2006,"Madrid (Comunidad de)","13","para_b_6ma1a",30449,0.15
+2006,"Madrid (Comunidad de)","13","para_b_menos6m",93154,0.46
+2006,"Madrid (Comunidad de)","13","parados",203423,0.04
+2006,"Madrid (Comunidad de)","13","total",5020883,1
+2006,"Melilla","19","activos",27431,0.54
+2006,"Melilla","19","asal_comp",16634,0.87
+2006,"Melilla","19","asal_indef",11914,0.63
+2006,"Melilla","19","asal_parc",1453,0.08
+2006,"Melilla","19","asal_parc_inv",957,0.05
+2006,"Melilla","19","asal_temp",7134,0.37
+2006,"Melilla","19","asalariados",19046,0.8
+2006,"Melilla","19","c_propia",4655,0.2
+2006,"Melilla","19","inac_desanim",883,0.02
+2006,"Melilla","19","inactivos",23264,0.46
+2006,"Melilla","19","ocupados",23702,0.47
+2006,"Melilla","19","para_b_1a2a",1162,0.31
+2006,"Melilla","19","para_b_2a4a",370,0.1
+2006,"Melilla","19","para_b_4mas_a",530,0.14
+2006,"Melilla","19","para_b_6ma1a",499,0.13
+2006,"Melilla","19","para_b_menos6m",1479,0.4
+2006,"Melilla","19","parados",3730,0.07
+2006,"Melilla","19","total",50698,1
+2006,"Murcia (Región de)","14","activos",658384,0.59
+2006,"Murcia (Región de)","14","asal_comp",441035,0.87
+2006,"Murcia (Región de)","14","asal_indef",291565,0.57
+2006,"Murcia (Región de)","14","asal_parc",44975,0.09
+2006,"Murcia (Región de)","14","asal_parc_inv",22295,0.04
+2006,"Murcia (Región de)","14","asal_temp",216739,0.43
+2006,"Murcia (Región de)","14","asalariados",508306,0.84
+2006,"Murcia (Región de)","14","c_propia",98209,0.16
+2006,"Murcia (Región de)","14","inac_desanim",3884,0
+2006,"Murcia (Región de)","14","inactivos",450860,0.41
+2006,"Murcia (Región de)","14","ocupados",606513,0.55
+2006,"Murcia (Región de)","14","para_b_1a2a",13472,0.26
+2006,"Murcia (Región de)","14","para_b_2a4a",6686,0.13
+2006,"Murcia (Región de)","14","para_b_4mas_a",4286,0.08
+2006,"Murcia (Región de)","14","para_b_6ma1a",12413,0.24
+2006,"Murcia (Región de)","14","para_b_menos6m",37529,0.72
+2006,"Murcia (Región de)","14","parados",51870,0.05
+2006,"Murcia (Región de)","14","total",1109246,1
+2006,"Nacional","0","activos",21779975,0.59
+2006,"Nacional","0","asal_comp",14434564,0.88
+2006,"Nacional","0","asal_indef",10825301,0.66
+2006,"Nacional","0","asal_parc",1236474,0.08
+2006,"Nacional","0","asal_parc_inv",719540,0.04
+2006,"Nacional","0","asal_temp",5565277,0.34
+2006,"Nacional","0","asalariados",16390578,0.82
+2006,"Nacional","0","c_propia",3548518,0.18
+2006,"Nacional","0","inac_desanim",229095,0.01
+2006,"Nacional","0","inactivos",15362852,0.41
+2006,"Nacional","0","ocupados",19939098,0.54
+2006,"Nacional","0","para_b_1a2a",261467,0.14
+2006,"Nacional","0","para_b_2a4a",139846,0.08
+2006,"Nacional","0","para_b_4mas_a",126457,0.07
+2006,"Nacional","0","para_b_6ma1a",264617,0.14
+2006,"Nacional","0","para_b_menos6m",763750,0.41
+2006,"Nacional","0","parados",1840882,0.05
+2006,"Nacional","0","total",37142831,1
+2006,"Navarra (Comunidad Foral de)","15","activos",302654,0.61
+2006,"Navarra (Comunidad Foral de)","15","asal_comp",194615,0.85
+2006,"Navarra (Comunidad Foral de)","15","asal_indef",158952,0.7
+2006,"Navarra (Comunidad Foral de)","15","asal_parc",22716,0.1
+2006,"Navarra (Comunidad Foral de)","15","asal_parc_inv",10894,0.05
+2006,"Navarra (Comunidad Foral de)","15","asal_temp",69269,0.3
+2006,"Navarra (Comunidad Foral de)","15","asalariados",228221,0.8
+2006,"Navarra (Comunidad Foral de)","15","c_propia",58190,0.2
+2006,"Navarra (Comunidad Foral de)","15","inac_desanim",2850,0.01
+2006,"Navarra (Comunidad Foral de)","15","inactivos",193670,0.39
+2006,"Navarra (Comunidad Foral de)","15","ocupados",286409,0.58
+2006,"Navarra (Comunidad Foral de)","15","para_b_1a2a",2068,0.13
+2006,"Navarra (Comunidad Foral de)","15","para_b_2a4a",1672,0.1
+2006,"Navarra (Comunidad Foral de)","15","para_b_4mas_a",759,0.05
+2006,"Navarra (Comunidad Foral de)","15","para_b_6ma1a",1627,0.1
+2006,"Navarra (Comunidad Foral de)","15","para_b_menos6m",10068,0.62
+2006,"Navarra (Comunidad Foral de)","15","parados",16244,0.03
+2006,"Navarra (Comunidad Foral de)","15","total",496321,1
+2006,"País Vasco","16","activos",1070153,0.58
+2006,"País Vasco","16","asal_comp",678087,0.86
+2006,"País Vasco","16","asal_indef",560296,0.71
+2006,"País Vasco","16","asal_parc",71265,0.09
+2006,"País Vasco","16","asal_parc_inv",41959,0.05
+2006,"País Vasco","16","asal_temp",231016,0.29
+2006,"País Vasco","16","asalariados",791311,0.8
+2006,"País Vasco","16","c_propia",202180,0.2
+2006,"País Vasco","16","inac_desanim",7752,0
+2006,"País Vasco","16","inactivos",761336,0.42
+2006,"País Vasco","16","ocupados",993489,0.54
+2006,"País Vasco","16","para_b_1a2a",12090,0.16
+2006,"País Vasco","16","para_b_2a4a",7025,0.09
+2006,"País Vasco","16","para_b_4mas_a",8958,0.12
+2006,"País Vasco","16","para_b_6ma1a",11567,0.15
+2006,"País Vasco","16","para_b_menos6m",29456,0.38
+2006,"País Vasco","16","parados",76664,0.04
+2006,"País Vasco","16","total",1831490,1
+2006,"Rioja (La)","17","activos",153788,0.6
+2006,"Rioja (La)","17","asal_comp",99182,0.87
+2006,"Rioja (La)","17","asal_indef",81585,0.71
+2006,"Rioja (La)","17","asal_parc",10928,0.1
+2006,"Rioja (La)","17","asal_parc_inv",4223,0.04
+2006,"Rioja (La)","17","asal_temp",32751,0.29
+2006,"Rioja (La)","17","asalariados",114336,0.79
+2006,"Rioja (La)","17","c_propia",30050,0.21
+2006,"Rioja (La)","17","inac_desanim",1154,0
+2006,"Rioja (La)","17","inactivos",103928,0.4
+2006,"Rioja (La)","17","ocupados",144382,0.56
+2006,"Rioja (La)","17","para_b_1a2a",1244,0.13
+2006,"Rioja (La)","17","para_b_2a4a",679,0.07
+2006,"Rioja (La)","17","para_b_4mas_a",703,0.07
+2006,"Rioja (La)","17","para_b_6ma1a",1824,0.19
+2006,"Rioja (La)","17","para_b_menos6m",4068,0.43
+2006,"Rioja (La)","17","parados",9401,0.04
+2006,"Rioja (La)","17","total",257712,1
+2007,"Andalucía","1","activos",3712158,0.56
+2007,"Andalucía","1","asal_comp",2339145,0.88
+2007,"Andalucía","1","asal_indef",1481942,0.56
+2007,"Andalucía","1","asal_parc",169633,0.06
+2007,"Andalucía","1","asal_parc_inv",155964,0.06
+2007,"Andalucía","1","asal_temp",1182796,0.44
+2007,"Andalucía","1","asalariados",2664740,0.82
+2007,"Andalucía","1","c_propia",573881,0.18
+2007,"Andalucía","1","inac_desanim",52569,0.01
+2007,"Andalucía","1","inactivos",2870159,0.44
+2007,"Andalucía","1","ocupados",3238621,0.49
+2007,"Andalucía","1","para_b_1a2a",61804,0.13
+2007,"Andalucía","1","para_b_2a4a",38116,0.08
+2007,"Andalucía","1","para_b_4mas_a",37062,0.08
+2007,"Andalucía","1","para_b_6ma1a",69830,0.15
+2007,"Andalucía","1","para_b_menos6m",197711,0.42
+2007,"Andalucía","1","parados",473540,0.07
+2007,"Andalucía","1","total",6582318,1
+2007,"Aragón","2","activos",658211,0.59
+2007,"Aragón","2","asal_comp",448774,0.88
+2007,"Aragón","2","asal_indef",367501,0.72
+2007,"Aragón","2","asal_parc",42956,0.08
+2007,"Aragón","2","asal_parc_inv",18845,0.04
+2007,"Aragón","2","asal_temp",143075,0.28
+2007,"Aragón","2","asalariados",510573,0.82
+2007,"Aragón","2","c_propia",112753,0.18
+2007,"Aragón","2","inac_desanim",3580,0
+2007,"Aragón","2","inactivos",449286,0.41
+2007,"Aragón","2","ocupados",623328,0.56
+2007,"Aragón","2","para_b_1a2a",3991,0.11
+2007,"Aragón","2","para_b_2a4a",2079,0.06
+2007,"Aragón","2","para_b_4mas_a",1515,0.04
+2007,"Aragón","2","para_b_6ma1a",4523,0.13
+2007,"Aragón","2","para_b_menos6m",15665,0.45
+2007,"Aragón","2","parados",34883,0.03
+2007,"Aragón","2","total",1107494,1
+2007,"Asturias (Principado de)","3","activos",476766,0.51
+2007,"Asturias (Principado de)","3","asal_comp",311282,0.9
+2007,"Asturias (Principado de)","3","asal_indef",244443,0.7
+2007,"Asturias (Principado de)","3","asal_parc",22363,0.06
+2007,"Asturias (Principado de)","3","asal_parc_inv",14144,0.04
+2007,"Asturias (Principado de)","3","asal_temp",103348,0.3
+2007,"Asturias (Principado de)","3","asalariados",347789,0.8
+2007,"Asturias (Principado de)","3","c_propia",88870,0.2
+2007,"Asturias (Principado de)","3","inac_desanim",5824,0.01
+2007,"Asturias (Principado de)","3","inactivos",466584,0.49
+2007,"Asturias (Principado de)","3","ocupados",436663,0.46
+2007,"Asturias (Principado de)","3","para_b_1a2a",4637,0.12
+2007,"Asturias (Principado de)","3","para_b_2a4a",5543,0.14
+2007,"Asturias (Principado de)","3","para_b_4mas_a",5092,0.13
+2007,"Asturias (Principado de)","3","para_b_6ma1a",6194,0.15
+2007,"Asturias (Principado de)","3","para_b_menos6m",13800,0.34
+2007,"Asturias (Principado de)","3","parados",40102,0.04
+2007,"Asturias (Principado de)","3","total",943351,1
+2007,"Balears (Illes)","4","activos",549046,0.64
+2007,"Balears (Illes)","4","asal_comp",374081,0.9
+2007,"Balears (Illes)","4","asal_indef",296331,0.71
+2007,"Balears (Illes)","4","asal_parc",31723,0.08
+2007,"Balears (Illes)","4","asal_parc_inv",12101,0.03
+2007,"Balears (Illes)","4","asal_temp",121566,0.29
+2007,"Balears (Illes)","4","asalariados",417898,0.82
+2007,"Balears (Illes)","4","c_propia",91809,0.18
+2007,"Balears (Illes)","4","inac_desanim",1482,0
+2007,"Balears (Illes)","4","inactivos",303548,0.36
+2007,"Balears (Illes)","4","ocupados",509707,0.6
+2007,"Balears (Illes)","4","para_b_1a2a",2627,0.07
+2007,"Balears (Illes)","4","para_b_2a4a",2136,0.05
+2007,"Balears (Illes)","4","para_b_4mas_a",774,0.02
+2007,"Balears (Illes)","4","para_b_6ma1a",4938,0.13
+2007,"Balears (Illes)","4","para_b_menos6m",19597,0.5
+2007,"Balears (Illes)","4","parados",39340,0.05
+2007,"Balears (Illes)","4","total",852594,1
+2007,"Canarias","5","activos",995185,0.61
+2007,"Canarias","5","asal_comp",693672,0.9
+2007,"Canarias","5","asal_indef",479667,0.62
+2007,"Canarias","5","asal_parc",43652,0.06
+2007,"Canarias","5","asal_parc_inv",32193,0.04
+2007,"Canarias","5","asal_temp",289847,0.38
+2007,"Canarias","5","asalariados",769515,0.86
+2007,"Canarias","5","c_propia",121636,0.14
+2007,"Canarias","5","inac_desanim",5941,0
+2007,"Canarias","5","inactivos",638156,0.39
+2007,"Canarias","5","ocupados",891146,0.55
+2007,"Canarias","5","para_b_1a2a",15136,0.15
+2007,"Canarias","5","para_b_2a4a",8060,0.08
+2007,"Canarias","5","para_b_4mas_a",6534,0.06
+2007,"Canarias","5","para_b_6ma1a",16106,0.15
+2007,"Canarias","5","para_b_menos6m",42453,0.41
+2007,"Canarias","5","parados",104037,0.06
+2007,"Canarias","5","total",1633340,1
+2007,"Cantabria","6","activos",278184,0.57
+2007,"Cantabria","6","asal_comp",189614,0.9
+2007,"Cantabria","6","asal_indef",150108,0.71
+2007,"Cantabria","6","asal_parc",12378,0.06
+2007,"Cantabria","6","asal_parc_inv",8732,0.04
+2007,"Cantabria","6","asal_temp",60615,0.29
+2007,"Cantabria","6","asalariados",210725,0.81
+2007,"Cantabria","6","c_propia",50886,0.19
+2007,"Cantabria","6","inac_desanim",2464,0.01
+2007,"Cantabria","6","inactivos",213015,0.43
+2007,"Cantabria","6","ocupados",261610,0.53
+2007,"Cantabria","6","para_b_1a2a",1830,0.11
+2007,"Cantabria","6","para_b_2a4a",1387,0.08
+2007,"Cantabria","6","para_b_4mas_a",1582,0.1
+2007,"Cantabria","6","para_b_6ma1a",2401,0.14
+2007,"Cantabria","6","para_b_menos6m",8296,0.5
+2007,"Cantabria","6","parados",16572,0.03
+2007,"Cantabria","6","total",491197,1
+2007,"Castilla y León","7","activos",1165226,0.54
+2007,"Castilla y León","7","asal_comp",744548,0.88
+2007,"Castilla y León","7","asal_indef",611693,0.73
+2007,"Castilla y León","7","asal_parc",57062,0.07
+2007,"Castilla y León","7","asal_parc_inv",41411,0.05
+2007,"Castilla y León","7","asal_temp",231329,0.27
+2007,"Castilla y León","7","asalariados",843022,0.78
+2007,"Castilla y León","7","c_propia",239127,0.22
+2007,"Castilla y León","7","inac_desanim",12438,0.01
+2007,"Castilla y León","7","inactivos",1003337,0.46
+2007,"Castilla y León","7","ocupados",1082150,0.5
+2007,"Castilla y León","7","para_b_1a2a",13460,0.16
+2007,"Castilla y León","7","para_b_2a4a",8870,0.11
+2007,"Castilla y León","7","para_b_4mas_a",7062,0.09
+2007,"Castilla y León","7","para_b_6ma1a",15591,0.19
+2007,"Castilla y León","7","para_b_menos6m",46192,0.56
+2007,"Castilla y León","7","parados",83078,0.04
+2007,"Castilla y León","7","total",2168565,1
+2007,"Castilla-La Mancha","8","activos",936826,0.57
+2007,"Castilla-La Mancha","8","asal_comp",613685,0.89
+2007,"Castilla-La Mancha","8","asal_indef",452149,0.66
+2007,"Castilla-La Mancha","8","asal_parc",46692,0.07
+2007,"Castilla-La Mancha","8","asal_parc_inv",28628,0.04
+2007,"Castilla-La Mancha","8","asal_temp",236855,0.34
+2007,"Castilla-La Mancha","8","asalariados",689009,0.8
+2007,"Castilla-La Mancha","8","c_propia",176032,0.2
+2007,"Castilla-La Mancha","8","inac_desanim",11100,0.01
+2007,"Castilla-La Mancha","8","inactivos",716568,0.43
+2007,"Castilla-La Mancha","8","ocupados",865039,0.52
+2007,"Castilla-La Mancha","8","para_b_1a2a",9763,0.14
+2007,"Castilla-La Mancha","8","para_b_2a4a",5776,0.08
+2007,"Castilla-La Mancha","8","para_b_4mas_a",3966,0.06
+2007,"Castilla-La Mancha","8","para_b_6ma1a",10584,0.15
+2007,"Castilla-La Mancha","8","para_b_menos6m",34480,0.48
+2007,"Castilla-La Mancha","8","parados",71788,0.04
+2007,"Castilla-La Mancha","8","total",1653397,1
+2007,"Cataluña","9","activos",3824113,0.63
+2007,"Cataluña","9","asal_comp",2627493,0.88
+2007,"Cataluña","9","asal_indef",2284218,0.76
+2007,"Cataluña","9","asal_parc",271794,0.09
+2007,"Cataluña","9","asal_parc_inv",95981,0.03
+2007,"Cataluña","9","asal_temp",711050,0.24
+2007,"Cataluña","9","asalariados",2995269,0.84
+2007,"Cataluña","9","c_propia",581314,0.16
+2007,"Cataluña","9","inac_desanim",11306,0
+2007,"Cataluña","9","inactivos",2218693,0.37
+2007,"Cataluña","9","ocupados",3576583,0.59
+2007,"Cataluña","9","para_b_1a2a",37728,0.15
+2007,"Cataluña","9","para_b_2a4a",14842,0.06
+2007,"Cataluña","9","para_b_4mas_a",9922,0.04
+2007,"Cataluña","9","para_b_6ma1a",33630,0.14
+2007,"Cataluña","9","para_b_menos6m",108728,0.44
+2007,"Cataluña","9","parados",247528,0.04
+2007,"Cataluña","9","total",6042806,1
+2007,"Ceuta","18","activos",30975,0.54
+2007,"Ceuta","18","asal_comp",20046,0.91
+2007,"Ceuta","18","asal_indef",14721,0.67
+2007,"Ceuta","18","asal_parc",759,0.03
+2007,"Ceuta","18","asal_parc_inv",1117,0.05
+2007,"Ceuta","18","asal_temp",7201,0.33
+2007,"Ceuta","18","asalariados",21921,0.9
+2007,"Ceuta","18","c_propia",2551,0.1
+2007,"Ceuta","18","inac_desanim",461,0.01
+2007,"Ceuta","18","inactivos",26882,0.46
+2007,"Ceuta","18","ocupados",24470,0.42
+2007,"Ceuta","18","para_b_1a2a",1805,0.28
+2007,"Ceuta","18","para_b_2a4a",1330,0.2
+2007,"Ceuta","18","para_b_4mas_a",578,0.09
+2007,"Ceuta","18","para_b_6ma1a",910,0.14
+2007,"Ceuta","18","para_b_menos6m",1545,0.24
+2007,"Ceuta","18","parados",6501,0.11
+2007,"Ceuta","18","total",57853,1
+2007,"Comunidad Valenciana","10","activos",2443513,0.6
+2007,"Comunidad Valenciana","10","asal_comp",1585290,0.86
+2007,"Comunidad Valenciana","10","asal_indef",1209087,0.66
+2007,"Comunidad Valenciana","10","asal_parc",166084,0.09
+2007,"Comunidad Valenciana","10","asal_parc_inv",81825,0.04
+2007,"Comunidad Valenciana","10","asal_temp",624114,0.34
+2007,"Comunidad Valenciana","10","asalariados",1833202,0.82
+2007,"Comunidad Valenciana","10","c_propia",396834,0.18
+2007,"Comunidad Valenciana","10","inac_desanim",18758,0
+2007,"Comunidad Valenciana","10","inactivos",1628281,0.4
+2007,"Comunidad Valenciana","10","ocupados",2230037,0.55
+2007,"Comunidad Valenciana","10","para_b_1a2a",25271,0.12
+2007,"Comunidad Valenciana","10","para_b_2a4a",14252,0.07
+2007,"Comunidad Valenciana","10","para_b_4mas_a",6948,0.03
+2007,"Comunidad Valenciana","10","para_b_6ma1a",31820,0.15
+2007,"Comunidad Valenciana","10","para_b_menos6m",95238,0.45
+2007,"Comunidad Valenciana","10","parados",213479,0.05
+2007,"Comunidad Valenciana","10","total",4071794,1
+2007,"Extremadura","11","activos",476839,0.53
+2007,"Extremadura","11","asal_comp",283904,0.87
+2007,"Extremadura","11","asal_indef",192581,0.59
+2007,"Extremadura","11","asal_parc",18555,0.06
+2007,"Extremadura","11","asal_parc_inv",23268,0.07
+2007,"Extremadura","11","asal_temp",133149,0.41
+2007,"Extremadura","11","asalariados",325728,0.78
+2007,"Extremadura","11","c_propia",89214,0.22
+2007,"Extremadura","11","inac_desanim",11690,0.01
+2007,"Extremadura","11","inactivos",424570,0.47
+2007,"Extremadura","11","ocupados",414943,0.46
+2007,"Extremadura","11","para_b_1a2a",8684,0.14
+2007,"Extremadura","11","para_b_2a4a",5928,0.1
+2007,"Extremadura","11","para_b_4mas_a",5844,0.09
+2007,"Extremadura","11","para_b_6ma1a",8596,0.14
+2007,"Extremadura","11","para_b_menos6m",23430,0.38
+2007,"Extremadura","11","parados",61897,0.07
+2007,"Extremadura","11","total",901408,1
+2007,"Galicia","12","activos",1291045,0.54
+2007,"Galicia","12","asal_comp",831877,0.9
+2007,"Galicia","12","asal_indef",635168,0.69
+2007,"Galicia","12","asal_parc",53184,0.06
+2007,"Galicia","12","asal_parc_inv",36270,0.04
+2007,"Galicia","12","asal_temp",286164,0.31
+2007,"Galicia","12","asalariados",921331,0.77
+2007,"Galicia","12","c_propia",271947,0.23
+2007,"Galicia","12","inac_desanim",15399,0.01
+2007,"Galicia","12","inactivos",1100235,0.46
+2007,"Galicia","12","ocupados",1193279,0.5
+2007,"Galicia","12","para_b_1a2a",11494,0.12
+2007,"Galicia","12","para_b_2a4a",9929,0.1
+2007,"Galicia","12","para_b_4mas_a",9888,0.1
+2007,"Galicia","12","para_b_6ma1a",12675,0.13
+2007,"Galicia","12","para_b_menos6m",39308,0.4
+2007,"Galicia","12","parados",97767,0.04
+2007,"Galicia","12","total",2391276,1
+2007,"Madrid (Comunidad de)","13","activos",3334977,0.65
+2007,"Madrid (Comunidad de)","13","asal_comp",2420251,0.89
+2007,"Madrid (Comunidad de)","13","asal_indef",2031941,0.75
+2007,"Madrid (Comunidad de)","13","asal_parc",193521,0.07
+2007,"Madrid (Comunidad de)","13","asal_parc_inv",95384,0.04
+2007,"Madrid (Comunidad de)","13","asal_temp",677218,0.25
+2007,"Madrid (Comunidad de)","13","asalariados",2709155,0.87
+2007,"Madrid (Comunidad de)","13","c_propia",417625,0.13
+2007,"Madrid (Comunidad de)","13","inac_desanim",14806,0
+2007,"Madrid (Comunidad de)","13","inactivos",1799308,0.35
+2007,"Madrid (Comunidad de)","13","ocupados",3126780,0.61
+2007,"Madrid (Comunidad de)","13","para_b_1a2a",25672,0.12
+2007,"Madrid (Comunidad de)","13","para_b_2a4a",14468,0.07
+2007,"Madrid (Comunidad de)","13","para_b_4mas_a",11605,0.06
+2007,"Madrid (Comunidad de)","13","para_b_6ma1a",31612,0.15
+2007,"Madrid (Comunidad de)","13","para_b_menos6m",86332,0.41
+2007,"Madrid (Comunidad de)","13","parados",208194,0.04
+2007,"Madrid (Comunidad de)","13","total",5134281,1
+2007,"Melilla","19","activos",29220,0.56
+2007,"Melilla","19","asal_comp",19095,0.89
+2007,"Melilla","19","asal_indef",14241,0.66
+2007,"Melilla","19","asal_parc",953,0.04
+2007,"Melilla","19","asal_parc_inv",1378,0.06
+2007,"Melilla","19","asal_temp",7182,0.34
+2007,"Melilla","19","asalariados",21421,0.9
+2007,"Melilla","19","c_propia",2480,0.1
+2007,"Melilla","19","inac_desanim",574,0.01
+2007,"Melilla","19","inactivos",23143,0.44
+2007,"Melilla","19","ocupados",23902,0.46
+2007,"Melilla","19","para_b_1a2a",1252,0.24
+2007,"Melilla","19","para_b_2a4a",781,0.15
+2007,"Melilla","19","para_b_4mas_a",1431,0.27
+2007,"Melilla","19","para_b_6ma1a",782,0.15
+2007,"Melilla","19","para_b_menos6m",2157,0.41
+2007,"Melilla","19","parados",5320,0.1
+2007,"Melilla","19","total",52363,1
+2007,"Murcia (Región de)","14","activos",689753,0.61
+2007,"Murcia (Región de)","14","asal_comp",468482,0.89
+2007,"Murcia (Región de)","14","asal_indef",316853,0.6
+2007,"Murcia (Región de)","14","asal_parc",41750,0.08
+2007,"Murcia (Región de)","14","asal_parc_inv",18834,0.04
+2007,"Murcia (Región de)","14","asal_temp",212212,0.4
+2007,"Murcia (Región de)","14","asalariados",529065,0.83
+2007,"Murcia (Región de)","14","c_propia",108659,0.17
+2007,"Murcia (Región de)","14","inac_desanim",4512,0
+2007,"Murcia (Región de)","14","inactivos",448689,0.39
+2007,"Murcia (Región de)","14","ocupados",637725,0.56
+2007,"Murcia (Región de)","14","para_b_1a2a",6024,0.12
+2007,"Murcia (Región de)","14","para_b_2a4a",2277,0.04
+2007,"Murcia (Región de)","14","para_b_4mas_a",2347,0.05
+2007,"Murcia (Región de)","14","para_b_6ma1a",5952,0.11
+2007,"Murcia (Región de)","14","para_b_menos6m",24555,0.47
+2007,"Murcia (Región de)","14","parados",52027,0.05
+2007,"Murcia (Región de)","14","total",1138444,1
+2007,"Nacional","0","activos",22426078,0.59
+2007,"Nacional","0","asal_comp",14956851,0.88
+2007,"Nacional","0","asal_indef",11613916,0.68
+2007,"Nacional","0","asal_parc",1288111,0.08
+2007,"Nacional","0","asal_parc_inv",723102,0.04
+2007,"Nacional","0","asal_temp",5354150,0.32
+2007,"Nacional","0","asalariados",16968069,0.82
+2007,"Nacional","0","c_propia",3611870,0.18
+2007,"Nacional","0","inac_desanim",182414,0
+2007,"Nacional","0","inactivos",15407003,0.41
+2007,"Nacional","0","ocupados",20579937,0.54
+2007,"Nacional","0","para_b_1a2a",239221,0.13
+2007,"Nacional","0","para_b_2a4a",140640,0.08
+2007,"Nacional","0","para_b_4mas_a",115811,0.06
+2007,"Nacional","0","para_b_6ma1a",266356,0.14
+2007,"Nacional","0","para_b_menos6m",780494,0.42
+2007,"Nacional","0","parados",1846142,0.05
+2007,"Nacional","0","total",37833086,1
+2007,"Navarra (Comunidad Foral de)","15","activos",310101,0.61
+2007,"Navarra (Comunidad Foral de)","15","asal_comp",205211,0.86
+2007,"Navarra (Comunidad Foral de)","15","asal_indef",172337,0.72
+2007,"Navarra (Comunidad Foral de)","15","asal_parc",23333,0.1
+2007,"Navarra (Comunidad Foral de)","15","asal_parc_inv",10733,0.04
+2007,"Navarra (Comunidad Foral de)","15","asal_temp",66944,0.28
+2007,"Navarra (Comunidad Foral de)","15","asalariados",239275,0.81
+2007,"Navarra (Comunidad Foral de)","15","c_propia",56186,0.19
+2007,"Navarra (Comunidad Foral de)","15","inac_desanim",1808,0
+2007,"Navarra (Comunidad Foral de)","15","inactivos",196120,0.39
+2007,"Navarra (Comunidad Foral de)","15","ocupados",295462,0.58
+2007,"Navarra (Comunidad Foral de)","15","para_b_1a2a",2323,0.16
+2007,"Navarra (Comunidad Foral de)","15","para_b_2a4a",1305,0.09
+2007,"Navarra (Comunidad Foral de)","15","para_b_4mas_a",991,0.07
+2007,"Navarra (Comunidad Foral de)","15","para_b_6ma1a",3339,0.23
+2007,"Navarra (Comunidad Foral de)","15","para_b_menos6m",7931,0.54
+2007,"Navarra (Comunidad Foral de)","15","parados",14638,0.03
+2007,"Navarra (Comunidad Foral de)","15","total",506223,1
+2007,"País Vasco","16","activos",1067554,0.58
+2007,"País Vasco","16","asal_comp",679821,0.85
+2007,"País Vasco","16","asal_indef",571898,0.71
+2007,"País Vasco","16","asal_parc",80087,0.1
+2007,"País Vasco","16","asal_parc_inv",42210,0.05
+2007,"País Vasco","16","asal_temp",230220,0.29
+2007,"País Vasco","16","asalariados",802116,0.8
+2007,"País Vasco","16","c_propia",199008,0.2
+2007,"País Vasco","16","inac_desanim",6378,0
+2007,"País Vasco","16","inactivos",773559,0.42
+2007,"País Vasco","16","ocupados",1001126,0.54
+2007,"País Vasco","16","para_b_1a2a",10162,0.15
+2007,"País Vasco","16","para_b_2a4a",6278,0.09
+2007,"País Vasco","16","para_b_4mas_a",5007,0.08
+2007,"País Vasco","16","para_b_6ma1a",13179,0.2
+2007,"País Vasco","16","para_b_menos6m",28673,0.43
+2007,"País Vasco","16","parados",66427,0.04
+2007,"País Vasco","16","total",1841111,1
+2007,"Rioja (La)","17","activos",156385,0.59
+2007,"Rioja (La)","17","asal_comp",100578,0.86
+2007,"Rioja (La)","17","asal_indef",87043,0.75
+2007,"Rioja (La)","17","asal_parc",11628,0.1
+2007,"Rioja (La)","17","asal_parc_inv",4090,0.04
+2007,"Rioja (La)","17","asal_temp",29256,0.25
+2007,"Rioja (La)","17","asalariados",116299,0.79
+2007,"Rioja (La)","17","c_propia",31063,0.21
+2007,"Rioja (La)","17","inac_desanim",1313,0
+2007,"Rioja (La)","17","inactivos",106879,0.41
+2007,"Rioja (La)","17","ocupados",147361,0.56
+2007,"Rioja (La)","17","para_b_1a2a",1225,0.14
+2007,"Rioja (La)","17","para_b_2a4a",641,0.07
+2007,"Rioja (La)","17","para_b_4mas_a",407,0.05
+2007,"Rioja (La)","17","para_b_6ma1a",1086,0.12
+2007,"Rioja (La)","17","para_b_menos6m",4124,0.46
+2007,"Rioja (La)","17","parados",9023,0.03
+2007,"Rioja (La)","17","total",263266,1
+2008,"Andalucía","1","activos",3841945,0.58
+2008,"Andalucía","1","asal_comp",2258528,0.87
+2008,"Andalucía","1","asal_indef",1544665,0.6
+2008,"Andalucía","1","asal_parc",160631,0.06
+2008,"Andalucía","1","asal_parc_inv",174024,0.07
+2008,"Andalucía","1","asal_temp",1048517,0.4
+2008,"Andalucía","1","asalariados",2593182,0.82
+2008,"Andalucía","1","c_propia",567490,0.18
+2008,"Andalucía","1","inac_desanim",66244,0.01
+2008,"Andalucía","1","inactivos",2834469,0.42
+2008,"Andalucía","1","ocupados",3160673,0.47
+2008,"Andalucía","1","para_b_1a2a",91500,0.13
+2008,"Andalucía","1","para_b_2a4a",45353,0.07
+2008,"Andalucía","1","para_b_4mas_a",38900,0.06
+2008,"Andalucía","1","para_b_6ma1a",113433,0.17
+2008,"Andalucía","1","para_b_menos6m",308315,0.45
+2008,"Andalucía","1","parados",681276,0.1
+2008,"Andalucía","1","total",6676416,1
+2008,"Aragón","2","activos",674876,0.6
+2008,"Aragón","2","asal_comp",454121,0.89
+2008,"Aragón","2","asal_indef",379479,0.74
+2008,"Aragón","2","asal_parc",42065,0.08
+2008,"Aragón","2","asal_parc_inv",16930,0.03
+2008,"Aragón","2","asal_temp",133637,0.26
+2008,"Aragón","2","asalariados",513116,0.82
+2008,"Aragón","2","c_propia",112525,0.18
+2008,"Aragón","2","inac_desanim",4826,0
+2008,"Aragón","2","inactivos",450922,0.4
+2008,"Aragón","2","ocupados",625645,0.56
+2008,"Aragón","2","para_b_1a2a",6285,0.13
+2008,"Aragón","2","para_b_2a4a",2806,0.06
+2008,"Aragón","2","para_b_4mas_a",1085,0.02
+2008,"Aragón","2","para_b_6ma1a",8309,0.17
+2008,"Aragón","2","para_b_menos6m",33207,0.67
+2008,"Aragón","2","parados",49231,0.04
+2008,"Aragón","2","total",1125797,1
+2008,"Asturias (Principado de)","3","activos",498633,0.53
+2008,"Asturias (Principado de)","3","asal_comp",324945,0.89
+2008,"Asturias (Principado de)","3","asal_indef",263532,0.72
+2008,"Asturias (Principado de)","3","asal_parc",23112,0.06
+2008,"Asturias (Principado de)","3","asal_parc_inv",15450,0.04
+2008,"Asturias (Principado de)","3","asal_temp",99980,0.28
+2008,"Asturias (Principado de)","3","asalariados",363509,0.8
+2008,"Asturias (Principado de)","3","c_propia",92762,0.2
+2008,"Asturias (Principado de)","3","inac_desanim",5829,0.01
+2008,"Asturias (Principado de)","3","inactivos",448156,0.47
+2008,"Asturias (Principado de)","3","ocupados",456271,0.48
+2008,"Asturias (Principado de)","3","para_b_1a2a",5850,0.14
+2008,"Asturias (Principado de)","3","para_b_2a4a",4511,0.11
+2008,"Asturias (Principado de)","3","para_b_4mas_a",3896,0.09
+2008,"Asturias (Principado de)","3","para_b_6ma1a",7123,0.17
+2008,"Asturias (Principado de)","3","para_b_menos6m",17605,0.42
+2008,"Asturias (Principado de)","3","parados",42359,0.04
+2008,"Asturias (Principado de)","3","total",946790,1
+2008,"Balears (Illes)","4","activos",571588,0.65
+2008,"Balears (Illes)","4","asal_comp",372313,0.89
+2008,"Balears (Illes)","4","asal_indef",297392,0.71
+2008,"Balears (Illes)","4","asal_parc",28364,0.07
+2008,"Balears (Illes)","4","asal_parc_inv",16457,0.04
+2008,"Balears (Illes)","4","asal_temp",119748,0.29
+2008,"Balears (Illes)","4","asalariados",417142,0.81
+2008,"Balears (Illes)","4","c_propia",96355,0.19
+2008,"Balears (Illes)","4","inac_desanim",2108,0
+2008,"Balears (Illes)","4","inactivos",307875,0.35
+2008,"Balears (Illes)","4","ocupados",513494,0.58
+2008,"Balears (Illes)","4","para_b_1a2a",5248,0.09
+2008,"Balears (Illes)","4","para_b_2a4a",1548,0.03
+2008,"Balears (Illes)","4","para_b_4mas_a",1196,0.02
+2008,"Balears (Illes)","4","para_b_6ma1a",7141,0.12
+2008,"Balears (Illes)","4","para_b_menos6m",33460,0.58
+2008,"Balears (Illes)","4","parados",58091,0.07
+2008,"Balears (Illes)","4","total",879462,1
+2008,"Canarias","5","activos",1015001,0.61
+2008,"Canarias","5","asal_comp",655611,0.9
+2008,"Canarias","5","asal_indef",483104,0.66
+2008,"Canarias","5","asal_parc",38452,0.05
+2008,"Canarias","5","asal_parc_inv",34003,0.05
+2008,"Canarias","5","asal_temp",244965,0.34
+2008,"Canarias","5","asalariados",728072,0.87
+2008,"Canarias","5","c_propia",111858,0.13
+2008,"Canarias","5","inac_desanim",9042,0.01
+2008,"Canarias","5","inactivos",654912,0.39
+2008,"Canarias","5","ocupados",839926,0.5
+2008,"Canarias","5","para_b_1a2a",23697,0.14
+2008,"Canarias","5","para_b_2a4a",12699,0.07
+2008,"Canarias","5","para_b_4mas_a",7150,0.04
+2008,"Canarias","5","para_b_6ma1a",32287,0.18
+2008,"Canarias","5","para_b_menos6m",80830,0.46
+2008,"Canarias","5","parados",175078,0.1
+2008,"Canarias","5","total",1669910,1
+2008,"Cantabria","6","activos",284670,0.57
+2008,"Cantabria","6","asal_comp",190755,0.9
+2008,"Cantabria","6","asal_indef",154535,0.73
+2008,"Cantabria","6","asal_parc",12028,0.06
+2008,"Cantabria","6","asal_parc_inv",8867,0.04
+2008,"Cantabria","6","asal_temp",57116,0.27
+2008,"Cantabria","6","asalariados",211649,0.8
+2008,"Cantabria","6","c_propia",52632,0.2
+2008,"Cantabria","6","inac_desanim",2085,0
+2008,"Cantabria","6","inactivos",212561,0.43
+2008,"Cantabria","6","ocupados",264282,0.53
+2008,"Cantabria","6","para_b_1a2a",1647,0.08
+2008,"Cantabria","6","para_b_2a4a",1222,0.06
+2008,"Cantabria","6","para_b_4mas_a",741,0.04
+2008,"Cantabria","6","para_b_6ma1a",3651,0.18
+2008,"Cantabria","6","para_b_menos6m",9366,0.46
+2008,"Cantabria","6","parados",20390,0.04
+2008,"Cantabria","6","total",497230,1
+2008,"Castilla y León","7","activos",1189544,0.55
+2008,"Castilla y León","7","asal_comp",735620,0.88
+2008,"Castilla y León","7","asal_indef",616844,0.74
+2008,"Castilla y León","7","asal_parc",58801,0.07
+2008,"Castilla y León","7","asal_parc_inv",38562,0.05
+2008,"Castilla y León","7","asal_temp",216139,0.26
+2008,"Castilla y León","7","asalariados",832986,0.77
+2008,"Castilla y León","7","c_propia",242170,0.23
+2008,"Castilla y León","7","inac_desanim",15908,0.01
+2008,"Castilla y León","7","inactivos",989551,0.45
+2008,"Castilla y León","7","ocupados",1075152,0.49
+2008,"Castilla y León","7","para_b_1a2a",13889,0.12
+2008,"Castilla y León","7","para_b_2a4a",8628,0.08
+2008,"Castilla y León","7","para_b_4mas_a",6727,0.06
+2008,"Castilla y León","7","para_b_6ma1a",17051,0.15
+2008,"Castilla y León","7","para_b_menos6m",52352,0.46
+2008,"Castilla y León","7","parados",114391,0.05
+2008,"Castilla y León","7","total",2179097,1
+2008,"Castilla-La Mancha","8","activos",974874,0.58
+2008,"Castilla-La Mancha","8","asal_comp",605913,0.89
+2008,"Castilla-La Mancha","8","asal_indef",464618,0.68
+2008,"Castilla-La Mancha","8","asal_parc",48505,0.07
+2008,"Castilla-La Mancha","8","asal_parc_inv",27247,0.04
+2008,"Castilla-La Mancha","8","asal_temp",217044,0.32
+2008,"Castilla-La Mancha","8","asalariados",681663,0.79
+2008,"Castilla-La Mancha","8","c_propia",179406,0.21
+2008,"Castilla-La Mancha","8","inac_desanim",9940,0.01
+2008,"Castilla-La Mancha","8","inactivos",715876,0.42
+2008,"Castilla-La Mancha","8","ocupados",861070,0.51
+2008,"Castilla-La Mancha","8","para_b_1a2a",12948,0.11
+2008,"Castilla-La Mancha","8","para_b_2a4a",6100,0.05
+2008,"Castilla-La Mancha","8","para_b_4mas_a",3934,0.03
+2008,"Castilla-La Mancha","8","para_b_6ma1a",17267,0.15
+2008,"Castilla-La Mancha","8","para_b_menos6m",55704,0.49
+2008,"Castilla-La Mancha","8","parados",113805,0.07
+2008,"Castilla-La Mancha","8","total",1690749,1
+2008,"Cataluña","9","activos",3930911,0.64
+2008,"Cataluña","9","asal_comp",2619428,0.88
+2008,"Cataluña","9","asal_indef",2350808,0.79
+2008,"Cataluña","9","asal_parc",260748,0.09
+2008,"Cataluña","9","asal_parc_inv",108254,0.04
+2008,"Cataluña","9","asal_temp",637618,0.21
+2008,"Cataluña","9","asalariados",2988425,0.83
+2008,"Cataluña","9","c_propia",592914,0.17
+2008,"Cataluña","9","inac_desanim",11512,0
+2008,"Cataluña","9","inactivos",2210673,0.36
+2008,"Cataluña","9","ocupados",3581340,0.58
+2008,"Cataluña","9","para_b_1a2a",40682,0.12
+2008,"Cataluña","9","para_b_2a4a",16874,0.05
+2008,"Cataluña","9","para_b_4mas_a",9309,0.03
+2008,"Cataluña","9","para_b_6ma1a",56289,0.16
+2008,"Cataluña","9","para_b_menos6m",176971,0.51
+2008,"Cataluña","9","parados",349573,0.06
+2008,"Cataluña","9","total",6141586,1
+2008,"Ceuta","18","activos",33194,0.56
+2008,"Ceuta","18","asal_comp",20918,0.92
+2008,"Ceuta","18","asal_indef",14668,0.65
+2008,"Ceuta","18","asal_parc",669,0.03
+2008,"Ceuta","18","asal_parc_inv",1061,0.05
+2008,"Ceuta","18","asal_temp",7978,0.35
+2008,"Ceuta","18","asalariados",22647,0.83
+2008,"Ceuta","18","c_propia",4759,0.17
+2008,"Ceuta","18","inac_desanim",1006,0.02
+2008,"Ceuta","18","inactivos",25606,0.44
+2008,"Ceuta","18","ocupados",27407,0.47
+2008,"Ceuta","18","para_b_1a2a",1320,0.23
+2008,"Ceuta","18","para_b_2a4a",1431,0.25
+2008,"Ceuta","18","para_b_4mas_a",567,0.1
+2008,"Ceuta","18","para_b_6ma1a",1017,0.18
+2008,"Ceuta","18","para_b_menos6m",1553,0.27
+2008,"Ceuta","18","parados",5786,0.1
+2008,"Ceuta","18","total",58801,1
+2008,"Comunidad Valenciana","10","activos",2518951,0.61
+2008,"Comunidad Valenciana","10","asal_comp",1575352,0.86
+2008,"Comunidad Valenciana","10","asal_indef",1245940,0.68
+2008,"Comunidad Valenciana","10","asal_parc",153778,0.08
+2008,"Comunidad Valenciana","10","asal_parc_inv",95674,0.05
+2008,"Comunidad Valenciana","10","asal_temp",578865,0.32
+2008,"Comunidad Valenciana","10","asalariados",1824805,0.82
+2008,"Comunidad Valenciana","10","c_propia",392221,0.18
+2008,"Comunidad Valenciana","10","inac_desanim",23102,0.01
+2008,"Comunidad Valenciana","10","inactivos",1621924,0.39
+2008,"Comunidad Valenciana","10","ocupados",2217024,0.54
+2008,"Comunidad Valenciana","10","para_b_1a2a",36539,0.12
+2008,"Comunidad Valenciana","10","para_b_2a4a",13498,0.04
+2008,"Comunidad Valenciana","10","para_b_4mas_a",8449,0.03
+2008,"Comunidad Valenciana","10","para_b_6ma1a",42783,0.14
+2008,"Comunidad Valenciana","10","para_b_menos6m",152039,0.5
+2008,"Comunidad Valenciana","10","parados",301924,0.07
+2008,"Comunidad Valenciana","10","total",4140876,1
+2008,"Extremadura","11","activos",484864,0.53
+2008,"Extremadura","11","asal_comp",285935,0.88
+2008,"Extremadura","11","asal_indef",200723,0.62
+2008,"Extremadura","11","asal_parc",17994,0.06
+2008,"Extremadura","11","asal_parc_inv",20288,0.06
+2008,"Extremadura","11","asal_temp",123497,0.38
+2008,"Extremadura","11","asalariados",324216,0.79
+2008,"Extremadura","11","c_propia",86201,0.21
+2008,"Extremadura","11","inac_desanim",11432,0.01
+2008,"Extremadura","11","inactivos",423028,0.47
+2008,"Extremadura","11","ocupados",410417,0.45
+2008,"Extremadura","11","para_b_1a2a",9875,0.13
+2008,"Extremadura","11","para_b_2a4a",6585,0.09
+2008,"Extremadura","11","para_b_4mas_a",6297,0.08
+2008,"Extremadura","11","para_b_6ma1a",12036,0.16
+2008,"Extremadura","11","para_b_menos6m",29846,0.4
+2008,"Extremadura","11","parados",74446,0.08
+2008,"Extremadura","11","total",907891,1
+2008,"Galicia","12","activos",1314776,0.55
+2008,"Galicia","12","asal_comp",822289,0.89
+2008,"Galicia","12","asal_indef",641013,0.7
+2008,"Galicia","12","asal_parc",59702,0.06
+2008,"Galicia","12","asal_parc_inv",38939,0.04
+2008,"Galicia","12","asal_temp",279914,0.3
+2008,"Galicia","12","asalariados",920930,0.77
+2008,"Galicia","12","c_propia",280263,0.23
+2008,"Galicia","12","inac_desanim",18124,0.01
+2008,"Galicia","12","inactivos",1086312,0.45
+2008,"Galicia","12","ocupados",1201190,0.5
+2008,"Galicia","12","para_b_1a2a",15188,0.13
+2008,"Galicia","12","para_b_2a4a",8323,0.07
+2008,"Galicia","12","para_b_4mas_a",9325,0.08
+2008,"Galicia","12","para_b_6ma1a",14700,0.13
+2008,"Galicia","12","para_b_menos6m",48930,0.43
+2008,"Galicia","12","parados",113582,0.05
+2008,"Galicia","12","total",2401088,1
+2008,"Madrid (Comunidad de)","13","activos",3426718,0.66
+2008,"Madrid (Comunidad de)","13","asal_comp",2415400,0.88
+2008,"Madrid (Comunidad de)","13","asal_indef",2101114,0.77
+2008,"Madrid (Comunidad de)","13","asal_parc",200975,0.07
+2008,"Madrid (Comunidad de)","13","asal_parc_inv",114681,0.04
+2008,"Madrid (Comunidad de)","13","asal_temp",629940,0.23
+2008,"Madrid (Comunidad de)","13","asalariados",2731055,0.87
+2008,"Madrid (Comunidad de)","13","c_propia",400628,0.13
+2008,"Madrid (Comunidad de)","13","inac_desanim",16323,0
+2008,"Madrid (Comunidad de)","13","inactivos",1802848,0.34
+2008,"Madrid (Comunidad de)","13","ocupados",3131681,0.6
+2008,"Madrid (Comunidad de)","13","para_b_1a2a",32327,0.11
+2008,"Madrid (Comunidad de)","13","para_b_2a4a",15442,0.05
+2008,"Madrid (Comunidad de)","13","para_b_4mas_a",8641,0.03
+2008,"Madrid (Comunidad de)","13","para_b_6ma1a",53796,0.18
+2008,"Madrid (Comunidad de)","13","para_b_menos6m",137805,0.47
+2008,"Madrid (Comunidad de)","13","parados",295035,0.06
+2008,"Madrid (Comunidad de)","13","total",5229566,1
+2008,"Melilla","19","activos",29722,0.55
+2008,"Melilla","19","asal_comp",18839,0.91
+2008,"Melilla","19","asal_indef",13851,0.67
+2008,"Melilla","19","asal_parc",869,0.04
+2008,"Melilla","19","asal_parc_inv",1074,0.05
+2008,"Melilla","19","asal_temp",6929,0.33
+2008,"Melilla","19","asalariados",20783,0.87
+2008,"Melilla","19","c_propia",2997,0.13
+2008,"Melilla","19","inac_desanim",526,0.01
+2008,"Melilla","19","inactivos",24213,0.45
+2008,"Melilla","19","ocupados",23781,0.44
+2008,"Melilla","19","para_b_1a2a",1501,0.25
+2008,"Melilla","19","para_b_2a4a",1250,0.21
+2008,"Melilla","19","para_b_4mas_a",604,0.1
+2008,"Melilla","19","para_b_6ma1a",985,0.17
+2008,"Melilla","19","para_b_menos6m",1913,0.32
+2008,"Melilla","19","parados",5943,0.11
+2008,"Melilla","19","total",53936,1
+2008,"Murcia (Región de)","14","activos",714799,0.62
+2008,"Murcia (Región de)","14","asal_comp",458323,0.89
+2008,"Murcia (Región de)","14","asal_indef",327356,0.64
+2008,"Murcia (Región de)","14","asal_parc",36628,0.07
+2008,"Murcia (Región de)","14","asal_parc_inv",20410,0.04
+2008,"Murcia (Región de)","14","asal_temp",188008,0.36
+2008,"Murcia (Región de)","14","asalariados",515363,0.82
+2008,"Murcia (Región de)","14","c_propia",110534,0.18
+2008,"Murcia (Región de)","14","inac_desanim",6687,0.01
+2008,"Murcia (Región de)","14","inactivos",444069,0.38
+2008,"Murcia (Región de)","14","ocupados",625896,0.54
+2008,"Murcia (Región de)","14","para_b_1a2a",11139,0.13
+2008,"Murcia (Región de)","14","para_b_2a4a",4290,0.05
+2008,"Murcia (Región de)","14","para_b_4mas_a",2548,0.03
+2008,"Murcia (Región de)","14","para_b_6ma1a",13334,0.15
+2008,"Murcia (Región de)","14","para_b_menos6m",47804,0.54
+2008,"Murcia (Región de)","14","parados",88900,0.08
+2008,"Murcia (Región de)","14","total",1158870,1
+2008,"Nacional","0","activos",23065581,0.6
+2008,"Nacional","0","asal_comp",14823110,0.88
+2008,"Nacional","0","asal_indef",11954763,0.71
+2008,"Nacional","0","asal_parc",1247763,0.07
+2008,"Nacional","0","asal_parc_inv",790359,0.05
+2008,"Nacional","0","asal_temp",4906470,0.29
+2008,"Nacional","0","asalariados",16861231,0.82
+2008,"Nacional","0","c_propia",3608425,0.18
+2008,"Nacional","0","inac_desanim",214535,0.01
+2008,"Nacional","0","inactivos",15324551,0.4
+2008,"Nacional","0","ocupados",20469656,0.53
+2008,"Nacional","0","para_b_1a2a",316744,0.12
+2008,"Nacional","0","para_b_2a4a",156062,0.06
+2008,"Nacional","0","para_b_4mas_a",115284,0.04
+2008,"Nacional","0","para_b_6ma1a",410809,0.16
+2008,"Nacional","0","para_b_menos6m",1220470,0.47
+2008,"Nacional","0","parados",2595922,0.07
+2008,"Nacional","0","total",38390130,1
+2008,"Navarra (Comunidad Foral de)","15","activos",317036,0.62
+2008,"Navarra (Comunidad Foral de)","15","asal_comp",207771,0.87
+2008,"Navarra (Comunidad Foral de)","15","asal_indef",176908,0.74
+2008,"Navarra (Comunidad Foral de)","15","asal_parc",20374,0.08
+2008,"Navarra (Comunidad Foral de)","15","asal_parc_inv",11733,0.05
+2008,"Navarra (Comunidad Foral de)","15","asal_temp",62968,0.26
+2008,"Navarra (Comunidad Foral de)","15","asalariados",239877,0.81
+2008,"Navarra (Comunidad Foral de)","15","c_propia",55499,0.19
+2008,"Navarra (Comunidad Foral de)","15","inac_desanim",1860,0
+2008,"Navarra (Comunidad Foral de)","15","inactivos",198119,0.38
+2008,"Navarra (Comunidad Foral de)","15","ocupados",295377,0.57
+2008,"Navarra (Comunidad Foral de)","15","para_b_1a2a",2207,0.1
+2008,"Navarra (Comunidad Foral de)","15","para_b_2a4a",991,0.05
+2008,"Navarra (Comunidad Foral de)","15","para_b_4mas_a",397,0.02
+2008,"Navarra (Comunidad Foral de)","15","para_b_6ma1a",2693,0.12
+2008,"Navarra (Comunidad Foral de)","15","para_b_menos6m",10303,0.48
+2008,"Navarra (Comunidad Foral de)","15","parados",21656,0.04
+2008,"Navarra (Comunidad Foral de)","15","total",515150,1
+2008,"País Vasco","16","activos",1081865,0.58
+2008,"País Vasco","16","asal_comp",697903,0.86
+2008,"País Vasco","16","asal_indef",586566,0.72
+2008,"País Vasco","16","asal_parc",73622,0.09
+2008,"País Vasco","16","asal_parc_inv",42310,0.05
+2008,"País Vasco","16","asal_temp",227269,0.28
+2008,"País Vasco","16","asalariados",813835,0.81
+2008,"País Vasco","16","c_propia",196347,0.19
+2008,"País Vasco","16","inac_desanim",6772,0
+2008,"País Vasco","16","inactivos",767712,0.42
+2008,"País Vasco","16","ocupados",1010182,0.55
+2008,"País Vasco","16","para_b_1a2a",23363,0.33
+2008,"País Vasco","16","para_b_2a4a",16686,0.23
+2008,"País Vasco","16","para_b_4mas_a",13956,0.19
+2008,"País Vasco","16","para_b_6ma1a",30569,0.43
+2008,"País Vasco","16","para_b_menos6m",83292,1.16
+2008,"País Vasco","16","parados",71684,0.04
+2008,"País Vasco","16","total",1849580,1
+2008,"Rioja (La)","17","activos",161613,0.6
+2008,"Rioja (La)","17","asal_comp",103151,0.87
+2008,"Rioja (La)","17","asal_indef",91642,0.78
+2008,"Rioja (La)","17","asal_parc",10441,0.09
+2008,"Rioja (La)","17","asal_parc_inv",4388,0.04
+2008,"Rioja (La)","17","asal_temp",26334,0.22
+2008,"Rioja (La)","17","asalariados",117978,0.79
+2008,"Rioja (La)","17","c_propia",30865,0.21
+2008,"Rioja (La)","17","inac_desanim",1207,0
+2008,"Rioja (La)","17","inactivos",105727,0.4
+2008,"Rioja (La)","17","ocupados",148844,0.56
+2008,"Rioja (La)","17","para_b_1a2a",1821,0.14
+2008,"Rioja (La)","17","para_b_2a4a",430,0.03
+2008,"Rioja (La)","17","para_b_4mas_a",395,0.03
+2008,"Rioja (La)","17","para_b_6ma1a",2959,0.23
+2008,"Rioja (La)","17","para_b_menos6m",6452,0.51
+2008,"Rioja (La)","17","parados",12771,0.05
+2008,"Rioja (La)","17","total",267339,1
+2009,"Andalucía","1","activos",3922349,0.58
+2009,"Andalucía","1","asal_comp",2048704,0.85
+2009,"Andalucía","1","asal_indef",1530457,0.64
+2009,"Andalucía","1","asal_parc",143568,0.06
+2009,"Andalucía","1","asal_parc_inv",205036,0.09
+2009,"Andalucía","1","asal_temp",866848,0.36
+2009,"Andalucía","1","asalariados",2397306,0.82
+2009,"Andalucía","1","c_propia",534862,0.18
+2009,"Andalucía","1","inac_desanim",91139,0.01
+2009,"Andalucía","1","inactivos",2817155,0.42
+2009,"Andalucía","1","ocupados",2932166,0.44
+2009,"Andalucía","1","para_b_1a2a",185425,0.19
+2009,"Andalucía","1","para_b_2a4a",77277,0.08
+2009,"Andalucía","1","para_b_4mas_a",59417,0.06
+2009,"Andalucía","1","para_b_6ma1a",215759,0.22
+2009,"Andalucía","1","para_b_menos6m",385070,0.39
+2009,"Andalucía","1","parados",990183,0.15
+2009,"Andalucía","1","total",6739505,1
+2009,"Aragón","2","activos",671758,0.59
+2009,"Aragón","2","asal_comp",407727,0.86
+2009,"Aragón","2","asal_indef",366765,0.78
+2009,"Aragón","2","asal_parc",38172,0.08
+2009,"Aragón","2","asal_parc_inv",25716,0.05
+2009,"Aragón","2","asal_temp",104847,0.22
+2009,"Aragón","2","asalariados",471613,0.81
+2009,"Aragón","2","c_propia",112453,0.19
+2009,"Aragón","2","inac_desanim",6256,0.01
+2009,"Aragón","2","inactivos",457251,0.41
+2009,"Aragón","2","ocupados",584066,0.52
+2009,"Aragón","2","para_b_1a2a",14542,0.17
+2009,"Aragón","2","para_b_2a4a",4232,0.05
+2009,"Aragón","2","para_b_4mas_a",1123,0.01
+2009,"Aragón","2","para_b_6ma1a",20634,0.24
+2009,"Aragón","2","para_b_menos6m",36032,0.41
+2009,"Aragón","2","parados",87694,0.08
+2009,"Aragón","2","total",1129009,1
+2009,"Asturias (Principado de)","3","activos",492211,0.52
+2009,"Asturias (Principado de)","3","asal_comp",303231,0.88
+2009,"Asturias (Principado de)","3","asal_indef",262232,0.76
+2009,"Asturias (Principado de)","3","asal_parc",21752,0.06
+2009,"Asturias (Principado de)","3","asal_parc_inv",18866,0.05
+2009,"Asturias (Principado de)","3","asal_temp",81617,0.24
+2009,"Asturias (Principado de)","3","asalariados",343851,0.81
+2009,"Asturias (Principado de)","3","c_propia",82305,0.19
+2009,"Asturias (Principado de)","3","inac_desanim",8397,0.01
+2009,"Asturias (Principado de)","3","inactivos",455030,0.48
+2009,"Asturias (Principado de)","3","ocupados",426155,0.45
+2009,"Asturias (Principado de)","3","para_b_1a2a",13793,0.21
+2009,"Asturias (Principado de)","3","para_b_2a4a",6449,0.1
+2009,"Asturias (Principado de)","3","para_b_4mas_a",5816,0.09
+2009,"Asturias (Principado de)","3","para_b_6ma1a",14761,0.22
+2009,"Asturias (Principado de)","3","para_b_menos6m",23753,0.36
+2009,"Asturias (Principado de)","3","parados",66056,0.07
+2009,"Asturias (Principado de)","3","total",947238,1
+2009,"Balears (Illes)","4","activos",590001,0.66
+2009,"Balears (Illes)","4","asal_comp",354557,0.88
+2009,"Balears (Illes)","4","asal_indef",301493,0.75
+2009,"Balears (Illes)","4","asal_parc",24084,0.06
+2009,"Balears (Illes)","4","asal_parc_inv",23657,0.06
+2009,"Balears (Illes)","4","asal_temp",100804,0.25
+2009,"Balears (Illes)","4","asalariados",402299,0.83
+2009,"Balears (Illes)","4","c_propia",81988,0.17
+2009,"Balears (Illes)","4","inac_desanim",3803,0
+2009,"Balears (Illes)","4","inactivos",305729,0.34
+2009,"Balears (Illes)","4","ocupados",484285,0.54
+2009,"Balears (Illes)","4","para_b_1a2a",20634,0.2
+2009,"Balears (Illes)","4","para_b_2a4a",4581,0.04
+2009,"Balears (Illes)","4","para_b_4mas_a",1113,0.01
+2009,"Balears (Illes)","4","para_b_6ma1a",27745,0.26
+2009,"Balears (Illes)","4","para_b_menos6m",55304,0.52
+2009,"Balears (Illes)","4","parados",105718,0.12
+2009,"Balears (Illes)","4","total",895734,1
+2009,"Canarias","5","activos",1047317,0.62
+2009,"Canarias","5","asal_comp",594719,0.89
+2009,"Canarias","5","asal_indef",465606,0.7
+2009,"Canarias","5","asal_parc",26627,0.04
+2009,"Canarias","5","asal_parc_inv",46284,0.07
+2009,"Canarias","5","asal_temp",202019,0.3
+2009,"Canarias","5","asalariados",667624,0.86
+2009,"Canarias","5","c_propia",107334,0.14
+2009,"Canarias","5","inac_desanim",15490,0.01
+2009,"Canarias","5","inactivos",645804,0.38
+2009,"Canarias","5","ocupados",774957,0.46
+2009,"Canarias","5","para_b_1a2a",61387,0.23
+2009,"Canarias","5","para_b_2a4a",20971,0.08
+2009,"Canarias","5","para_b_4mas_a",10372,0.04
+2009,"Canarias","5","para_b_6ma1a",63333,0.23
+2009,"Canarias","5","para_b_menos6m",97594,0.36
+2009,"Canarias","5","parados",272358,0.16
+2009,"Canarias","5","total",1693119,1
+2009,"Cantabria","6","activos",285503,0.57
+2009,"Cantabria","6","asal_comp",182622,0.9
+2009,"Cantabria","6","asal_indef",155820,0.77
+2009,"Cantabria","6","asal_parc",10676,0.05
+2009,"Cantabria","6","asal_parc_inv",9658,0.05
+2009,"Cantabria","6","asal_temp",47133,0.23
+2009,"Cantabria","6","asalariados",202955,0.81
+2009,"Cantabria","6","c_propia",48289,0.19
+2009,"Cantabria","6","inac_desanim",3609,0.01
+2009,"Cantabria","6","inactivos",215360,0.43
+2009,"Cantabria","6","ocupados",251245,0.5
+2009,"Cantabria","6","para_b_1a2a",5638,0.16
+2009,"Cantabria","6","para_b_2a4a",1998,0.06
+2009,"Cantabria","6","para_b_4mas_a",1220,0.04
+2009,"Cantabria","6","para_b_6ma1a",7492,0.22
+2009,"Cantabria","6","para_b_menos6m",16113,0.47
+2009,"Cantabria","6","parados",34256,0.07
+2009,"Cantabria","6","total",500863,1
+2009,"Castilla y León","7","activos",1186344,0.55
+2009,"Castilla y León","7","asal_comp",700352,0.87
+2009,"Castilla y León","7","asal_indef",629050,0.78
+2009,"Castilla y León","7","asal_parc",58740,0.07
+2009,"Castilla y León","7","asal_parc_inv",46693,0.06
+2009,"Castilla y León","7","asal_temp",176743,0.22
+2009,"Castilla y León","7","asalariados",805790,0.79
+2009,"Castilla y León","7","c_propia",214749,0.21
+2009,"Castilla y León","7","inac_desanim",19268,0.01
+2009,"Castilla y León","7","inactivos",990156,0.45
+2009,"Castilla y León","7","ocupados",1020539,0.47
+2009,"Castilla y León","7","para_b_1a2a",30265,0.18
+2009,"Castilla y León","7","para_b_2a4a",12519,0.08
+2009,"Castilla y León","7","para_b_4mas_a",9518,0.06
+2009,"Castilla y León","7","para_b_6ma1a",35216,0.21
+2009,"Castilla y León","7","para_b_menos6m",65518,0.4
+2009,"Castilla y León","7","parados",165807,0.08
+2009,"Castilla y León","7","total",2176498,1
+2009,"Castilla-La Mancha","8","activos",993455,0.58
+2009,"Castilla-La Mancha","8","asal_comp",577529,0.88
+2009,"Castilla-La Mancha","8","asal_indef",476231,0.73
+2009,"Castilla-La Mancha","8","asal_parc",38843,0.06
+2009,"Castilla-La Mancha","8","asal_parc_inv",38484,0.06
+2009,"Castilla-La Mancha","8","asal_temp",178621,0.27
+2009,"Castilla-La Mancha","8","asalariados",654854,0.81
+2009,"Castilla-La Mancha","8","c_propia",151070,0.19
+2009,"Castilla-La Mancha","8","inac_desanim",15177,0.01
+2009,"Castilla-La Mancha","8","inactivos",715763,0.42
+2009,"Castilla-La Mancha","8","ocupados",805928,0.47
+2009,"Castilla-La Mancha","8","para_b_1a2a",40093,0.21
+2009,"Castilla-La Mancha","8","para_b_2a4a",13632,0.07
+2009,"Castilla-La Mancha","8","para_b_4mas_a",4710,0.03
+2009,"Castilla-La Mancha","8","para_b_6ma1a",51466,0.27
+2009,"Castilla-La Mancha","8","para_b_menos6m",88341,0.47
+2009,"Castilla-La Mancha","8","parados",187533,0.11
+2009,"Castilla-La Mancha","8","total",1709221,1
+2009,"Cataluña","9","activos",3927162,0.64
+2009,"Cataluña","9","asal_comp",2419759,0.88
+2009,"Cataluña","9","asal_indef",2254361,0.82
+2009,"Cataluña","9","asal_parc",215027,0.08
+2009,"Cataluña","9","asal_parc_inv",121198,0.04
+2009,"Cataluña","9","asal_temp",501617,0.18
+2009,"Cataluña","9","asalariados",2755978,0.84
+2009,"Cataluña","9","c_propia",534336,0.16
+2009,"Cataluña","9","inac_desanim",29676,0
+2009,"Cataluña","9","inactivos",2252879,0.36
+2009,"Cataluña","9","ocupados",3290311,0.53
+2009,"Cataluña","9","para_b_1a2a",120293,0.19
+2009,"Cataluña","9","para_b_2a4a",32008,0.05
+2009,"Cataluña","9","para_b_4mas_a",15516,0.02
+2009,"Cataluña","9","para_b_6ma1a",157482,0.25
+2009,"Cataluña","9","para_b_menos6m",263414,0.41
+2009,"Cataluña","9","parados",636852,0.1
+2009,"Cataluña","9","total",6180040,1
+2009,"Ceuta","18","activos",34862,0.58
+2009,"Ceuta","18","asal_comp",22305,0.91
+2009,"Ceuta","18","asal_indef",16141,0.66
+2009,"Ceuta","18","asal_parc",752,0.03
+2009,"Ceuta","18","asal_parc_inv",1517,0.06
+2009,"Ceuta","18","asal_temp",8433,0.34
+2009,"Ceuta","18","asalariados",24573,0.87
+2009,"Ceuta","18","c_propia",3819,0.13
+2009,"Ceuta","18","inac_desanim",789,0.01
+2009,"Ceuta","18","inactivos",25605,0.42
+2009,"Ceuta","18","ocupados",28395,0.47
+2009,"Ceuta","18","para_b_1a2a",2286,0.35
+2009,"Ceuta","18","para_b_2a4a",1270,0.2
+2009,"Ceuta","18","para_b_4mas_a",797,0.12
+2009,"Ceuta","18","para_b_6ma1a",2182,0.34
+2009,"Ceuta","18","para_b_menos6m",2550,0.39
+2009,"Ceuta","18","parados",6466,0.11
+2009,"Ceuta","18","total",60470,1
+2009,"Comunidad Valenciana","10","activos",2528966,0.61
+2009,"Comunidad Valenciana","10","asal_comp",1395388,0.84
+2009,"Comunidad Valenciana","10","asal_indef",1198749,0.72
+2009,"Comunidad Valenciana","10","asal_parc",125773,0.08
+2009,"Comunidad Valenciana","10","asal_parc_inv",134008,0.08
+2009,"Comunidad Valenciana","10","asal_temp",456422,0.28
+2009,"Comunidad Valenciana","10","asalariados",1655169,0.83
+2009,"Comunidad Valenciana","10","c_propia",348735,0.17
+2009,"Comunidad Valenciana","10","inac_desanim",39689,0.01
+2009,"Comunidad Valenciana","10","inactivos",1627498,0.39
+2009,"Comunidad Valenciana","10","ocupados",2003903,0.48
+2009,"Comunidad Valenciana","10","para_b_1a2a",104745,0.2
+2009,"Comunidad Valenciana","10","para_b_2a4a",30545,0.06
+2009,"Comunidad Valenciana","10","para_b_4mas_a",11872,0.02
+2009,"Comunidad Valenciana","10","para_b_6ma1a",129382,0.25
+2009,"Comunidad Valenciana","10","para_b_menos6m",202289,0.39
+2009,"Comunidad Valenciana","10","parados",525062,0.13
+2009,"Comunidad Valenciana","10","total",4156465,1
+2009,"Extremadura","11","activos",490301,0.54
+2009,"Extremadura","11","asal_comp",270870,0.88
+2009,"Extremadura","11","asal_indef",199409,0.64
+2009,"Extremadura","11","asal_parc",16330,0.05
+2009,"Extremadura","11","asal_parc_inv",22085,0.07
+2009,"Extremadura","11","asal_temp",109878,0.36
+2009,"Extremadura","11","asalariados",309285,0.79
+2009,"Extremadura","11","c_propia",79876,0.21
+2009,"Extremadura","11","inac_desanim",17563,0.02
+2009,"Extremadura","11","inactivos",422818,0.46
+2009,"Extremadura","11","ocupados",389158,0.43
+2009,"Extremadura","11","para_b_1a2a",17261,0.17
+2009,"Extremadura","11","para_b_2a4a",8459,0.08
+2009,"Extremadura","11","para_b_4mas_a",7607,0.08
+2009,"Extremadura","11","para_b_6ma1a",20471,0.2
+2009,"Extremadura","11","para_b_menos6m",37144,0.37
+2009,"Extremadura","11","parados",101142,0.11
+2009,"Extremadura","11","total",913117,1
+2009,"Galicia","12","activos",1319494,0.55
+2009,"Galicia","12","asal_comp",797830,0.89
+2009,"Galicia","12","asal_indef",659842,0.73
+2009,"Galicia","12","asal_parc",52919,0.06
+2009,"Galicia","12","asal_parc_inv",47256,0.05
+2009,"Galicia","12","asal_temp",238160,0.27
+2009,"Galicia","12","asalariados",898002,0.78
+2009,"Galicia","12","c_propia",257393,0.22
+2009,"Galicia","12","inac_desanim",19164,0.01
+2009,"Galicia","12","inactivos",1087475,0.45
+2009,"Galicia","12","ocupados",1155392,0.48
+2009,"Galicia","12","para_b_1a2a",26593,0.16
+2009,"Galicia","12","para_b_2a4a",13195,0.08
+2009,"Galicia","12","para_b_4mas_a",10497,0.06
+2009,"Galicia","12","para_b_6ma1a",34051,0.21
+2009,"Galicia","12","para_b_menos6m",63706,0.39
+2009,"Galicia","12","parados",164100,0.07
+2009,"Galicia","12","total",2406971,1
+2009,"Madrid (Comunidad de)","13","activos",3469420,0.66
+2009,"Madrid (Comunidad de)","13","asal_comp",2322662,0.88
+2009,"Madrid (Comunidad de)","13","asal_indef",2140305,0.81
+2009,"Madrid (Comunidad de)","13","asal_parc",185255,0.07
+2009,"Madrid (Comunidad de)","13","asal_parc_inv",144959,0.05
+2009,"Madrid (Comunidad de)","13","asal_temp",512573,0.19
+2009,"Madrid (Comunidad de)","13","asalariados",2652881,0.89
+2009,"Madrid (Comunidad de)","13","c_propia",335802,0.11
+2009,"Madrid (Comunidad de)","13","inac_desanim",29755,0.01
+2009,"Madrid (Comunidad de)","13","inactivos",1805251,0.34
+2009,"Madrid (Comunidad de)","13","ocupados",2988684,0.57
+2009,"Madrid (Comunidad de)","13","para_b_1a2a",82483,0.17
+2009,"Madrid (Comunidad de)","13","para_b_2a4a",34601,0.07
+2009,"Madrid (Comunidad de)","13","para_b_4mas_a",15610,0.03
+2009,"Madrid (Comunidad de)","13","para_b_6ma1a",100349,0.21
+2009,"Madrid (Comunidad de)","13","para_b_menos6m",204303,0.42
+2009,"Madrid (Comunidad de)","13","parados",480737,0.09
+2009,"Madrid (Comunidad de)","13","total",5274671,1
+2009,"Melilla","19","activos",30202,0.54
+2009,"Melilla","19","asal_comp",17366,0.89
+2009,"Melilla","19","asal_indef",13103,0.67
+2009,"Melilla","19","asal_parc",624,0.03
+2009,"Melilla","19","asal_parc_inv",1623,0.08
+2009,"Melilla","19","asal_temp",6506,0.33
+2009,"Melilla","19","asalariados",19610,0.85
+2009,"Melilla","19","c_propia",3496,0.15
+2009,"Melilla","19","inac_desanim",963,0.02
+2009,"Melilla","19","inactivos",25541,0.46
+2009,"Melilla","19","ocupados",23106,0.41
+2009,"Melilla","19","para_b_1a2a",1462,0.21
+2009,"Melilla","19","para_b_2a4a",1954,0.28
+2009,"Melilla","19","para_b_4mas_a",595,0.08
+2009,"Melilla","19","para_b_6ma1a",1162,0.16
+2009,"Melilla","19","para_b_menos6m",2096,0.3
+2009,"Melilla","19","parados",7093,0.13
+2009,"Melilla","19","total",55744,1
+2009,"Murcia (Región de)","14","activos",717898,0.61
+2009,"Murcia (Región de)","14","asal_comp",415984,0.87
+2009,"Murcia (Región de)","14","asal_indef",323450,0.68
+2009,"Murcia (Región de)","14","asal_parc",28308,0.06
+2009,"Murcia (Región de)","14","asal_parc_inv",32449,0.07
+2009,"Murcia (Región de)","14","asal_temp",153291,0.32
+2009,"Murcia (Región de)","14","asalariados",476742,0.83
+2009,"Murcia (Región de)","14","c_propia",95285,0.17
+2009,"Murcia (Región de)","14","inac_desanim",8955,0.01
+2009,"Murcia (Región de)","14","inactivos",452989,0.39
+2009,"Murcia (Región de)","14","ocupados",572028,0.49
+2009,"Murcia (Región de)","14","para_b_1a2a",28990,0.2
+2009,"Murcia (Región de)","14","para_b_2a4a",6222,0.04
+2009,"Murcia (Región de)","14","para_b_4mas_a",4402,0.03
+2009,"Murcia (Región de)","14","para_b_6ma1a",36571,0.25
+2009,"Murcia (Región de)","14","para_b_menos6m",61403,0.42
+2009,"Murcia (Región de)","14","parados",145873,0.12
+2009,"Murcia (Región de)","14","total",1170888,1
+2009,"Nacional","0","activos",23260425,0.6
+2009,"Nacional","0","asal_comp",13805939,0.87
+2009,"Nacional","0","asal_indef",11877725,0.75
+2009,"Nacional","0","asal_parc",1082826,0.07
+2009,"Nacional","0","asal_parc_inv",992367,0.06
+2009,"Nacional","0","asal_temp",4003407,0.25
+2009,"Nacional","0","asalariados",15881132,0.83
+2009,"Nacional","0","c_propia",3225754,0.17
+2009,"Nacional","0","inac_desanim",324613,0.01
+2009,"Nacional","0","inactivos",15390542,0.4
+2009,"Nacional","0","ocupados",19106889,0.49
+2009,"Nacional","0","para_b_1a2a",770791,0.19
+2009,"Nacional","0","para_b_2a4a",278537,0.07
+2009,"Nacional","0","para_b_4mas_a",166645,0.04
+2009,"Nacional","0","para_b_6ma1a",939105,0.23
+2009,"Nacional","0","para_b_menos6m",1653645,0.4
+2009,"Nacional","0","parados",4153535,0.11
+2009,"Nacional","0","total",38650964,1
+2009,"Navarra (Comunidad Foral de)","15","activos",317569,0.61
+2009,"Navarra (Comunidad Foral de)","15","asal_comp",201958,0.86
+2009,"Navarra (Comunidad Foral de)","15","asal_indef",179792,0.77
+2009,"Navarra (Comunidad Foral de)","15","asal_parc",17926,0.08
+2009,"Navarra (Comunidad Foral de)","15","asal_parc_inv",14434,0.06
+2009,"Navarra (Comunidad Foral de)","15","asal_temp",54526,0.23
+2009,"Navarra (Comunidad Foral de)","15","asalariados",234318,0.83
+2009,"Navarra (Comunidad Foral de)","15","c_propia",48839,0.17
+2009,"Navarra (Comunidad Foral de)","15","inac_desanim",2848,0.01
+2009,"Navarra (Comunidad Foral de)","15","inactivos",202913,0.39
+2009,"Navarra (Comunidad Foral de)","15","ocupados",283157,0.54
+2009,"Navarra (Comunidad Foral de)","15","para_b_1a2a",5311,0.15
+2009,"Navarra (Comunidad Foral de)","15","para_b_2a4a",1467,0.04
+2009,"Navarra (Comunidad Foral de)","15","para_b_4mas_a",410,0.01
+2009,"Navarra (Comunidad Foral de)","15","para_b_6ma1a",6575,0.19
+2009,"Navarra (Comunidad Foral de)","15","para_b_menos6m",16571,0.48
+2009,"Navarra (Comunidad Foral de)","15","parados",34412,0.07
+2009,"Navarra (Comunidad Foral de)","15","total",520485,1
+2009,"País Vasco","16","activos",1073577,0.58
+2009,"País Vasco","16","asal_comp",672413,0.85
+2009,"País Vasco","16","asal_indef",612716,0.77
+2009,"País Vasco","16","asal_parc",68032,0.09
+2009,"País Vasco","16","asal_parc_inv",52442,0.07
+2009,"País Vasco","16","asal_temp",180171,0.23
+2009,"País Vasco","16","asalariados",792887,0.83
+2009,"País Vasco","16","c_propia",158978,0.17
+2009,"País Vasco","16","inac_desanim",10466,0.01
+2009,"País Vasco","16","inactivos",779570,0.42
+2009,"País Vasco","16","ocupados",951865,0.51
+2009,"País Vasco","16","para_b_1a2a",19887,0.16
+2009,"País Vasco","16","para_b_2a4a",9666,0.08
+2009,"País Vasco","16","para_b_4mas_a",6873,0.06
+2009,"País Vasco","16","para_b_6ma1a",26141,0.21
+2009,"País Vasco","16","para_b_menos6m",47569,0.39
+2009,"País Vasco","16","parados",121711,0.07
+2009,"País Vasco","16","total",1853148,1
+2009,"Rioja (La)","17","activos",162030,0.61
+2009,"Rioja (La)","17","asal_comp",99973,0.87
+2009,"Rioja (La)","17","asal_indef",92202,0.8
+2009,"Rioja (La)","17","asal_parc",9418,0.08
+2009,"Rioja (La)","17","asal_parc_inv",6001,0.05
+2009,"Rioja (La)","17","asal_temp",23192,0.2
+2009,"Rioja (La)","17","asalariados",115392,0.82
+2009,"Rioja (La)","17","c_propia",26150,0.18
+2009,"Rioja (La)","17","inac_desanim",1616,0.01
+2009,"Rioja (La)","17","inactivos",105748,0.39
+2009,"Rioja (La)","17","ocupados",141544,0.53
+2009,"Rioja (La)","17","para_b_1a2a",3729,0.18
+2009,"Rioja (La)","17","para_b_2a4a",1163,0.06
+2009,"Rioja (La)","17","para_b_4mas_a",608,0.03
+2009,"Rioja (La)","17","para_b_6ma1a",3652,0.18
+2009,"Rioja (La)","17","para_b_menos6m",9093,0.44
+2009,"Rioja (La)","17","parados",20488,0.08
+2009,"Rioja (La)","17","total",267777,1
+2010,"Andalucía","1","activos",3978950,0.59
+2010,"Andalucía","1","asal_comp",2015987,0.85
+2010,"Andalucía","1","asal_indef",1560121,0.66
+2010,"Andalucía","1","asal_parc",132307,0.06
+2010,"Andalucía","1","asal_parc_inv",231156,0.1
+2010,"Andalucía","1","asal_temp",819327,0.34
+2010,"Andalucía","1","asalariados",2379447,0.83
+2010,"Andalucía","1","c_propia",494485,0.17
+2010,"Andalucía","1","inac_desanim",101717,0.01
+2010,"Andalucía","1","inactivos",2809789,0.41
+2010,"Andalucía","1","ocupados",2873938,0.42
+2010,"Andalucía","1","para_b_1a2a",255946,0.23
+2010,"Andalucía","1","para_b_2a4a",147905,0.13
+2010,"Andalucía","1","para_b_4mas_a",84626,0.08
+2010,"Andalucía","1","para_b_6ma1a",210413,0.19
+2010,"Andalucía","1","para_b_menos6m",338568,0.31
+2010,"Andalucía","1","parados",1105015,0.16
+2010,"Andalucía","1","total",6788743,1
+2010,"Aragón","2","activos",661852,0.59
+2010,"Aragón","2","asal_comp",395248,0.86
+2010,"Aragón","2","asal_indef",350404,0.77
+2010,"Aragón","2","asal_parc",32779,0.07
+2010,"Aragón","2","asal_parc_inv",29354,0.06
+2010,"Aragón","2","asal_temp",106981,0.23
+2010,"Aragón","2","asalariados",457381,0.81
+2010,"Aragón","2","c_propia",105484,0.19
+2010,"Aragón","2","inac_desanim",8217,0.01
+2010,"Aragón","2","inactivos",463668,0.41
+2010,"Aragón","2","ocupados",562865,0.5
+2010,"Aragón","2","para_b_1a2a",28843,0.29
+2010,"Aragón","2","para_b_2a4a",12080,0.12
+2010,"Aragón","2","para_b_4mas_a",4011,0.04
+2010,"Aragón","2","para_b_6ma1a",21122,0.21
+2010,"Aragón","2","para_b_menos6m",31765,0.32
+2010,"Aragón","2","parados",98987,0.09
+2010,"Aragón","2","total",1125525,1
+2010,"Asturias (Principado de)","3","activos",490003,0.52
+2010,"Asturias (Principado de)","3","asal_comp",294346,0.87
+2010,"Asturias (Principado de)","3","asal_indef",257480,0.76
+2010,"Asturias (Principado de)","3","asal_parc",20196,0.06
+2010,"Asturias (Principado de)","3","asal_parc_inv",22123,0.07
+2010,"Asturias (Principado de)","3","asal_temp",79182,0.24
+2010,"Asturias (Principado de)","3","asalariados",336663,0.82
+2010,"Asturias (Principado de)","3","c_propia",75352,0.18
+2010,"Asturias (Principado de)","3","inac_desanim",9582,0.01
+2010,"Asturias (Principado de)","3","inactivos",455216,0.48
+2010,"Asturias (Principado de)","3","ocupados",412018,0.44
+2010,"Asturias (Principado de)","3","para_b_1a2a",18835,0.24
+2010,"Asturias (Principado de)","3","para_b_2a4a",10381,0.13
+2010,"Asturias (Principado de)","3","para_b_4mas_a",5736,0.07
+2010,"Asturias (Principado de)","3","para_b_6ma1a",16280,0.21
+2010,"Asturias (Principado de)","3","para_b_menos6m",22488,0.29
+2010,"Asturias (Principado de)","3","parados",77987,0.08
+2010,"Asturias (Principado de)","3","total",945221,1
+2010,"Balears (Illes)","4","activos",598925,0.66
+2010,"Balears (Illes)","4","asal_comp",348079,0.88
+2010,"Balears (Illes)","4","asal_indef",292462,0.74
+2010,"Balears (Illes)","4","asal_parc",23230,0.06
+2010,"Balears (Illes)","4","asal_parc_inv",23977,0.06
+2010,"Balears (Illes)","4","asal_temp",102822,0.26
+2010,"Balears (Illes)","4","asalariados",395288,0.83
+2010,"Balears (Illes)","4","c_propia",83126,0.17
+2010,"Balears (Illes)","4","inac_desanim",5089,0.01
+2010,"Balears (Illes)","4","inactivos",304118,0.34
+2010,"Balears (Illes)","4","ocupados",478412,0.53
+2010,"Balears (Illes)","4","para_b_1a2a",26518,0.22
+2010,"Balears (Illes)","4","para_b_2a4a",11087,0.09
+2010,"Balears (Illes)","4","para_b_4mas_a",2951,0.02
+2010,"Balears (Illes)","4","para_b_6ma1a",23834,0.2
+2010,"Balears (Illes)","4","para_b_menos6m",46650,0.39
+2010,"Balears (Illes)","4","parados",120512,0.13
+2010,"Balears (Illes)","4","total",903043,1
+2010,"Canarias","5","activos",1059962,0.62
+2010,"Canarias","5","asal_comp",559716,0.87
+2010,"Canarias","5","asal_indef",453638,0.71
+2010,"Canarias","5","asal_parc",26434,0.04
+2010,"Canarias","5","asal_parc_inv",55595,0.09
+2010,"Canarias","5","asal_temp",188108,0.29
+2010,"Canarias","5","asalariados",641744,0.85
+2010,"Canarias","5","c_propia",115078,0.15
+2010,"Canarias","5","inac_desanim",20852,0.01
+2010,"Canarias","5","inactivos",651593,0.38
+2010,"Canarias","5","ocupados",756822,0.44
+2010,"Canarias","5","para_b_1a2a",87258,0.29
+2010,"Canarias","5","para_b_2a4a",45677,0.15
+2010,"Canarias","5","para_b_4mas_a",16657,0.05
+2010,"Canarias","5","para_b_6ma1a",59629,0.2
+2010,"Canarias","5","para_b_menos6m",79836,0.26
+2010,"Canarias","5","parados",303140,0.18
+2010,"Canarias","5","total",1711556,1
+2010,"Cantabria","6","activos",281790,0.56
+2010,"Cantabria","6","asal_comp",177683,0.89
+2010,"Cantabria","6","asal_indef",155819,0.78
+2010,"Cantabria","6","asal_parc",10010,0.05
+2010,"Cantabria","6","asal_parc_inv",11540,0.06
+2010,"Cantabria","6","asal_temp",43420,0.22
+2010,"Cantabria","6","asalariados",199238,0.82
+2010,"Cantabria","6","c_propia",43937,0.18
+2010,"Cantabria","6","inac_desanim",4653,0.01
+2010,"Cantabria","6","inactivos",220274,0.44
+2010,"Cantabria","6","ocupados",243177,0.48
+2010,"Cantabria","6","para_b_1a2a",9793,0.25
+2010,"Cantabria","6","para_b_2a4a",4602,0.12
+2010,"Cantabria","6","para_b_4mas_a",2035,0.05
+2010,"Cantabria","6","para_b_6ma1a",8163,0.21
+2010,"Cantabria","6","para_b_menos6m",11248,0.29
+2010,"Cantabria","6","parados",38612,0.08
+2010,"Cantabria","6","total",502063,1
+2010,"Castilla y León","7","activos",1197282,0.55
+2010,"Castilla y León","7","asal_comp",692824,0.86
+2010,"Castilla y León","7","asal_indef",629222,0.78
+2010,"Castilla y León","7","asal_parc",57839,0.07
+2010,"Castilla y León","7","asal_parc_inv",53787,0.07
+2010,"Castilla y León","7","asal_temp",175227,0.22
+2010,"Castilla y León","7","asalariados",804448,0.8
+2010,"Castilla y León","7","c_propia",203679,0.2
+2010,"Castilla y León","7","inac_desanim",22839,0.01
+2010,"Castilla y León","7","inactivos",973930,0.45
+2010,"Castilla y León","7","ocupados",1008127,0.46
+2010,"Castilla y León","7","para_b_1a2a",44698,0.24
+2010,"Castilla y León","7","para_b_2a4a",20061,0.11
+2010,"Castilla y León","7","para_b_4mas_a",10220,0.05
+2010,"Castilla y León","7","para_b_6ma1a",38663,0.2
+2010,"Castilla y León","7","para_b_menos6m",62640,0.33
+2010,"Castilla y León","7","parados",189156,0.09
+2010,"Castilla y León","7","total",2171214,1
+2010,"Castilla-La Mancha","8","activos",1002186,0.58
+2010,"Castilla-La Mancha","8","asal_comp",562513,0.88
+2010,"Castilla-La Mancha","8","asal_indef",468676,0.73
+2010,"Castilla-La Mancha","8","asal_parc",36449,0.06
+2010,"Castilla-La Mancha","8","asal_parc_inv",41754,0.07
+2010,"Castilla-La Mancha","8","asal_temp",172044,0.27
+2010,"Castilla-La Mancha","8","asalariados",640716,0.81
+2010,"Castilla-La Mancha","8","c_propia",148759,0.19
+2010,"Castilla-La Mancha","8","inac_desanim",17952,0.01
+2010,"Castilla-La Mancha","8","inactivos",717128,0.42
+2010,"Castilla-La Mancha","8","ocupados",789473,0.46
+2010,"Castilla-La Mancha","8","para_b_1a2a",61450,0.29
+2010,"Castilla-La Mancha","8","para_b_2a4a",25396,0.12
+2010,"Castilla-La Mancha","8","para_b_4mas_a",8608,0.04
+2010,"Castilla-La Mancha","8","para_b_6ma1a",50636,0.24
+2010,"Castilla-La Mancha","8","para_b_menos6m",73172,0.34
+2010,"Castilla-La Mancha","8","parados",212713,0.12
+2010,"Castilla-La Mancha","8","total",1719310,1
+2010,"Cataluña","9","activos",3945785,0.64
+2010,"Cataluña","9","asal_comp",2373656,0.87
+2010,"Cataluña","9","asal_indef",2235699,0.82
+2010,"Cataluña","9","asal_parc",202112,0.07
+2010,"Cataluña","9","asal_parc_inv",157013,0.06
+2010,"Cataluña","9","asal_temp",497075,0.18
+2010,"Cataluña","9","asalariados",2732778,0.84
+2010,"Cataluña","9","c_propia",516341,0.16
+2010,"Cataluña","9","inac_desanim",38109,0.01
+2010,"Cataluña","9","inactivos",2240231,0.36
+2010,"Cataluña","9","ocupados",3249122,0.53
+2010,"Cataluña","9","para_b_1a2a",211627,0.3
+2010,"Cataluña","9","para_b_2a4a",75565,0.11
+2010,"Cataluña","9","para_b_4mas_a",26414,0.04
+2010,"Cataluña","9","para_b_6ma1a",147981,0.21
+2010,"Cataluña","9","para_b_menos6m",196230,0.28
+2010,"Cataluña","9","parados",696669,0.11
+2010,"Cataluña","9","total",6186013,1
+2010,"Ceuta","18","activos",35353,0.57
+2010,"Ceuta","18","asal_comp",20846,0.88
+2010,"Ceuta","18","asal_indef",17096,0.72
+2010,"Ceuta","18","asal_parc",548,0.02
+2010,"Ceuta","18","asal_parc_inv",2364,0.1
+2010,"Ceuta","18","asal_temp",6657,0.28
+2010,"Ceuta","18","asalariados",23754,0.88
+2010,"Ceuta","18","c_propia",3141,0.12
+2010,"Ceuta","18","inac_desanim",1598,0.03
+2010,"Ceuta","18","inactivos",27085,0.43
+2010,"Ceuta","18","ocupados",26896,0.43
+2010,"Ceuta","18","para_b_1a2a",3106,0.37
+2010,"Ceuta","18","para_b_2a4a",1361,0.16
+2010,"Ceuta","18","para_b_4mas_a",554,0.07
+2010,"Ceuta","18","para_b_6ma1a",1609,0.19
+2010,"Ceuta","18","para_b_menos6m",1745,0.21
+2010,"Ceuta","18","parados",8456,0.14
+2010,"Ceuta","18","total",62444,1
+2010,"Comunidad Valenciana","10","activos",2499078,0.6
+2010,"Comunidad Valenciana","10","asal_comp",1304858,0.83
+2010,"Comunidad Valenciana","10","asal_indef",1137643,0.72
+2010,"Comunidad Valenciana","10","asal_parc",116576,0.07
+2010,"Comunidad Valenciana","10","asal_parc_inv",153214,0.1
+2010,"Comunidad Valenciana","10","asal_temp",437009,0.28
+2010,"Comunidad Valenciana","10","asalariados",1574649,0.82
+2010,"Comunidad Valenciana","10","c_propia",353181,0.18
+2010,"Comunidad Valenciana","10","inac_desanim",47603,0.01
+2010,"Comunidad Valenciana","10","inactivos",1657476,0.4
+2010,"Comunidad Valenciana","10","ocupados",1927832,0.46
+2010,"Comunidad Valenciana","10","para_b_1a2a",171014,0.3
+2010,"Comunidad Valenciana","10","para_b_2a4a",83152,0.15
+2010,"Comunidad Valenciana","10","para_b_4mas_a",17723,0.03
+2010,"Comunidad Valenciana","10","para_b_6ma1a",109338,0.19
+2010,"Comunidad Valenciana","10","para_b_menos6m",150896,0.26
+2010,"Comunidad Valenciana","10","parados",571243,0.14
+2010,"Comunidad Valenciana","10","total",4156553,1
+2010,"Extremadura","11","activos",499227,0.54
+2010,"Extremadura","11","asal_comp",264508,0.86
+2010,"Extremadura","11","asal_indef",202869,0.66
+2010,"Extremadura","11","asal_parc",15739,0.05
+2010,"Extremadura","11","asal_parc_inv",27740,0.09
+2010,"Extremadura","11","asal_temp",105119,0.34
+2010,"Extremadura","11","asalariados",307986,0.8
+2010,"Extremadura","11","c_propia",76579,0.2
+2010,"Extremadura","11","inac_desanim",14728,0.02
+2010,"Extremadura","11","inactivos",417685,0.46
+2010,"Extremadura","11","ocupados",384567,0.42
+2010,"Extremadura","11","para_b_1a2a",27132,0.24
+2010,"Extremadura","11","para_b_2a4a",14562,0.13
+2010,"Extremadura","11","para_b_4mas_a",7940,0.07
+2010,"Extremadura","11","para_b_6ma1a",20862,0.18
+2010,"Extremadura","11","para_b_menos6m",35383,0.31
+2010,"Extremadura","11","parados",114660,0.13
+2010,"Extremadura","11","total",916912,1
+2010,"Galicia","12","activos",1304381,0.54
+2010,"Galicia","12","asal_comp",762226,0.88
+2010,"Galicia","12","asal_indef",649381,0.75
+2010,"Galicia","12","asal_parc",46587,0.05
+2010,"Galicia","12","asal_parc_inv",56578,0.07
+2010,"Galicia","12","asal_temp",216011,0.25
+2010,"Galicia","12","asalariados",865393,0.78
+2010,"Galicia","12","c_propia",239105,0.22
+2010,"Galicia","12","inac_desanim",25211,0.01
+2010,"Galicia","12","inactivos",1102482,0.46
+2010,"Galicia","12","ocupados",1104502,0.46
+2010,"Galicia","12","para_b_1a2a",46919,0.23
+2010,"Galicia","12","para_b_2a4a",23428,0.12
+2010,"Galicia","12","para_b_4mas_a",12221,0.06
+2010,"Galicia","12","para_b_6ma1a",43166,0.22
+2010,"Galicia","12","para_b_menos6m",59778,0.3
+2010,"Galicia","12","parados",199881,0.08
+2010,"Galicia","12","total",2406864,1
+2010,"Madrid (Comunidad de)","13","activos",3494076,0.66
+2010,"Madrid (Comunidad de)","13","asal_comp",2277585,0.88
+2010,"Madrid (Comunidad de)","13","asal_indef",2097451,0.81
+2010,"Madrid (Comunidad de)","13","asal_parc",144203,0.06
+2010,"Madrid (Comunidad de)","13","asal_parc_inv",161356,0.06
+2010,"Madrid (Comunidad de)","13","asal_temp",485689,0.19
+2010,"Madrid (Comunidad de)","13","asalariados",2583143,0.88
+2010,"Madrid (Comunidad de)","13","c_propia",357337,0.12
+2010,"Madrid (Comunidad de)","13","inac_desanim",35431,0.01
+2010,"Madrid (Comunidad de)","13","inactivos",1793630,0.34
+2010,"Madrid (Comunidad de)","13","ocupados",2940480,0.56
+2010,"Madrid (Comunidad de)","13","para_b_1a2a",152972,0.28
+2010,"Madrid (Comunidad de)","13","para_b_2a4a",61360,0.11
+2010,"Madrid (Comunidad de)","13","para_b_4mas_a",22036,0.04
+2010,"Madrid (Comunidad de)","13","para_b_6ma1a",124076,0.22
+2010,"Madrid (Comunidad de)","13","para_b_menos6m",194563,0.35
+2010,"Madrid (Comunidad de)","13","parados",553599,0.1
+2010,"Madrid (Comunidad de)","13","total",5287711,1
+2010,"Melilla","19","activos",31363,0.54
+2010,"Melilla","19","asal_comp",18547,0.91
+2010,"Melilla","19","asal_indef",14510,0.71
+2010,"Melilla","19","asal_parc",655,0.03
+2010,"Melilla","19","asal_parc_inv",1106,0.05
+2010,"Melilla","19","asal_temp",5800,0.29
+2010,"Melilla","19","asalariados",20309,0.84
+2010,"Melilla","19","c_propia",3908,0.16
+2010,"Melilla","19","inac_desanim",1536,0.03
+2010,"Melilla","19","inactivos",26588,0.46
+2010,"Melilla","19","ocupados",24217,0.42
+2010,"Melilla","19","para_b_1a2a",1749,0.24
+2010,"Melilla","19","para_b_2a4a",1638,0.23
+2010,"Melilla","19","para_b_4mas_a",1194,0.17
+2010,"Melilla","19","para_b_6ma1a",1281,0.18
+2010,"Melilla","19","para_b_menos6m",1337,0.19
+2010,"Melilla","19","parados",7144,0.12
+2010,"Melilla","19","total",57947,1
+2010,"Murcia (Región de)","14","activos",728975,0.62
+2010,"Murcia (Región de)","14","asal_comp",406681,0.87
+2010,"Murcia (Región de)","14","asal_indef",312880,0.67
+2010,"Murcia (Región de)","14","asal_parc",26806,0.06
+2010,"Murcia (Región de)","14","asal_parc_inv",34457,0.07
+2010,"Murcia (Región de)","14","asal_temp",155062,0.33
+2010,"Murcia (Región de)","14","asalariados",467941,0.83
+2010,"Murcia (Región de)","14","c_propia",94315,0.17
+2010,"Murcia (Región de)","14","inac_desanim",12000,0.01
+2010,"Murcia (Región de)","14","inactivos",447919,0.38
+2010,"Murcia (Región de)","14","ocupados",562257,0.48
+2010,"Murcia (Región de)","14","para_b_1a2a",47521,0.29
+2010,"Murcia (Región de)","14","para_b_2a4a",20401,0.12
+2010,"Murcia (Región de)","14","para_b_4mas_a",6582,0.04
+2010,"Murcia (Región de)","14","para_b_6ma1a",29379,0.18
+2010,"Murcia (Región de)","14","para_b_menos6m",51904,0.31
+2010,"Murcia (Región de)","14","parados",166719,0.14
+2010,"Murcia (Región de)","14","total",1176897,1
+2010,"Nacional","0","activos",23364609,0.6
+2010,"Nacional","0","asal_comp",13460581,0.86
+2010,"Nacional","0","asal_indef",11734832,0.75
+2010,"Nacional","0","asal_parc",988784,0.06
+2010,"Nacional","0","asal_parc_inv",1142961,0.07
+2010,"Nacional","0","asal_temp",3857487,0.25
+2010,"Nacional","0","asalariados",15592323,0.83
+2010,"Nacional","0","c_propia",3132149,0.17
+2010,"Nacional","0","inac_desanim",387884,0.01
+2010,"Nacional","0","inactivos",15395505,0.4
+2010,"Nacional","0","ocupados",18724470,0.48
+2010,"Nacional","0","para_b_1a2a",1220730,0.26
+2010,"Nacional","0","para_b_2a4a",572068,0.12
+2010,"Nacional","0","para_b_4mas_a",233831,0.05
+2010,"Nacional","0","para_b_6ma1a",925512,0.2
+2010,"Nacional","0","para_b_menos6m",1390727,0.3
+2010,"Nacional","0","parados",4640140,0.12
+2010,"Nacional","0","total",38760114,1
+2010,"Navarra (Comunidad Foral de)","15","activos",318024,0.61
+2010,"Navarra (Comunidad Foral de)","15","asal_comp",196175,0.85
+2010,"Navarra (Comunidad Foral de)","15","asal_indef",175010,0.75
+2010,"Navarra (Comunidad Foral de)","15","asal_parc",20489,0.09
+2010,"Navarra (Comunidad Foral de)","15","asal_parc_inv",15421,0.07
+2010,"Navarra (Comunidad Foral de)","15","asal_temp",57079,0.25
+2010,"Navarra (Comunidad Foral de)","15","asalariados",232090,0.83
+2010,"Navarra (Comunidad Foral de)","15","c_propia",48100,0.17
+2010,"Navarra (Comunidad Foral de)","15","inac_desanim",3948,0.01
+2010,"Navarra (Comunidad Foral de)","15","inactivos",205674,0.39
+2010,"Navarra (Comunidad Foral de)","15","ocupados",280183,0.54
+2010,"Navarra (Comunidad Foral de)","15","para_b_1a2a",17082,0.45
+2010,"Navarra (Comunidad Foral de)","15","para_b_2a4a",9032,0.24
+2010,"Navarra (Comunidad Foral de)","15","para_b_4mas_a",730,0.02
+2010,"Navarra (Comunidad Foral de)","15","para_b_6ma1a",12369,0.33
+2010,"Navarra (Comunidad Foral de)","15","para_b_menos6m",23881,0.63
+2010,"Navarra (Comunidad Foral de)","15","parados",37842,0.07
+2010,"Navarra (Comunidad Foral de)","15","total",523697,1
+2010,"País Vasco","16","activos",1077260,0.58
+2010,"País Vasco","16","asal_comp",692439,0.85
+2010,"País Vasco","16","asal_indef",633370,0.78
+2010,"País Vasco","16","asal_parc",65727,0.08
+2010,"País Vasco","16","asal_parc_inv",57983,0.07
+2010,"País Vasco","16","asal_temp",182779,0.22
+2010,"País Vasco","16","asalariados",816148,0.85
+2010,"País Vasco","16","c_propia",145966,0.15
+2010,"País Vasco","16","inac_desanim",14880,0.01
+2010,"País Vasco","16","inactivos",773812,0.42
+2010,"País Vasco","16","ocupados",962113,0.52
+2010,"País Vasco","16","para_b_1a2a",29149,0.25
+2010,"País Vasco","16","para_b_2a4a",14526,0.13
+2010,"País Vasco","16","para_b_4mas_a",5016,0.04
+2010,"País Vasco","16","para_b_6ma1a",22439,0.19
+2010,"País Vasco","16","para_b_menos6m",40877,0.35
+2010,"País Vasco","16","parados",115152,0.06
+2010,"País Vasco","16","total",1851076,1
+2010,"Rioja (La)","17","activos",160130,0.6
+2010,"Rioja (La)","17","asal_comp",96666,0.85
+2010,"Rioja (La)","17","asal_indef",91101,0.8
+2010,"Rioja (La)","17","asal_parc",10091,0.09
+2010,"Rioja (La)","17","asal_parc_inv",6447,0.06
+2010,"Rioja (La)","17","asal_temp",22101,0.2
+2010,"Rioja (La)","17","asalariados",113204,0.82
+2010,"Rioja (La)","17","c_propia",24273,0.18
+2010,"Rioja (La)","17","inac_desanim",1954,0.01
+2010,"Rioja (La)","17","inactivos",107202,0.4
+2010,"Rioja (La)","17","ocupados",137475,0.51
+2010,"Rioja (La)","17","para_b_1a2a",6988,0.31
+2010,"Rioja (La)","17","para_b_2a4a",2043,0.09
+2010,"Rioja (La)","17","para_b_4mas_a",759,0.03
+2010,"Rioja (La)","17","para_b_6ma1a",4949,0.22
+2010,"Rioja (La)","17","para_b_menos6m",8691,0.38
+2010,"Rioja (La)","17","parados",22650,0.08
+2010,"Rioja (La)","17","total",267330,1
+2011,"Andalucía","1","activos",4004437,0.59
+2011,"Andalucía","1","asal_comp",1961473,0.84
+2011,"Andalucía","1","asal_indef",1534640,0.66
+2011,"Andalucía","1","asal_parc",119195,0.05
+2011,"Andalucía","1","asal_parc_inv",246626,0.11
+2011,"Andalucía","1","asal_temp",792661,0.34
+2011,"Andalucía","1","asalariados",2327299,0.83
+2011,"Andalucía","1","c_propia",470631,0.17
+2011,"Andalucía","1","inac_desanim",100362,0.01
+2011,"Andalucía","1","inactivos",2824092,0.41
+2011,"Andalucía","1","ocupados",2797926,0.41
+2011,"Andalucía","1","para_b_1a2a",270257,0.22
+2011,"Andalucía","1","para_b_2a4a",215707,0.18
+2011,"Andalucía","1","para_b_4mas_a",113952,0.09
+2011,"Andalucía","1","para_b_6ma1a",204609,0.17
+2011,"Andalucía","1","para_b_menos6m",329724,0.27
+2011,"Andalucía","1","parados",1206510,0.18
+2011,"Andalucía","1","total",6828527,1
+2011,"Aragón","2","activos",663674,0.59
+2011,"Aragón","2","asal_comp",384410,0.86
+2011,"Aragón","2","asal_indef",341037,0.76
+2011,"Aragón","2","asal_parc",29418,0.07
+2011,"Aragón","2","asal_parc_inv",34037,0.08
+2011,"Aragón","2","asal_temp",106831,0.24
+2011,"Aragón","2","asalariados",447864,0.81
+2011,"Aragón","2","c_propia",102494,0.19
+2011,"Aragón","2","inac_desanim",9239,0.01
+2011,"Aragón","2","inactivos",459095,0.41
+2011,"Aragón","2","ocupados",550362,0.49
+2011,"Aragón","2","para_b_1a2a",32772,0.29
+2011,"Aragón","2","para_b_2a4a",22526,0.2
+2011,"Aragón","2","para_b_4mas_a",5922,0.05
+2011,"Aragón","2","para_b_6ma1a",22367,0.2
+2011,"Aragón","2","para_b_menos6m",35168,0.31
+2011,"Aragón","2","parados",113314,0.1
+2011,"Aragón","2","total",1122765,1
+2011,"Asturias (Principado de)","3","activos",488666,0.52
+2011,"Asturias (Principado de)","3","asal_comp",282963,0.87
+2011,"Asturias (Principado de)","3","asal_indef",247122,0.76
+2011,"Asturias (Principado de)","3","asal_parc",18533,0.06
+2011,"Asturias (Principado de)","3","asal_parc_inv",23529,0.07
+2011,"Asturias (Principado de)","3","asal_temp",77900,0.24
+2011,"Asturias (Principado de)","3","asalariados",325023,0.81
+2011,"Asturias (Principado de)","3","c_propia",76481,0.19
+2011,"Asturias (Principado de)","3","inac_desanim",9794,0.01
+2011,"Asturias (Principado de)","3","inactivos",453518,0.48
+2011,"Asturias (Principado de)","3","ocupados",401506,0.43
+2011,"Asturias (Principado de)","3","para_b_1a2a",19045,0.22
+2011,"Asturias (Principado de)","3","para_b_2a4a",15858,0.18
+2011,"Asturias (Principado de)","3","para_b_4mas_a",7190,0.08
+2011,"Asturias (Principado de)","3","para_b_6ma1a",13756,0.16
+2011,"Asturias (Principado de)","3","para_b_menos6m",27200,0.31
+2011,"Asturias (Principado de)","3","parados",87162,0.09
+2011,"Asturias (Principado de)","3","total",942183,1
+2011,"Balears (Illes)","4","activos",595180,0.65
+2011,"Balears (Illes)","4","asal_comp",327944,0.87
+2011,"Balears (Illes)","4","asal_indef",276491,0.73
+2011,"Balears (Illes)","4","asal_parc",25738,0.07
+2011,"Balears (Illes)","4","asal_parc_inv",24449,0.06
+2011,"Balears (Illes)","4","asal_temp",101643,0.27
+2011,"Balears (Illes)","4","asalariados",378134,0.81
+2011,"Balears (Illes)","4","c_propia",86933,0.19
+2011,"Balears (Illes)","4","inac_desanim",4665,0.01
+2011,"Balears (Illes)","4","inactivos",313882,0.35
+2011,"Balears (Illes)","4","ocupados",465070,0.51
+2011,"Balears (Illes)","4","para_b_1a2a",24631,0.19
+2011,"Balears (Illes)","4","para_b_2a4a",19116,0.15
+2011,"Balears (Illes)","4","para_b_4mas_a",4693,0.04
+2011,"Balears (Illes)","4","para_b_6ma1a",26994,0.21
+2011,"Balears (Illes)","4","para_b_menos6m",46144,0.35
+2011,"Balears (Illes)","4","parados",130110,0.14
+2011,"Balears (Illes)","4","total",909060,1
+2011,"Canarias","5","activos",1086957,0.63
+2011,"Canarias","5","asal_comp",574305,0.87
+2011,"Canarias","5","asal_indef",460580,0.7
+2011,"Canarias","5","asal_parc",27042,0.04
+2011,"Canarias","5","asal_parc_inv",61107,0.09
+2011,"Canarias","5","asal_temp",201876,0.3
+2011,"Canarias","5","asalariados",662456,0.86
+2011,"Canarias","5","c_propia",106218,0.14
+2011,"Canarias","5","inac_desanim",16516,0.01
+2011,"Canarias","5","inactivos",644297,0.37
+2011,"Canarias","5","ocupados",768676,0.44
+2011,"Canarias","5","para_b_1a2a",77738,0.24
+2011,"Canarias","5","para_b_2a4a",60925,0.19
+2011,"Canarias","5","para_b_4mas_a",28006,0.09
+2011,"Canarias","5","para_b_6ma1a",55931,0.18
+2011,"Canarias","5","para_b_menos6m",80238,0.25
+2011,"Canarias","5","parados",318284,0.18
+2011,"Canarias","5","total",1731257,1
+2011,"Cantabria","6","activos",283537,0.56
+2011,"Cantabria","6","asal_comp",177013,0.88
+2011,"Cantabria","6","asal_indef",159640,0.79
+2011,"Cantabria","6","asal_parc",10607,0.05
+2011,"Cantabria","6","asal_parc_inv",13802,0.07
+2011,"Cantabria","6","asal_temp",41784,0.21
+2011,"Cantabria","6","asalariados",201423,0.84
+2011,"Cantabria","6","c_propia",38753,0.16
+2011,"Cantabria","6","inac_desanim",5517,0.01
+2011,"Cantabria","6","inactivos",218842,0.44
+2011,"Cantabria","6","ocupados",240179,0.48
+2011,"Cantabria","6","para_b_1a2a",21970,0.51
+2011,"Cantabria","6","para_b_2a4a",18550,0.43
+2011,"Cantabria","6","para_b_4mas_a",5594,0.13
+2011,"Cantabria","6","para_b_6ma1a",18790,0.43
+2011,"Cantabria","6","para_b_menos6m",25220,0.58
+2011,"Cantabria","6","parados",43362,0.09
+2011,"Cantabria","6","total",502380,1
+2011,"Castilla y León","7","activos",1196586,0.55
+2011,"Castilla y León","7","asal_comp",681791,0.86
+2011,"Castilla y León","7","asal_indef",622575,0.78
+2011,"Castilla y León","7","asal_parc",51513,0.06
+2011,"Castilla y León","7","asal_parc_inv",60883,0.08
+2011,"Castilla y León","7","asal_temp",171612,0.22
+2011,"Castilla y León","7","asalariados",794189,0.8
+2011,"Castilla y León","7","c_propia",200606,0.2
+2011,"Castilla y León","7","inac_desanim",21677,0.01
+2011,"Castilla y León","7","inactivos",967353,0.45
+2011,"Castilla y León","7","ocupados",994794,0.46
+2011,"Castilla y León","7","para_b_1a2a",51672,0.26
+2011,"Castilla y León","7","para_b_2a4a",38442,0.19
+2011,"Castilla y León","7","para_b_4mas_a",13748,0.07
+2011,"Castilla y León","7","para_b_6ma1a",39077,0.19
+2011,"Castilla y León","7","para_b_menos6m",55106,0.27
+2011,"Castilla y León","7","parados",201797,0.09
+2011,"Castilla y León","7","total",2163940,1
+2011,"Castilla-La Mancha","8","activos",1021277,0.59
+2011,"Castilla-La Mancha","8","asal_comp",558038,0.87
+2011,"Castilla-La Mancha","8","asal_indef",471850,0.74
+2011,"Castilla-La Mancha","8","asal_parc",37750,0.06
+2011,"Castilla-La Mancha","8","asal_parc_inv",46117,0.07
+2011,"Castilla-La Mancha","8","asal_temp",170051,0.26
+2011,"Castilla-La Mancha","8","asalariados",641904,0.82
+2011,"Castilla-La Mancha","8","c_propia",143687,0.18
+2011,"Castilla-La Mancha","8","inac_desanim",19793,0.01
+2011,"Castilla-La Mancha","8","inactivos",705635,0.41
+2011,"Castilla-La Mancha","8","ocupados",785589,0.45
+2011,"Castilla-La Mancha","8","para_b_1a2a",61102,0.26
+2011,"Castilla-La Mancha","8","para_b_2a4a",51805,0.22
+2011,"Castilla-La Mancha","8","para_b_4mas_a",11931,0.05
+2011,"Castilla-La Mancha","8","para_b_6ma1a",44966,0.19
+2011,"Castilla-La Mancha","8","para_b_menos6m",69009,0.29
+2011,"Castilla-La Mancha","8","parados",235692,0.14
+2011,"Castilla-La Mancha","8","total",1726914,1
+2011,"Cataluña","9","activos",3966756,0.64
+2011,"Cataluña","9","asal_comp",2319420,0.86
+2011,"Cataluña","9","asal_indef",2159464,0.8
+2011,"Cataluña","9","asal_parc",202748,0.07
+2011,"Cataluña","9","asal_parc_inv",183247,0.07
+2011,"Cataluña","9","asal_temp",545949,0.2
+2011,"Cataluña","9","asalariados",2705415,0.84
+2011,"Cataluña","9","c_propia",501375,0.16
+2011,"Cataluña","9","inac_desanim",29559,0
+2011,"Cataluña","9","inactivos",2222664,0.36
+2011,"Cataluña","9","ocupados",3206792,0.52
+2011,"Cataluña","9","para_b_1a2a",188604,0.25
+2011,"Cataluña","9","para_b_2a4a",157113,0.21
+2011,"Cataluña","9","para_b_4mas_a",35364,0.05
+2011,"Cataluña","9","para_b_6ma1a",133073,0.18
+2011,"Cataluña","9","para_b_menos6m",198992,0.26
+2011,"Cataluña","9","parados",759965,0.12
+2011,"Cataluña","9","total",6189419,1
+2011,"Ceuta","18","activos",36761,0.58
+2011,"Ceuta","18","asal_comp",21593,0.89
+2011,"Ceuta","18","asal_indef",16526,0.68
+2011,"Ceuta","18","asal_parc",749,0.03
+2011,"Ceuta","18","asal_parc_inv",1802,0.07
+2011,"Ceuta","18","asal_temp",7618,0.32
+2011,"Ceuta","18","asalariados",24144,0.91
+2011,"Ceuta","18","c_propia",2430,0.09
+2011,"Ceuta","18","inac_desanim",1401,0.02
+2011,"Ceuta","18","inactivos",27136,0.42
+2011,"Ceuta","18","ocupados",26576,0.42
+2011,"Ceuta","18","para_b_1a2a",3510,0.34
+2011,"Ceuta","18","para_b_2a4a",4108,0.4
+2011,"Ceuta","18","para_b_4mas_a",1544,0.15
+2011,"Ceuta","18","para_b_6ma1a",3725,0.37
+2011,"Ceuta","18","para_b_menos6m",4597,0.45
+2011,"Ceuta","18","parados",10183,0.16
+2011,"Ceuta","18","total",63895,1
+2011,"Comunidad Valenciana","10","activos",2486578,0.6
+2011,"Comunidad Valenciana","10","asal_comp",1300507,0.83
+2011,"Comunidad Valenciana","10","asal_indef",1144486,0.73
+2011,"Comunidad Valenciana","10","asal_parc",103290,0.07
+2011,"Comunidad Valenciana","10","asal_parc_inv",159163,0.1
+2011,"Comunidad Valenciana","10","asal_temp",418474,0.27
+2011,"Comunidad Valenciana","10","asalariados",1562960,0.83
+2011,"Comunidad Valenciana","10","c_propia",327182,0.17
+2011,"Comunidad Valenciana","10","inac_desanim",53976,0.01
+2011,"Comunidad Valenciana","10","inactivos",1675542,0.4
+2011,"Comunidad Valenciana","10","ocupados",1890140,0.45
+2011,"Comunidad Valenciana","10","para_b_1a2a",158641,0.27
+2011,"Comunidad Valenciana","10","para_b_2a4a",129934,0.22
+2011,"Comunidad Valenciana","10","para_b_4mas_a",29415,0.05
+2011,"Comunidad Valenciana","10","para_b_6ma1a",96271,0.16
+2011,"Comunidad Valenciana","10","para_b_menos6m",144676,0.24
+2011,"Comunidad Valenciana","10","parados",596438,0.14
+2011,"Comunidad Valenciana","10","total",4162120,1
+2011,"Extremadura","11","activos",498845,0.54
+2011,"Extremadura","11","asal_comp",251624,0.84
+2011,"Extremadura","11","asal_indef",188711,0.63
+2011,"Extremadura","11","asal_parc",13842,0.05
+2011,"Extremadura","11","asal_parc_inv",32797,0.11
+2011,"Extremadura","11","asal_temp",109548,0.37
+2011,"Extremadura","11","asalariados",298263,0.8
+2011,"Extremadura","11","c_propia",75464,0.2
+2011,"Extremadura","11","inac_desanim",20666,0.02
+2011,"Extremadura","11","inactivos",420853,0.46
+2011,"Extremadura","11","ocupados",373725,0.41
+2011,"Extremadura","11","para_b_1a2a",29711,0.24
+2011,"Extremadura","11","para_b_2a4a",21521,0.17
+2011,"Extremadura","11","para_b_4mas_a",9631,0.08
+2011,"Extremadura","11","para_b_6ma1a",22793,0.18
+2011,"Extremadura","11","para_b_menos6m",39802,0.32
+2011,"Extremadura","11","parados",125119,0.14
+2011,"Extremadura","11","total",919696,1
+2011,"Galicia","12","activos",1316557,0.55
+2011,"Galicia","12","asal_comp",743400,0.87
+2011,"Galicia","12","asal_indef",643629,0.76
+2011,"Galicia","12","asal_parc",42506,0.05
+2011,"Galicia","12","asal_parc_inv",66421,0.08
+2011,"Galicia","12","asal_temp",208696,0.24
+2011,"Galicia","12","asalariados",852326,0.78
+2011,"Galicia","12","c_propia",236992,0.22
+2011,"Galicia","12","inac_desanim",22792,0.01
+2011,"Galicia","12","inactivos",1086947,0.45
+2011,"Galicia","12","ocupados",1089319,0.45
+2011,"Galicia","12","para_b_1a2a",56099,0.25
+2011,"Galicia","12","para_b_2a4a",35962,0.16
+2011,"Galicia","12","para_b_4mas_a",16775,0.07
+2011,"Galicia","12","para_b_6ma1a",38357,0.17
+2011,"Galicia","12","para_b_menos6m",65219,0.29
+2011,"Galicia","12","parados",227238,0.09
+2011,"Galicia","12","total",2403501,1
+2011,"Madrid (Comunidad de)","13","activos",3455176,0.65
+2011,"Madrid (Comunidad de)","13","asal_comp",2245990,0.88
+2011,"Madrid (Comunidad de)","13","asal_indef",2062511,0.81
+2011,"Madrid (Comunidad de)","13","asal_parc",139442,0.05
+2011,"Madrid (Comunidad de)","13","asal_parc_inv",168726,0.07
+2011,"Madrid (Comunidad de)","13","asal_temp",491650,0.19
+2011,"Madrid (Comunidad de)","13","asalariados",2554161,0.88
+2011,"Madrid (Comunidad de)","13","c_propia",336661,0.12
+2011,"Madrid (Comunidad de)","13","inac_desanim",39328,0.01
+2011,"Madrid (Comunidad de)","13","inactivos",1841292,0.35
+2011,"Madrid (Comunidad de)","13","ocupados",2890822,0.55
+2011,"Madrid (Comunidad de)","13","para_b_1a2a",139739,0.25
+2011,"Madrid (Comunidad de)","13","para_b_2a4a",95571,0.17
+2011,"Madrid (Comunidad de)","13","para_b_4mas_a",25352,0.04
+2011,"Madrid (Comunidad de)","13","para_b_6ma1a",102818,0.18
+2011,"Madrid (Comunidad de)","13","para_b_menos6m",170182,0.3
+2011,"Madrid (Comunidad de)","13","parados",564355,0.11
+2011,"Madrid (Comunidad de)","13","total",5296468,1
+2011,"Melilla","19","activos",33928,0.57
+2011,"Melilla","19","asal_comp",18905,0.86
+2011,"Melilla","19","asal_indef",16538,0.76
+2011,"Melilla","19","asal_parc",1654,0.08
+2011,"Melilla","19","asal_parc_inv",1319,0.06
+2011,"Melilla","19","asal_temp",5340,0.24
+2011,"Melilla","19","asalariados",21876,0.83
+2011,"Melilla","19","c_propia",4453,0.17
+2011,"Melilla","19","inac_desanim",1552,0.03
+2011,"Melilla","19","inactivos",26031,0.43
+2011,"Melilla","19","ocupados",26329,0.44
+2011,"Melilla","19","para_b_1a2a",1778,0.23
+2011,"Melilla","19","para_b_2a4a",2610,0.34
+2011,"Melilla","19","para_b_4mas_a",722,0.1
+2011,"Melilla","19","para_b_6ma1a",1237,0.16
+2011,"Melilla","19","para_b_menos6m",1250,0.16
+2011,"Melilla","19","parados",7598,0.13
+2011,"Melilla","19","total",59959,1
+2011,"Murcia (Región de)","14","activos",725493,0.61
+2011,"Murcia (Región de)","14","asal_comp",386070,0.85
+2011,"Murcia (Región de)","14","asal_indef",302799,0.67
+2011,"Murcia (Región de)","14","asal_parc",27892,0.06
+2011,"Murcia (Región de)","14","asal_parc_inv",38275,0.08
+2011,"Murcia (Región de)","14","asal_temp",149438,0.33
+2011,"Murcia (Región de)","14","asalariados",452236,0.83
+2011,"Murcia (Región de)","14","c_propia",91972,0.17
+2011,"Murcia (Región de)","14","inac_desanim",13312,0.01
+2011,"Murcia (Región de)","14","inactivos",454341,0.39
+2011,"Murcia (Región de)","14","ocupados",544207,0.46
+2011,"Murcia (Región de)","14","para_b_1a2a",45118,0.25
+2011,"Murcia (Región de)","14","para_b_2a4a",37172,0.21
+2011,"Murcia (Región de)","14","para_b_4mas_a",9960,0.05
+2011,"Murcia (Región de)","14","para_b_6ma1a",28412,0.16
+2011,"Murcia (Región de)","14","para_b_menos6m",47907,0.26
+2011,"Murcia (Región de)","14","parados",181287,0.15
+2011,"Murcia (Región de)","14","total",1179835,1
+2011,"Nacional","0","activos",23434079,0.6
+2011,"Nacional","0","asal_comp",13193051,0.86
+2011,"Nacional","0","asal_indef",11524869,0.75
+2011,"Nacional","0","asal_parc",946173,0.06
+2011,"Nacional","0","asal_parc_inv",1254979,0.08
+2011,"Nacional","0","asal_temp",3869332,0.25
+2011,"Nacional","0","asalariados",15394201,0.84
+2011,"Nacional","0","c_propia",3027203,0.16
+2011,"Nacional","0","inac_desanim",390168,0.01
+2011,"Nacional","0","inactivos",15408246,0.4
+2011,"Nacional","0","ocupados",18421406,0.47
+2011,"Nacional","0","para_b_1a2a",1207242,0.24
+2011,"Nacional","0","para_b_2a4a",936403,0.19
+2011,"Nacional","0","para_b_4mas_a",325118,0.06
+2011,"Nacional","0","para_b_6ma1a",866797,0.17
+2011,"Nacional","0","para_b_menos6m",1365241,0.27
+2011,"Nacional","0","parados",5012675,0.13
+2011,"Nacional","0","total",38842328,1
+2011,"Navarra (Comunidad Foral de)","15","activos",320641,0.61
+2011,"Navarra (Comunidad Foral de)","15","asal_comp",197106,0.84
+2011,"Navarra (Comunidad Foral de)","15","asal_indef",173384,0.74
+2011,"Navarra (Comunidad Foral de)","15","asal_parc",18759,0.08
+2011,"Navarra (Comunidad Foral de)","15","asal_parc_inv",17900,0.08
+2011,"Navarra (Comunidad Foral de)","15","asal_temp",60385,0.26
+2011,"Navarra (Comunidad Foral de)","15","asalariados",233769,0.84
+2011,"Navarra (Comunidad Foral de)","15","c_propia",45230,0.16
+2011,"Navarra (Comunidad Foral de)","15","inac_desanim",3563,0.01
+2011,"Navarra (Comunidad Foral de)","15","inactivos",205170,0.39
+2011,"Navarra (Comunidad Foral de)","15","ocupados",279002,0.53
+2011,"Navarra (Comunidad Foral de)","15","para_b_1a2a",10878,0.26
+2011,"Navarra (Comunidad Foral de)","15","para_b_2a4a",6639,0.16
+2011,"Navarra (Comunidad Foral de)","15","para_b_4mas_a",1682,0.04
+2011,"Navarra (Comunidad Foral de)","15","para_b_6ma1a",9874,0.24
+2011,"Navarra (Comunidad Foral de)","15","para_b_menos6m",16363,0.39
+2011,"Navarra (Comunidad Foral de)","15","parados",41640,0.08
+2011,"Navarra (Comunidad Foral de)","15","total",525810,1
+2011,"País Vasco","16","activos",1091001,0.59
+2011,"País Vasco","16","asal_comp",669917,0.83
+2011,"País Vasco","16","asal_indef",616295,0.77
+2011,"País Vasco","16","asal_parc",66068,0.08
+2011,"País Vasco","16","asal_parc_inv",66663,0.08
+2011,"País Vasco","16","asal_temp",186351,0.23
+2011,"País Vasco","16","asalariados",802646,0.84
+2011,"País Vasco","16","c_propia",153611,0.16
+2011,"País Vasco","16","inac_desanim",13165,0.01
+2011,"País Vasco","16","inactivos",756237,0.41
+2011,"País Vasco","16","ocupados",956263,0.52
+2011,"País Vasco","16","para_b_1a2a",34557,0.26
+2011,"País Vasco","16","para_b_2a4a",23595,0.18
+2011,"País Vasco","16","para_b_4mas_a",9842,0.07
+2011,"País Vasco","16","para_b_6ma1a",24212,0.18
+2011,"País Vasco","16","para_b_menos6m",33271,0.25
+2011,"País Vasco","16","parados",134741,0.07
+2011,"País Vasco","16","total",1847246,1
+2011,"Rioja (La)","17","activos",162022,0.61
+2011,"Rioja (La)","17","asal_comp",90574,0.84
+2011,"Rioja (La)","17","asal_indef",86599,0.8
+2011,"Rioja (La)","17","asal_parc",9418,0.09
+2011,"Rioja (La)","17","asal_parc_inv",8119,0.08
+2011,"Rioja (La)","17","asal_temp",21511,0.2
+2011,"Rioja (La)","17","asalariados",108114,0.81
+2011,"Rioja (La)","17","c_propia",26024,0.19
+2011,"Rioja (La)","17","inac_desanim",3286,0.01
+2011,"Rioja (La)","17","inactivos",105322,0.39
+2011,"Rioja (La)","17","ocupados",134138,0.5
+2011,"Rioja (La)","17","para_b_1a2a",8655,0.31
+2011,"Rioja (La)","17","para_b_2a4a",4942,0.18
+2011,"Rioja (La)","17","para_b_4mas_a",1355,0.05
+2011,"Rioja (La)","17","para_b_6ma1a",4594,0.16
+2011,"Rioja (La)","17","para_b_menos6m",8898,0.32
+2011,"Rioja (La)","17","parados",27882,0.1
+2011,"Rioja (La)","17","total",267345,1
+2012,"Andalucía","1","activos",4045134,0.59
+2012,"Andalucía","1","asal_comp",1800557,0.83
+2012,"Andalucía","1","asal_indef",1473528,0.68
+2012,"Andalucía","1","asal_parc",115514,0.05
+2012,"Andalucía","1","asal_parc_inv",261726,0.12
+2012,"Andalucía","1","asal_temp",704268,0.32
+2012,"Andalucía","1","asalariados",2177798,0.82
+2012,"Andalucía","1","c_propia",477673,0.18
+2012,"Andalucía","1","inac_desanim",115510,0.02
+2012,"Andalucía","1","inactivos",2806757,0.41
+2012,"Andalucía","1","ocupados",2655469,0.39
+2012,"Andalucía","1","para_b_1a2a",294350,0.21
+2012,"Andalucía","1","para_b_2a4a",292332,0.21
+2012,"Andalucía","1","para_b_4mas_a",174295,0.13
+2012,"Andalucía","1","para_b_6ma1a",222349,0.16
+2012,"Andalucía","1","para_b_menos6m",338637,0.24
+2012,"Andalucía","1","parados",1389665,0.2
+2012,"Andalucía","1","total",6851889,1
+2012,"Aragón","2","activos",671696,0.6
+2012,"Aragón","2","asal_comp",385077,0.86
+2012,"Aragón","2","asal_indef",352358,0.78
+2012,"Aragón","2","asal_parc",26707,0.06
+2012,"Aragón","2","asal_parc_inv",37645,0.08
+2012,"Aragón","2","asal_temp",97069,0.22
+2012,"Aragón","2","asalariados",449424,0.82
+2012,"Aragón","2","c_propia",96891,0.18
+2012,"Aragón","2","inac_desanim",9894,0.01
+2012,"Aragón","2","inactivos",445495,0.4
+2012,"Aragón","2","ocupados",546320,0.49
+2012,"Aragón","2","para_b_1a2a",28065,0.22
+2012,"Aragón","2","para_b_2a4a",28649,0.23
+2012,"Aragón","2","para_b_4mas_a",8184,0.07
+2012,"Aragón","2","para_b_6ma1a",20515,0.16
+2012,"Aragón","2","para_b_menos6m",32685,0.26
+2012,"Aragón","2","parados",125376,0.11
+2012,"Aragón","2","total",1117190,1
+2012,"Asturias (Principado de)","3","activos",489833,0.52
+2012,"Asturias (Principado de)","3","asal_comp",264041,0.86
+2012,"Asturias (Principado de)","3","asal_indef",237948,0.77
+2012,"Asturias (Principado de)","3","asal_parc",17620,0.06
+2012,"Asturias (Principado de)","3","asal_parc_inv",27045,0.09
+2012,"Asturias (Principado de)","3","asal_temp",70756,0.23
+2012,"Asturias (Principado de)","3","asalariados",308703,0.81
+2012,"Asturias (Principado de)","3","c_propia",74219,0.19
+2012,"Asturias (Principado de)","3","inac_desanim",9758,0.01
+2012,"Asturias (Principado de)","3","inactivos",446776,0.48
+2012,"Asturias (Principado de)","3","ocupados",382920,0.41
+2012,"Asturias (Principado de)","3","para_b_1a2a",24650,0.23
+2012,"Asturias (Principado de)","3","para_b_2a4a",22916,0.21
+2012,"Asturias (Principado de)","3","para_b_4mas_a",9681,0.09
+2012,"Asturias (Principado de)","3","para_b_6ma1a",21313,0.2
+2012,"Asturias (Principado de)","3","para_b_menos6m",29684,0.28
+2012,"Asturias (Principado de)","3","parados",106913,0.11
+2012,"Asturias (Principado de)","3","total",936611,1
+2012,"Balears (Illes)","4","activos",614156,0.67
+2012,"Balears (Illes)","4","asal_comp",320035,0.85
+2012,"Balears (Illes)","4","asal_indef",284975,0.76
+2012,"Balears (Illes)","4","asal_parc",20138,0.05
+2012,"Balears (Illes)","4","asal_parc_inv",35382,0.09
+2012,"Balears (Illes)","4","asal_temp",90580,0.24
+2012,"Balears (Illes)","4","asalariados",375556,0.8
+2012,"Balears (Illes)","4","c_propia",96292,0.2
+2012,"Balears (Illes)","4","inac_desanim",6091,0.01
+2012,"Balears (Illes)","4","inactivos",302440,0.33
+2012,"Balears (Illes)","4","ocupados",471847,0.51
+2012,"Balears (Illes)","4","para_b_1a2a",30128,0.21
+2012,"Balears (Illes)","4","para_b_2a4a",25777,0.18
+2012,"Balears (Illes)","4","para_b_4mas_a",8556,0.06
+2012,"Balears (Illes)","4","para_b_6ma1a",25038,0.18
+2012,"Balears (Illes)","4","para_b_menos6m",40602,0.29
+2012,"Balears (Illes)","4","parados",142310,0.16
+2012,"Balears (Illes)","4","total",916601,1
+2012,"Canarias","5","activos",1102714,0.63
+2012,"Canarias","5","asal_comp",537281,0.85
+2012,"Canarias","5","asal_indef",457381,0.72
+2012,"Canarias","5","asal_parc",24613,0.04
+2012,"Canarias","5","asal_parc_inv",70921,0.11
+2012,"Canarias","5","asal_temp",175435,0.28
+2012,"Canarias","5","asalariados",632815,0.85
+2012,"Canarias","5","c_propia",110684,0.15
+2012,"Canarias","5","inac_desanim",21810,0.01
+2012,"Canarias","5","inactivos",648224,0.37
+2012,"Canarias","5","ocupados",743502,0.42
+2012,"Canarias","5","para_b_1a2a",80939,0.23
+2012,"Canarias","5","para_b_2a4a",73997,0.21
+2012,"Canarias","5","para_b_4mas_a",41431,0.12
+2012,"Canarias","5","para_b_6ma1a",62998,0.18
+2012,"Canarias","5","para_b_menos6m",84270,0.23
+2012,"Canarias","5","parados",359213,0.21
+2012,"Canarias","5","total",1750936,1
+2012,"Cantabria","6","activos",284949,0.57
+2012,"Cantabria","6","asal_comp",165816,0.86
+2012,"Cantabria","6","asal_indef",155579,0.8
+2012,"Cantabria","6","asal_parc",11866,0.06
+2012,"Cantabria","6","asal_parc_inv",15786,0.08
+2012,"Cantabria","6","asal_temp",37893,0.2
+2012,"Cantabria","6","asalariados",193471,0.83
+2012,"Cantabria","6","c_propia",40761,0.17
+2012,"Cantabria","6","inac_desanim",6071,0.01
+2012,"Cantabria","6","inactivos",216014,0.43
+2012,"Cantabria","6","ocupados",234231,0.47
+2012,"Cantabria","6","para_b_1a2a",15584,0.31
+2012,"Cantabria","6","para_b_2a4a",10150,0.2
+2012,"Cantabria","6","para_b_4mas_a",3801,0.07
+2012,"Cantabria","6","para_b_6ma1a",10780,0.21
+2012,"Cantabria","6","para_b_menos6m",17392,0.34
+2012,"Cantabria","6","parados",50716,0.1
+2012,"Cantabria","6","total",500962,1
+2012,"Castilla y León","7","activos",1191268,0.55
+2012,"Castilla y León","7","asal_comp",644010,0.85
+2012,"Castilla y León","7","asal_indef",601505,0.8
+2012,"Castilla y León","7","asal_parc",41462,0.05
+2012,"Castilla y León","7","asal_parc_inv",69221,0.09
+2012,"Castilla y León","7","asal_temp",153189,0.2
+2012,"Castilla y León","7","asalariados",754695,0.79
+2012,"Castilla y León","7","c_propia",200729,0.21
+2012,"Castilla y León","7","inac_desanim",24489,0.01
+2012,"Castilla y León","7","inactivos",957489,0.45
+2012,"Castilla y León","7","ocupados",955425,0.44
+2012,"Castilla y León","7","para_b_1a2a",56308,0.24
+2012,"Castilla y León","7","para_b_2a4a",45618,0.19
+2012,"Castilla y León","7","para_b_4mas_a",16768,0.07
+2012,"Castilla y León","7","para_b_6ma1a",41536,0.18
+2012,"Castilla y León","7","para_b_menos6m",62386,0.26
+2012,"Castilla y León","7","parados",235842,0.11
+2012,"Castilla y León","7","total",2148756,1
+2012,"Castilla-La Mancha","8","activos",1019216,0.59
+2012,"Castilla-La Mancha","8","asal_comp",496881,0.85
+2012,"Castilla-La Mancha","8","asal_indef",447084,0.77
+2012,"Castilla-La Mancha","8","asal_parc",31664,0.05
+2012,"Castilla-La Mancha","8","asal_parc_inv",53039,0.09
+2012,"Castilla-La Mancha","8","asal_temp",134505,0.23
+2012,"Castilla-La Mancha","8","asalariados",581584,0.8
+2012,"Castilla-La Mancha","8","c_propia",146333,0.2
+2012,"Castilla-La Mancha","8","inac_desanim",23795,0.01
+2012,"Castilla-La Mancha","8","inactivos",702750,0.41
+2012,"Castilla-La Mancha","8","ocupados",727917,0.42
+2012,"Castilla-La Mancha","8","para_b_1a2a",68471,0.24
+2012,"Castilla-La Mancha","8","para_b_2a4a",64101,0.22
+2012,"Castilla-La Mancha","8","para_b_4mas_a",21657,0.07
+2012,"Castilla-La Mancha","8","para_b_6ma1a",54641,0.19
+2012,"Castilla-La Mancha","8","para_b_menos6m",69593,0.24
+2012,"Castilla-La Mancha","8","parados",291296,0.17
+2012,"Castilla-La Mancha","8","total",1721964,1
+2012,"Cataluña","9","activos",3912373,0.63
+2012,"Cataluña","9","asal_comp",2161953,0.85
+2012,"Cataluña","9","asal_indef",2072820,0.82
+2012,"Cataluña","9","asal_parc",172076,0.07
+2012,"Cataluña","9","asal_parc_inv",206587,0.08
+2012,"Cataluña","9","asal_temp",467796,0.18
+2012,"Cataluña","9","asalariados",2540618,0.84
+2012,"Cataluña","9","c_propia",491016,0.16
+2012,"Cataluña","9","inac_desanim",40040,0.01
+2012,"Cataluña","9","inactivos",2255262,0.37
+2012,"Cataluña","9","ocupados",3031633,0.49
+2012,"Cataluña","9","para_b_1a2a",211806,0.24
+2012,"Cataluña","9","para_b_2a4a",206369,0.23
+2012,"Cataluña","9","para_b_4mas_a",57586,0.07
+2012,"Cataluña","9","para_b_6ma1a",141579,0.16
+2012,"Cataluña","9","para_b_menos6m",220795,0.25
+2012,"Cataluña","9","parados",880736,0.14
+2012,"Cataluña","9","total",6167635,1
+2012,"Ceuta","18","activos",38636,0.59
+2012,"Ceuta","18","asal_comp",19509,0.89
+2012,"Ceuta","18","asal_indef",17583,0.8
+2012,"Ceuta","18","asal_parc",594,0.03
+2012,"Ceuta","18","asal_parc_inv",1794,0.08
+2012,"Ceuta","18","asal_temp",4315,0.2
+2012,"Ceuta","18","asalariados",21896,0.9
+2012,"Ceuta","18","c_propia",2436,0.1
+2012,"Ceuta","18","inac_desanim",648,0.01
+2012,"Ceuta","18","inactivos",26305,0.41
+2012,"Ceuta","18","ocupados",24333,0.37
+2012,"Ceuta","18","para_b_1a2a",4600,0.32
+2012,"Ceuta","18","para_b_2a4a",4385,0.31
+2012,"Ceuta","18","para_b_4mas_a",2136,0.15
+2012,"Ceuta","18","para_b_6ma1a",3793,0.27
+2012,"Ceuta","18","para_b_menos6m",3875,0.27
+2012,"Ceuta","18","parados",14306,0.22
+2012,"Ceuta","18","total",64944,1
+2012,"Comunidad Valenciana","10","activos",2477059,0.6
+2012,"Comunidad Valenciana","10","asal_comp",1217186,0.82
+2012,"Comunidad Valenciana","10","asal_indef",1090895,0.74
+2012,"Comunidad Valenciana","10","asal_parc",90909,0.06
+2012,"Comunidad Valenciana","10","asal_parc_inv",175958,0.12
+2012,"Comunidad Valenciana","10","asal_temp",393156,0.26
+2012,"Comunidad Valenciana","10","asalariados",1484054,0.82
+2012,"Comunidad Valenciana","10","c_propia",319567,0.18
+2012,"Comunidad Valenciana","10","inac_desanim",60074,0.01
+2012,"Comunidad Valenciana","10","inactivos",1677876,0.4
+2012,"Comunidad Valenciana","10","ocupados",1803617,0.43
+2012,"Comunidad Valenciana","10","para_b_1a2a",156818,0.23
+2012,"Comunidad Valenciana","10","para_b_2a4a",168447,0.25
+2012,"Comunidad Valenciana","10","para_b_4mas_a",53641,0.08
+2012,"Comunidad Valenciana","10","para_b_6ma1a",95835,0.14
+2012,"Comunidad Valenciana","10","para_b_menos6m",161703,0.24
+2012,"Comunidad Valenciana","10","parados",673443,0.16
+2012,"Comunidad Valenciana","10","total",4154932,1
+2012,"Extremadura","11","activos",507191,0.55
+2012,"Extremadura","11","asal_comp",227755,0.84
+2012,"Extremadura","11","asal_indef",177577,0.65
+2012,"Extremadura","11","asal_parc",10689,0.04
+2012,"Extremadura","11","asal_parc_inv",33019,0.12
+2012,"Extremadura","11","asal_temp",93886,0.35
+2012,"Extremadura","11","asalariados",271465,0.8
+2012,"Extremadura","11","c_propia",67943,0.2
+2012,"Extremadura","11","inac_desanim",24333,0.03
+2012,"Extremadura","11","inactivos",412164,0.45
+2012,"Extremadura","11","ocupados",339412,0.37
+2012,"Extremadura","11","para_b_1a2a",44737,0.27
+2012,"Extremadura","11","para_b_2a4a",37261,0.22
+2012,"Extremadura","11","para_b_4mas_a",18952,0.11
+2012,"Extremadura","11","para_b_6ma1a",32026,0.19
+2012,"Extremadura","11","para_b_menos6m",44843,0.27
+2012,"Extremadura","11","parados",167778,0.18
+2012,"Extremadura","11","total",919354,1
+2012,"Galicia","12","activos",1317694,0.55
+2012,"Galicia","12","asal_comp",697410,0.86
+2012,"Galicia","12","asal_indef",624441,0.77
+2012,"Galicia","12","asal_parc",36650,0.05
+2012,"Galicia","12","asal_parc_inv",76082,0.09
+2012,"Galicia","12","asal_temp",185700,0.23
+2012,"Galicia","12","asalariados",810143,0.77
+2012,"Galicia","12","c_propia",237016,0.23
+2012,"Galicia","12","inac_desanim",27442,0.01
+2012,"Galicia","12","inactivos",1077460,0.45
+2012,"Galicia","12","ocupados",1047154,0.44
+2012,"Galicia","12","para_b_1a2a",61212,0.23
+2012,"Galicia","12","para_b_2a4a",53584,0.2
+2012,"Galicia","12","para_b_4mas_a",24527,0.09
+2012,"Galicia","12","para_b_6ma1a",49547,0.18
+2012,"Galicia","12","para_b_menos6m",66453,0.25
+2012,"Galicia","12","parados",270539,0.11
+2012,"Galicia","12","total",2395153,1
+2012,"Madrid (Comunidad de)","13","activos",3460114,0.65
+2012,"Madrid (Comunidad de)","13","asal_comp",2137729,0.87
+2012,"Madrid (Comunidad de)","13","asal_indef",2019077,0.83
+2012,"Madrid (Comunidad de)","13","asal_parc",132961,0.05
+2012,"Madrid (Comunidad de)","13","asal_parc_inv",174630,0.07
+2012,"Madrid (Comunidad de)","13","asal_temp",426244,0.17
+2012,"Madrid (Comunidad de)","13","asalariados",2445321,0.87
+2012,"Madrid (Comunidad de)","13","c_propia",373689,0.13
+2012,"Madrid (Comunidad de)","13","inac_desanim",42385,0.01
+2012,"Madrid (Comunidad de)","13","inactivos",1836535,0.35
+2012,"Madrid (Comunidad de)","13","ocupados",2819012,0.53
+2012,"Madrid (Comunidad de)","13","para_b_1a2a",162817,0.25
+2012,"Madrid (Comunidad de)","13","para_b_2a4a",122979,0.19
+2012,"Madrid (Comunidad de)","13","para_b_4mas_a",47702,0.07
+2012,"Madrid (Comunidad de)","13","para_b_6ma1a",121938,0.19
+2012,"Madrid (Comunidad de)","13","para_b_menos6m",156922,0.24
+2012,"Madrid (Comunidad de)","13","parados",641100,0.12
+2012,"Madrid (Comunidad de)","13","total",5296650,1
+2012,"Melilla","19","activos",35049,0.57
+2012,"Melilla","19","asal_comp",18615,0.86
+2012,"Melilla","19","asal_indef",14707,0.68
+2012,"Melilla","19","asal_parc",809,0.04
+2012,"Melilla","19","asal_parc_inv",2306,0.11
+2012,"Melilla","19","asal_temp",7022,0.32
+2012,"Melilla","19","asalariados",21729,0.85
+2012,"Melilla","19","c_propia",3880,0.15
+2012,"Melilla","19","inac_desanim",759,0.01
+2012,"Melilla","19","inactivos",26574,0.43
+2012,"Melilla","19","ocupados",25609,0.42
+2012,"Melilla","19","para_b_1a2a",2405,0.25
+2012,"Melilla","19","para_b_2a4a",3337,0.35
+2012,"Melilla","19","para_b_4mas_a",1944,0.21
+2012,"Melilla","19","para_b_6ma1a",1536,0.16
+2012,"Melilla","19","para_b_menos6m",1648,0.17
+2012,"Melilla","19","parados",9435,0.15
+2012,"Melilla","19","total",61622,1
+2012,"Murcia (Región de)","14","activos",728745,0.62
+2012,"Murcia (Región de)","14","asal_comp",360409,0.83
+2012,"Murcia (Región de)","14","asal_indef",296428,0.68
+2012,"Murcia (Región de)","14","asal_parc",26964,0.06
+2012,"Murcia (Región de)","14","asal_parc_inv",48275,0.11
+2012,"Murcia (Región de)","14","asal_temp",139221,0.32
+2012,"Murcia (Región de)","14","asalariados",435651,0.83
+2012,"Murcia (Región de)","14","c_propia",91891,0.17
+2012,"Murcia (Región de)","14","inac_desanim",14391,0.01
+2012,"Murcia (Región de)","14","inactivos",450916,0.38
+2012,"Murcia (Región de)","14","ocupados",527542,0.45
+2012,"Murcia (Región de)","14","para_b_1a2a",42971,0.21
+2012,"Murcia (Región de)","14","para_b_2a4a",44207,0.22
+2012,"Murcia (Región de)","14","para_b_4mas_a",16032,0.08
+2012,"Murcia (Región de)","14","para_b_6ma1a",32772,0.16
+2012,"Murcia (Región de)","14","para_b_menos6m",52641,0.26
+2012,"Murcia (Región de)","14","parados",201201,0.17
+2012,"Murcia (Región de)","14","total",1179659,1
+2012,"Nacional","0","activos",23443710,0.6
+2012,"Nacional","0","asal_comp",12338032,0.85
+2012,"Nacional","0","asal_indef",11161951,0.77
+2012,"Nacional","0","asal_parc",851874,0.06
+2012,"Nacional","0","asal_parc_inv",1383490,0.09
+2012,"Nacional","0","asal_temp",3411446,0.23
+2012,"Nacional","0","asalariados",14573400,0.83
+2012,"Nacional","0","c_propia",3059267,0.17
+2012,"Nacional","0","inac_desanim",452053,0.01
+2012,"Nacional","0","inactivos",15371308,0.4
+2012,"Nacional","0","ocupados",17632664,0.45
+2012,"Nacional","0","para_b_1a2a",1331991,0.23
+2012,"Nacional","0","para_b_2a4a",1244325,0.21
+2012,"Nacional","0","para_b_4mas_a",526845,0.09
+2012,"Nacional","0","para_b_6ma1a",971692,0.17
+2012,"Nacional","0","para_b_menos6m",1436650,0.25
+2012,"Nacional","0","parados",5811043,0.15
+2012,"Nacional","0","total",38815016,1
+2012,"Navarra (Comunidad Foral de)","15","activos",319094,0.61
+2012,"Navarra (Comunidad Foral de)","15","asal_comp",179414,0.83
+2012,"Navarra (Comunidad Foral de)","15","asal_indef",169939,0.78
+2012,"Navarra (Comunidad Foral de)","15","asal_parc",18413,0.08
+2012,"Navarra (Comunidad Foral de)","15","asal_parc_inv",19467,0.09
+2012,"Navarra (Comunidad Foral de)","15","asal_temp",47353,0.22
+2012,"Navarra (Comunidad Foral de)","15","asalariados",217292,0.81
+2012,"Navarra (Comunidad Foral de)","15","c_propia",50233,0.19
+2012,"Navarra (Comunidad Foral de)","15","inac_desanim",5260,0.01
+2012,"Navarra (Comunidad Foral de)","15","inactivos",206469,0.39
+2012,"Navarra (Comunidad Foral de)","15","ocupados",267526,0.51
+2012,"Navarra (Comunidad Foral de)","15","para_b_1a2a",11863,0.23
+2012,"Navarra (Comunidad Foral de)","15","para_b_2a4a",9312,0.18
+2012,"Navarra (Comunidad Foral de)","15","para_b_4mas_a",3479,0.07
+2012,"Navarra (Comunidad Foral de)","15","para_b_6ma1a",9581,0.19
+2012,"Navarra (Comunidad Foral de)","15","para_b_menos6m",13740,0.27
+2012,"Navarra (Comunidad Foral de)","15","parados",51569,0.1
+2012,"Navarra (Comunidad Foral de)","15","total",525566,1
+2012,"País Vasco","16","activos",1069661,0.58
+2012,"País Vasco","16","asal_comp",620121,0.83
+2012,"País Vasco","16","asal_indef",588286,0.78
+2012,"País Vasco","16","asal_parc",64196,0.09
+2012,"País Vasco","16","asal_parc_inv",66102,0.09
+2012,"País Vasco","16","asal_temp",162132,0.22
+2012,"País Vasco","16","asalariados",750419,0.83
+2012,"País Vasco","16","c_propia",152400,0.17
+2012,"País Vasco","16","inac_desanim",15704,0.01
+2012,"País Vasco","16","inactivos",769054,0.42
+2012,"País Vasco","16","ocupados",902817,0.49
+2012,"País Vasco","16","para_b_1a2a",43359,0.26
+2012,"País Vasco","16","para_b_2a4a",38755,0.23
+2012,"País Vasco","16","para_b_4mas_a",20309,0.12
+2012,"País Vasco","16","para_b_6ma1a",29981,0.18
+2012,"País Vasco","16","para_b_menos6m",49545,0.3
+2012,"País Vasco","16","parados",166844,0.09
+2012,"País Vasco","16","total",1838714,1
+2012,"Rioja (La)","17","activos",159139,0.6
+2012,"Rioja (La)","17","asal_comp",84237,0.84
+2012,"Rioja (La)","17","asal_indef",79843,0.79
+2012,"Rioja (La)","17","asal_parc",8026,0.08
+2012,"Rioja (La)","17","asal_parc_inv",8498,0.08
+2012,"Rioja (La)","17","asal_temp",20921,0.21
+2012,"Rioja (La)","17","asalariados",100763,0.8
+2012,"Rioja (La)","17","c_propia",25620,0.2
+2012,"Rioja (La)","17","inac_desanim",3596,0.01
+2012,"Rioja (La)","17","inactivos",106747,0.4
+2012,"Rioja (La)","17","ocupados",126380,0.48
+2012,"Rioja (La)","17","para_b_1a2a",12587,0.38
+2012,"Rioja (La)","17","para_b_2a4a",10704,0.33
+2012,"Rioja (La)","17","para_b_4mas_a",2231,0.07
+2012,"Rioja (La)","17","para_b_6ma1a",9410,0.29
+2012,"Rioja (La)","17","para_b_menos6m",15218,0.46
+2012,"Rioja (La)","17","parados",32756,0.12
+2012,"Rioja (La)","17","total",265884,1
+2013,"Andalucía","1","activos",4032038,0.59
+2013,"Andalucía","1","asal_comp",1681435,0.81
+2013,"Andalucía","1","asal_indef",1428997,0.69
+2013,"Andalucía","1","asal_parc",101417,0.05
+2013,"Andalucía","1","asal_parc_inv",301139,0.14
+2013,"Andalucía","1","asal_temp",655000,0.31
+2013,"Andalucía","1","asalariados",2083994,0.81
+2013,"Andalucía","1","c_propia",487481,0.19
+2013,"Andalucía","1","inac_desanim",134412,0.02
+2013,"Andalucía","1","inactivos",2824417,0.41
+2013,"Andalucía","1","ocupados",2571478,0.38
+2013,"Andalucía","1","para_b_1a2a",299084,0.2
+2013,"Andalucía","1","para_b_2a4a",330245,0.23
+2013,"Andalucía","1","para_b_4mas_a",257163,0.18
+2013,"Andalucía","1","para_b_6ma1a",206685,0.14
+2013,"Andalucía","1","para_b_menos6m",305111,0.21
+2013,"Andalucía","1","parados",1460562,0.21
+2013,"Andalucía","1","total",6856455,1
+2013,"Aragón","2","activos",655423,0.59
+2013,"Aragón","2","asal_comp",353487,0.83
+2013,"Aragón","2","asal_indef",333119,0.78
+2013,"Aragón","2","asal_parc",27807,0.07
+2013,"Aragón","2","asal_parc_inv",43355,0.1
+2013,"Aragón","2","asal_temp",91528,0.22
+2013,"Aragón","2","asalariados",424645,0.82
+2013,"Aragón","2","c_propia",90603,0.18
+2013,"Aragón","2","inac_desanim",10636,0.01
+2013,"Aragón","2","inactivos",454378,0.41
+2013,"Aragón","2","ocupados",515251,0.46
+2013,"Aragón","2","para_b_1a2a",38193,0.27
+2013,"Aragón","2","para_b_2a4a",35070,0.25
+2013,"Aragón","2","para_b_4mas_a",16454,0.12
+2013,"Aragón","2","para_b_6ma1a",27274,0.19
+2013,"Aragón","2","para_b_menos6m",35475,0.25
+2013,"Aragón","2","parados",140176,0.13
+2013,"Aragón","2","total",1109804,1
+2013,"Asturias (Principado de)","3","activos",486971,0.52
+2013,"Asturias (Principado de)","3","asal_comp",245333,0.84
+2013,"Asturias (Principado de)","3","asal_indef",223745,0.77
+2013,"Asturias (Principado de)","3","asal_parc",15497,0.05
+2013,"Asturias (Principado de)","3","asal_parc_inv",29901,0.1
+2013,"Asturias (Principado de)","3","asal_temp",66981,0.23
+2013,"Asturias (Principado de)","3","asalariados",290729,0.79
+2013,"Asturias (Principado de)","3","c_propia",78713,0.21
+2013,"Asturias (Principado de)","3","inac_desanim",10203,0.01
+2013,"Asturias (Principado de)","3","inactivos",441716,0.48
+2013,"Asturias (Principado de)","3","ocupados",369442,0.4
+2013,"Asturias (Principado de)","3","para_b_1a2a",27862,0.24
+2013,"Asturias (Principado de)","3","para_b_2a4a",29354,0.25
+2013,"Asturias (Principado de)","3","para_b_4mas_a",15291,0.13
+2013,"Asturias (Principado de)","3","para_b_6ma1a",17339,0.15
+2013,"Asturias (Principado de)","3","para_b_menos6m",22333,0.19
+2013,"Asturias (Principado de)","3","parados",117526,0.13
+2013,"Asturias (Principado de)","3","total",928683,1
+2013,"Balears (Illes)","4","activos",612032,0.66
+2013,"Balears (Illes)","4","asal_comp",326630,0.85
+2013,"Balears (Illes)","4","asal_indef",286441,0.75
+2013,"Balears (Illes)","4","asal_parc",18292,0.05
+2013,"Balears (Illes)","4","asal_parc_inv",37326,0.1
+2013,"Balears (Illes)","4","asal_temp",95807,0.25
+2013,"Balears (Illes)","4","asalariados",382248,0.8
+2013,"Balears (Illes)","4","c_propia",93569,0.2
+2013,"Balears (Illes)","4","inac_desanim",6453,0.01
+2013,"Balears (Illes)","4","inactivos",312129,0.34
+2013,"Balears (Illes)","4","ocupados",475814,0.51
+2013,"Balears (Illes)","4","para_b_1a2a",31012,0.23
+2013,"Balears (Illes)","4","para_b_2a4a",28362,0.21
+2013,"Balears (Illes)","4","para_b_4mas_a",12818,0.09
+2013,"Balears (Illes)","4","para_b_6ma1a",20767,0.15
+2013,"Balears (Illes)","4","para_b_menos6m",41940,0.31
+2013,"Balears (Illes)","4","parados",136214,0.15
+2013,"Balears (Illes)","4","total",924163,1
+2013,"Canarias","5","activos",1101076,0.62
+2013,"Canarias","5","asal_comp",513364,0.83
+2013,"Canarias","5","asal_indef",441073,0.71
+2013,"Canarias","5","asal_parc",23890,0.04
+2013,"Canarias","5","asal_parc_inv",83330,0.13
+2013,"Canarias","5","asal_temp",179511,0.29
+2013,"Canarias","5","asalariados",620585,0.85
+2013,"Canarias","5","c_propia",109087,0.15
+2013,"Canarias","5","inac_desanim",25328,0.01
+2013,"Canarias","5","inactivos",667890,0.38
+2013,"Canarias","5","ocupados",729673,0.41
+2013,"Canarias","5","para_b_1a2a",87678,0.24
+2013,"Canarias","5","para_b_2a4a",86546,0.23
+2013,"Canarias","5","para_b_4mas_a",60085,0.16
+2013,"Canarias","5","para_b_6ma1a",52734,0.14
+2013,"Canarias","5","para_b_menos6m",70208,0.19
+2013,"Canarias","5","parados",371404,0.21
+2013,"Canarias","5","total",1768965,1
+2013,"Cantabria","6","activos",279634,0.56
+2013,"Cantabria","6","asal_comp",153484,0.84
+2013,"Cantabria","6","asal_indef",144914,0.8
+2013,"Cantabria","6","asal_parc",9394,0.05
+2013,"Cantabria","6","asal_parc_inv",19139,0.11
+2013,"Cantabria","6","asal_temp",37105,0.2
+2013,"Cantabria","6","asalariados",182016,0.82
+2013,"Cantabria","6","c_propia",40450,0.18
+2013,"Cantabria","6","inac_desanim",5436,0.01
+2013,"Cantabria","6","inactivos",218440,0.44
+2013,"Cantabria","6","ocupados",222468,0.45
+2013,"Cantabria","6","para_b_1a2a",14457,0.25
+2013,"Cantabria","6","para_b_2a4a",14270,0.25
+2013,"Cantabria","6","para_b_4mas_a",7157,0.13
+2013,"Cantabria","6","para_b_6ma1a",8881,0.16
+2013,"Cantabria","6","para_b_menos6m",13953,0.24
+2013,"Cantabria","6","parados",57167,0.11
+2013,"Cantabria","6","total",498080,1
+2013,"Castilla y León","7","activos",1171072,0.55
+2013,"Castilla y León","7","asal_comp",583604,0.82
+2013,"Castilla y León","7","asal_indef",561655,0.79
+2013,"Castilla y León","7","asal_parc",47445,0.07
+2013,"Castilla y León","7","asal_parc_inv",77976,0.11
+2013,"Castilla y León","7","asal_temp",147370,0.21
+2013,"Castilla y León","7","asalariados",709023,0.77
+2013,"Castilla y León","7","c_propia",207350,0.23
+2013,"Castilla y León","7","inac_desanim",29938,0.01
+2013,"Castilla y León","7","inactivos",958736,0.45
+2013,"Castilla y León","7","ocupados",916374,0.43
+2013,"Castilla y León","7","para_b_1a2a",61742,0.24
+2013,"Castilla y León","7","para_b_2a4a",59998,0.24
+2013,"Castilla y León","7","para_b_4mas_a",27824,0.11
+2013,"Castilla y León","7","para_b_6ma1a",39962,0.16
+2013,"Castilla y León","7","para_b_menos6m",53093,0.21
+2013,"Castilla y León","7","parados",254695,0.12
+2013,"Castilla y León","7","total",2129807,1
+2013,"Castilla-La Mancha","8","activos",1017117,0.6
+2013,"Castilla-La Mancha","8","asal_comp",474955,0.84
+2013,"Castilla-La Mancha","8","asal_indef",432905,0.77
+2013,"Castilla-La Mancha","8","asal_parc",30025,0.05
+2013,"Castilla-La Mancha","8","asal_parc_inv",58634,0.1
+2013,"Castilla-La Mancha","8","asal_temp",130714,0.23
+2013,"Castilla-La Mancha","8","asalariados",563618,0.79
+2013,"Castilla-La Mancha","8","c_propia",148702,0.21
+2013,"Castilla-La Mancha","8","inac_desanim",21406,0.01
+2013,"Castilla-La Mancha","8","inactivos",691527,0.4
+2013,"Castilla-La Mancha","8","ocupados",712320,0.42
+2013,"Castilla-La Mancha","8","para_b_1a2a",79583,0.26
+2013,"Castilla-La Mancha","8","para_b_2a4a",79792,0.26
+2013,"Castilla-La Mancha","8","para_b_4mas_a",37107,0.12
+2013,"Castilla-La Mancha","8","para_b_6ma1a",43823,0.14
+2013,"Castilla-La Mancha","8","para_b_menos6m",55301,0.18
+2013,"Castilla-La Mancha","8","parados",304799,0.18
+2013,"Castilla-La Mancha","8","total",1708643,1
+2013,"Cataluña","9","activos",3862827,0.63
+2013,"Cataluña","9","asal_comp",2068691,0.84
+2013,"Cataluña","9","asal_indef",2011036,0.81
+2013,"Cataluña","9","asal_parc",175121,0.07
+2013,"Cataluña","9","asal_parc_inv",227271,0.09
+2013,"Cataluña","9","asal_temp",460044,0.19
+2013,"Cataluña","9","asalariados",2471081,0.83
+2013,"Cataluña","9","c_propia",498501,0.17
+2013,"Cataluña","9","inac_desanim",42380,0.01
+2013,"Cataluña","9","inactivos",2254225,0.37
+2013,"Cataluña","9","ocupados",2969582,0.49
+2013,"Cataluña","9","para_b_1a2a",223478,0.25
+2013,"Cataluña","9","para_b_2a4a",209834,0.23
+2013,"Cataluña","9","para_b_4mas_a",88420,0.1
+2013,"Cataluña","9","para_b_6ma1a",140611,0.16
+2013,"Cataluña","9","para_b_menos6m",187257,0.21
+2013,"Cataluña","9","parados",893247,0.15
+2013,"Cataluña","9","total",6117054,1
+2013,"Ceuta","18","activos",39213,0.6
+2013,"Ceuta","18","asal_comp",20001,0.88
+2013,"Ceuta","18","asal_indef",19449,0.86
+2013,"Ceuta","18","asal_parc",738,0.03
+2013,"Ceuta","18","asal_parc_inv",1963,0.09
+2013,"Ceuta","18","asal_temp",3250,0.14
+2013,"Ceuta","18","asalariados",22701,0.89
+2013,"Ceuta","18","c_propia",2851,0.11
+2013,"Ceuta","18","inac_desanim",482,0.01
+2013,"Ceuta","18","inactivos",25786,0.4
+2013,"Ceuta","18","ocupados",25553,0.39
+2013,"Ceuta","18","para_b_1a2a",3613,0.26
+2013,"Ceuta","18","para_b_2a4a",3736,0.27
+2013,"Ceuta","18","para_b_4mas_a",2848,0.21
+2013,"Ceuta","18","para_b_6ma1a",1958,0.14
+2013,"Ceuta","18","para_b_menos6m",1788,0.13
+2013,"Ceuta","18","parados",13661,0.21
+2013,"Ceuta","18","total",65000,1
+2013,"Comunidad Valenciana","10","activos",2461688,0.6
+2013,"Comunidad Valenciana","10","asal_comp",1141089,0.8
+2013,"Comunidad Valenciana","10","asal_indef",1045327,0.73
+2013,"Comunidad Valenciana","10","asal_parc",89300,0.06
+2013,"Comunidad Valenciana","10","asal_parc_inv",197349,0.14
+2013,"Comunidad Valenciana","10","asal_temp",382415,0.27
+2013,"Comunidad Valenciana","10","asalariados",1427741,0.81
+2013,"Comunidad Valenciana","10","c_propia",343463,0.19
+2013,"Comunidad Valenciana","10","inac_desanim",60349,0.01
+2013,"Comunidad Valenciana","10","inactivos",1665043,0.4
+2013,"Comunidad Valenciana","10","ocupados",1771201,0.43
+2013,"Comunidad Valenciana","10","para_b_1a2a",159280,0.23
+2013,"Comunidad Valenciana","10","para_b_2a4a",172162,0.25
+2013,"Comunidad Valenciana","10","para_b_4mas_a",91048,0.13
+2013,"Comunidad Valenciana","10","para_b_6ma1a",98664,0.14
+2013,"Comunidad Valenciana","10","para_b_menos6m",133160,0.19
+2013,"Comunidad Valenciana","10","parados",690484,0.17
+2013,"Comunidad Valenciana","10","total",4126733,1
+2013,"Extremadura","11","activos",513702,0.56
+2013,"Extremadura","11","asal_comp",218865,0.81
+2013,"Extremadura","11","asal_indef",181804,0.67
+2013,"Extremadura","11","asal_parc",13959,0.05
+2013,"Extremadura","11","asal_parc_inv",37696,0.14
+2013,"Extremadura","11","asal_temp",88720,0.33
+2013,"Extremadura","11","asalariados",270522,0.8
+2013,"Extremadura","11","c_propia",69167,0.2
+2013,"Extremadura","11","inac_desanim",23089,0.03
+2013,"Extremadura","11","inactivos",403791,0.44
+2013,"Extremadura","11","ocupados",339688,0.37
+2013,"Extremadura","11","para_b_1a2a",39718,0.23
+2013,"Extremadura","11","para_b_2a4a",36603,0.21
+2013,"Extremadura","11","para_b_4mas_a",23195,0.13
+2013,"Extremadura","11","para_b_6ma1a",27486,0.16
+2013,"Extremadura","11","para_b_menos6m",38284,0.22
+2013,"Extremadura","11","parados",174012,0.19
+2013,"Extremadura","11","total",917495,1
+2013,"Galicia","12","activos",1290929,0.54
+2013,"Galicia","12","asal_comp",652112,0.84
+2013,"Galicia","12","asal_indef",598586,0.77
+2013,"Galicia","12","asal_parc",37800,0.05
+2013,"Galicia","12","asal_parc_inv",85397,0.11
+2013,"Galicia","12","asal_temp",176726,0.23
+2013,"Galicia","12","asalariados",775309,0.77
+2013,"Galicia","12","c_propia",231054,0.23
+2013,"Galicia","12","inac_desanim",30920,0.01
+2013,"Galicia","12","inactivos",1091359,0.46
+2013,"Galicia","12","ocupados",1006365,0.42
+2013,"Galicia","12","para_b_1a2a",65177,0.23
+2013,"Galicia","12","para_b_2a4a",61800,0.22
+2013,"Galicia","12","para_b_4mas_a",40101,0.14
+2013,"Galicia","12","para_b_6ma1a",44945,0.16
+2013,"Galicia","12","para_b_menos6m",59319,0.21
+2013,"Galicia","12","parados",284562,0.12
+2013,"Galicia","12","total",2382287,1
+2013,"Madrid (Comunidad de)","13","activos",3387596,0.64
+2013,"Madrid (Comunidad de)","13","asal_comp",2025726,0.86
+2013,"Madrid (Comunidad de)","13","asal_indef",1976478,0.84
+2013,"Madrid (Comunidad de)","13","asal_parc",132371,0.06
+2013,"Madrid (Comunidad de)","13","asal_parc_inv",206446,0.09
+2013,"Madrid (Comunidad de)","13","asal_temp",388064,0.16
+2013,"Madrid (Comunidad de)","13","asalariados",2364544,0.87
+2013,"Madrid (Comunidad de)","13","c_propia",353540,0.13
+2013,"Madrid (Comunidad de)","13","inac_desanim",48459,0.01
+2013,"Madrid (Comunidad de)","13","inactivos",1867414,0.36
+2013,"Madrid (Comunidad de)","13","ocupados",2718082,0.52
+2013,"Madrid (Comunidad de)","13","para_b_1a2a",159245,0.24
+2013,"Madrid (Comunidad de)","13","para_b_2a4a",157056,0.23
+2013,"Madrid (Comunidad de)","13","para_b_4mas_a",77835,0.12
+2013,"Madrid (Comunidad de)","13","para_b_6ma1a",109687,0.16
+2013,"Madrid (Comunidad de)","13","para_b_menos6m",141747,0.21
+2013,"Madrid (Comunidad de)","13","parados",669516,0.13
+2013,"Madrid (Comunidad de)","13","total",5255005,1
+2013,"Melilla","19","activos",36480,0.59
+2013,"Melilla","19","asal_comp",17422,0.82
+2013,"Melilla","19","asal_indef",15550,0.73
+2013,"Melilla","19","asal_parc",1250,0.06
+2013,"Melilla","19","asal_parc_inv",2537,0.12
+2013,"Melilla","19","asal_temp",5658,0.27
+2013,"Melilla","19","asalariados",21208,0.86
+2013,"Melilla","19","c_propia",3411,0.14
+2013,"Melilla","19","inac_desanim",844,0.01
+2013,"Melilla","19","inactivos",25198,0.41
+2013,"Melilla","19","ocupados",24618,0.4
+2013,"Melilla","19","para_b_1a2a",3155,0.27
+2013,"Melilla","19","para_b_2a4a",2638,0.22
+2013,"Melilla","19","para_b_4mas_a",2273,0.19
+2013,"Melilla","19","para_b_6ma1a",2622,0.22
+2013,"Melilla","19","para_b_menos6m",1879,0.16
+2013,"Melilla","19","parados",11863,0.19
+2013,"Melilla","19","total",61678,1
+2013,"Murcia (Región de)","14","activos",724955,0.61
+2013,"Murcia (Región de)","14","asal_comp",348080,0.82
+2013,"Murcia (Región de)","14","asal_indef",291363,0.69
+2013,"Murcia (Región de)","14","asal_parc",26667,0.06
+2013,"Murcia (Región de)","14","asal_parc_inv",49457,0.12
+2013,"Murcia (Región de)","14","asal_temp",132843,0.31
+2013,"Murcia (Región de)","14","asalariados",424203,0.82
+2013,"Murcia (Región de)","14","c_propia",90687,0.18
+2013,"Murcia (Región de)","14","inac_desanim",12407,0.01
+2013,"Murcia (Región de)","14","inactivos",455786,0.39
+2013,"Murcia (Región de)","14","ocupados",514891,0.44
+2013,"Murcia (Región de)","14","para_b_1a2a",41680,0.2
+2013,"Murcia (Región de)","14","para_b_2a4a",49393,0.24
+2013,"Murcia (Región de)","14","para_b_4mas_a",29691,0.14
+2013,"Murcia (Región de)","14","para_b_6ma1a",28175,0.13
+2013,"Murcia (Región de)","14","para_b_menos6m",49256,0.23
+2013,"Murcia (Región de)","14","parados",210063,0.18
+2013,"Murcia (Región de)","14","total",1180740,1
+2013,"Nacional","0","activos",23190140,0.6
+2013,"Nacional","0","asal_comp",11677197,0.83
+2013,"Nacional","0","asal_indef",10813614,0.77
+2013,"Nacional","0","asal_parc",831719,0.06
+2013,"Nacional","0","asal_parc_inv",1560196,0.11
+2013,"Nacional","0","asal_temp",3255497,0.23
+2013,"Nacional","0","asalariados",14069111,0.82
+2013,"Nacional","0","c_propia",3069896,0.18
+2013,"Nacional","0","inac_desanim",488538,0.01
+2013,"Nacional","0","inactivos",15448465,0.4
+2013,"Nacional","0","ocupados",17139008,0.44
+2013,"Nacional","0","para_b_1a2a",1388156,0.23
+2013,"Nacional","0","para_b_2a4a",1401334,0.23
+2013,"Nacional","0","para_b_4mas_a",815899,0.13
+2013,"Nacional","0","para_b_6ma1a",908011,0.15
+2013,"Nacional","0","para_b_menos6m",1261920,0.21
+2013,"Nacional","0","parados",6051134,0.16
+2013,"Nacional","0","total",38638607,1
+2013,"Navarra (Comunidad Foral de)","15","activos",314512,0.6
+2013,"Navarra (Comunidad Foral de)","15","asal_comp",176517,0.83
+2013,"Navarra (Comunidad Foral de)","15","asal_indef",169261,0.8
+2013,"Navarra (Comunidad Foral de)","15","asal_parc",15061,0.07
+2013,"Navarra (Comunidad Foral de)","15","asal_parc_inv",20412,0.1
+2013,"Navarra (Comunidad Foral de)","15","asal_temp",42731,0.2
+2013,"Navarra (Comunidad Foral de)","15","asalariados",211994,0.82
+2013,"Navarra (Comunidad Foral de)","15","c_propia",46112,0.18
+2013,"Navarra (Comunidad Foral de)","15","inac_desanim",5820,0.01
+2013,"Navarra (Comunidad Foral de)","15","inactivos",208148,0.4
+2013,"Navarra (Comunidad Foral de)","15","ocupados",258107,0.49
+2013,"Navarra (Comunidad Foral de)","15","para_b_1a2a",17446,0.31
+2013,"Navarra (Comunidad Foral de)","15","para_b_2a4a",14292,0.25
+2013,"Navarra (Comunidad Foral de)","15","para_b_4mas_a",5592,0.1
+2013,"Navarra (Comunidad Foral de)","15","para_b_6ma1a",12308,0.22
+2013,"Navarra (Comunidad Foral de)","15","para_b_menos6m",18823,0.33
+2013,"Navarra (Comunidad Foral de)","15","parados",56406,0.11
+2013,"Navarra (Comunidad Foral de)","15","total",522656,1
+2013,"País Vasco","16","activos",1047163,0.57
+2013,"País Vasco","16","asal_comp",595073,0.82
+2013,"País Vasco","16","asal_indef",573346,0.79
+2013,"País Vasco","16","asal_parc",57692,0.08
+2013,"País Vasco","16","asal_parc_inv",71353,0.1
+2013,"País Vasco","16","asal_temp",150771,0.21
+2013,"País Vasco","16","asalariados",724124,0.83
+2013,"País Vasco","16","c_propia",149461,0.17
+2013,"País Vasco","16","inac_desanim",16828,0.01
+2013,"País Vasco","16","inactivos",775640,0.43
+2013,"País Vasco","16","ocupados",873587,0.48
+2013,"País Vasco","16","para_b_1a2a",41541,0.24
+2013,"País Vasco","16","para_b_2a4a",35369,0.2
+2013,"País Vasco","16","para_b_4mas_a",23910,0.14
+2013,"País Vasco","16","para_b_6ma1a",27243,0.16
+2013,"País Vasco","16","para_b_menos6m",38175,0.22
+2013,"País Vasco","16","parados",173580,0.1
+2013,"País Vasco","16","total",1822804,1
+2013,"Rioja (La)","17","activos",155711,0.59
+2013,"Rioja (La)","17","asal_comp",81316,0.82
+2013,"Rioja (La)","17","asal_indef",78566,0.79
+2013,"Rioja (La)","17","asal_parc",7997,0.08
+2013,"Rioja (La)","17","asal_parc_inv",9518,0.1
+2013,"Rioja (La)","17","asal_temp",20263,0.21
+2013,"Rioja (La)","17","asalariados",98829,0.79
+2013,"Rioja (La)","17","c_propia",25683,0.21
+2013,"Rioja (La)","17","inac_desanim",3149,0.01
+2013,"Rioja (La)","17","inactivos",106854,0.41
+2013,"Rioja (La)","17","ocupados",124514,0.47
+2013,"Rioja (La)","17","para_b_1a2a",8131,0.26
+2013,"Rioja (La)","17","para_b_2a4a",6866,0.22
+2013,"Rioja (La)","17","para_b_4mas_a",3446,0.11
+2013,"Rioja (La)","17","para_b_6ma1a",6349,0.2
+2013,"Rioja (La)","17","para_b_menos6m",8559,0.27
+2013,"Rioja (La)","17","parados",31196,0.12
+2013,"Rioja (La)","17","total",262562,1
+2014,"Andalucía","1","activos",4038669,0.59
+2014,"Andalucía","1","asal_comp",1713661,0.8
+2014,"Andalucía","1","asal_indef",1403574,0.66
+2014,"Andalucía","1","asal_parc",108239,0.05
+2014,"Andalucía","1","asal_parc_inv",314835,0.15
+2014,"Andalucía","1","asal_temp",733164,0.34
+2014,"Andalucía","1","asalariados",2136733,0.81
+2014,"Andalucía","1","c_propia",497307,0.19
+2014,"Andalucía","1","inac_desanim",128433,0.02
+2014,"Andalucía","1","inactivos",2826195,0.41
+2014,"Andalucía","1","ocupados",2634045,0.38
+2014,"Andalucía","1","para_b_1a2a",250510,0.18
+2014,"Andalucía","1","para_b_2a4a",316457,0.23
+2014,"Andalucía","1","para_b_4mas_a",319536,0.23
+2014,"Andalucía","1","para_b_6ma1a",166476,0.12
+2014,"Andalucía","1","para_b_menos6m",289861,0.21
+2014,"Andalucía","1","parados",1404627,0.2
+2014,"Andalucía","1","total",6864867,1
+2014,"Aragón","2","activos",650637,0.59
+2014,"Aragón","2","asal_comp",351946,0.83
+2014,"Aragón","2","asal_indef",321146,0.76
+2014,"Aragón","2","asal_parc",29748,0.07
+2014,"Aragón","2","asal_parc_inv",40425,0.1
+2014,"Aragón","2","asal_temp",100972,0.24
+2014,"Aragón","2","asalariados",422119,0.81
+2014,"Aragón","2","c_propia",97255,0.19
+2014,"Aragón","2","inac_desanim",8724,0.01
+2014,"Aragón","2","inactivos",453660,0.41
+2014,"Aragón","2","ocupados",519373,0.47
+2014,"Aragón","2","para_b_1a2a",32056,0.24
+2014,"Aragón","2","para_b_2a4a",30563,0.23
+2014,"Aragón","2","para_b_4mas_a",19292,0.15
+2014,"Aragón","2","para_b_6ma1a",17485,0.13
+2014,"Aragón","2","para_b_menos6m",31909,0.24
+2014,"Aragón","2","parados",131265,0.12
+2014,"Aragón","2","total",1104298,1
+2014,"Asturias (Principado de)","3","activos",477136,0.52
+2014,"Asturias (Principado de)","3","asal_comp",257840,0.85
+2014,"Asturias (Principado de)","3","asal_indef",224990,0.75
+2014,"Asturias (Principado de)","3","asal_parc",14174,0.05
+2014,"Asturias (Principado de)","3","asal_parc_inv",29866,0.1
+2014,"Asturias (Principado de)","3","asal_temp",76888,0.25
+2014,"Asturias (Principado de)","3","asalariados",301882,0.8
+2014,"Asturias (Principado de)","3","c_propia",74430,0.2
+2014,"Asturias (Principado de)","3","inac_desanim",10113,0.01
+2014,"Asturias (Principado de)","3","inactivos",443296,0.48
+2014,"Asturias (Principado de)","3","ocupados",376313,0.41
+2014,"Asturias (Principado de)","3","para_b_1a2a",21394,0.21
+2014,"Asturias (Principado de)","3","para_b_2a4a",26349,0.26
+2014,"Asturias (Principado de)","3","para_b_4mas_a",16812,0.17
+2014,"Asturias (Principado de)","3","para_b_6ma1a",12754,0.13
+2014,"Asturias (Principado de)","3","para_b_menos6m",18421,0.18
+2014,"Asturias (Principado de)","3","parados",100823,0.11
+2014,"Asturias (Principado de)","3","total",920429,1
+2014,"Balears (Illes)","4","activos",603607,0.65
+2014,"Balears (Illes)","4","asal_comp",328950,0.85
+2014,"Balears (Illes)","4","asal_indef",287051,0.74
+2014,"Balears (Illes)","4","asal_parc",19999,0.05
+2014,"Balears (Illes)","4","asal_parc_inv",38489,0.1
+2014,"Balears (Illes)","4","asal_temp",100380,0.26
+2014,"Balears (Illes)","4","asalariados",387430,0.8
+2014,"Balears (Illes)","4","c_propia",95448,0.2
+2014,"Balears (Illes)","4","inac_desanim",6548,0.01
+2014,"Balears (Illes)","4","inactivos",326538,0.35
+2014,"Balears (Illes)","4","ocupados",482880,0.52
+2014,"Balears (Illes)","4","para_b_1a2a",19398,0.16
+2014,"Balears (Illes)","4","para_b_2a4a",26417,0.22
+2014,"Balears (Illes)","4","para_b_4mas_a",12591,0.1
+2014,"Balears (Illes)","4","para_b_6ma1a",17490,0.14
+2014,"Balears (Illes)","4","para_b_menos6m",33491,0.28
+2014,"Balears (Illes)","4","parados",120729,0.13
+2014,"Balears (Illes)","4","total",930146,1
+2014,"Canarias","5","activos",1093124,0.61
+2014,"Canarias","5","asal_comp",517338,0.82
+2014,"Canarias","5","asal_indef",435988,0.69
+2014,"Canarias","5","asal_parc",25381,0.04
+2014,"Canarias","5","asal_parc_inv",87187,0.14
+2014,"Canarias","5","asal_temp",193924,0.31
+2014,"Canarias","5","asalariados",629911,0.85
+2014,"Canarias","5","c_propia",108891,0.15
+2014,"Canarias","5","inac_desanim",22832,0.01
+2014,"Canarias","5","inactivos",689637,0.39
+2014,"Canarias","5","ocupados",738803,0.41
+2014,"Canarias","5","para_b_1a2a",70855,0.2
+2014,"Canarias","5","para_b_2a4a",91075,0.26
+2014,"Canarias","5","para_b_4mas_a",80640,0.23
+2014,"Canarias","5","para_b_6ma1a",43832,0.12
+2014,"Canarias","5","para_b_menos6m",57035,0.16
+2014,"Canarias","5","parados",354322,0.2
+2014,"Canarias","5","total",1782762,1
+2014,"Cantabria","6","activos",280006,0.56
+2014,"Cantabria","6","asal_comp",155927,0.85
+2014,"Cantabria","6","asal_indef",144114,0.78
+2014,"Cantabria","6","asal_parc",9026,0.05
+2014,"Cantabria","6","asal_parc_inv",19500,0.11
+2014,"Cantabria","6","asal_temp",40337,0.22
+2014,"Cantabria","6","asalariados",184451,0.82
+2014,"Cantabria","6","c_propia",41190,0.18
+2014,"Cantabria","6","inac_desanim",4536,0.01
+2014,"Cantabria","6","inactivos",215674,0.44
+2014,"Cantabria","6","ocupados",225642,0.46
+2014,"Cantabria","6","para_b_1a2a",10425,0.19
+2014,"Cantabria","6","para_b_2a4a",15101,0.28
+2014,"Cantabria","6","para_b_4mas_a",11120,0.2
+2014,"Cantabria","6","para_b_6ma1a",7431,0.14
+2014,"Cantabria","6","para_b_menos6m",9871,0.18
+2014,"Cantabria","6","parados",54362,0.11
+2014,"Cantabria","6","total",495678,1
+2014,"Castilla y León","7","activos",1161032,0.55
+2014,"Castilla y León","7","asal_comp",590935,0.82
+2014,"Castilla y León","7","asal_indef",561129,0.78
+2014,"Castilla y León","7","asal_parc",44016,0.06
+2014,"Castilla y León","7","asal_parc_inv",81881,0.11
+2014,"Castilla y León","7","asal_temp",155708,0.22
+2014,"Castilla y León","7","asalariados",716834,0.78
+2014,"Castilla y León","7","c_propia",203099,0.22
+2014,"Castilla y León","7","inac_desanim",27522,0.01
+2014,"Castilla y León","7","inactivos",949420,0.45
+2014,"Castilla y León","7","ocupados",919932,0.44
+2014,"Castilla y León","7","para_b_1a2a",49881,0.21
+2014,"Castilla y León","7","para_b_2a4a",64988,0.27
+2014,"Castilla y León","7","para_b_4mas_a",39688,0.16
+2014,"Castilla y León","7","para_b_6ma1a",33030,0.14
+2014,"Castilla y León","7","para_b_menos6m",43492,0.18
+2014,"Castilla y León","7","parados",241100,0.11
+2014,"Castilla y León","7","total",2110454,1
+2014,"Castilla-La Mancha","8","activos",1002987,0.59
+2014,"Castilla-La Mancha","8","asal_comp",487333,0.85
+2014,"Castilla-La Mancha","8","asal_indef",433297,0.76
+2014,"Castilla-La Mancha","8","asal_parc",30260,0.05
+2014,"Castilla-La Mancha","8","asal_parc_inv",55414,0.1
+2014,"Castilla-La Mancha","8","asal_temp",139705,0.24
+2014,"Castilla-La Mancha","8","asalariados",573007,0.8
+2014,"Castilla-La Mancha","8","c_propia",139126,0.2
+2014,"Castilla-La Mancha","8","inac_desanim",22455,0.01
+2014,"Castilla-La Mancha","8","inactivos",692756,0.41
+2014,"Castilla-La Mancha","8","ocupados",712130,0.42
+2014,"Castilla-La Mancha","8","para_b_1a2a",63693,0.22
+2014,"Castilla-La Mancha","8","para_b_2a4a",74131,0.25
+2014,"Castilla-La Mancha","8","para_b_4mas_a",53351,0.18
+2014,"Castilla-La Mancha","8","para_b_6ma1a",36755,0.13
+2014,"Castilla-La Mancha","8","para_b_menos6m",52894,0.18
+2014,"Castilla-La Mancha","8","parados",290854,0.17
+2014,"Castilla-La Mancha","8","total",1695744,1
+2014,"Cataluña","9","activos",3804172,0.63
+2014,"Cataluña","9","asal_comp",2103012,0.84
+2014,"Cataluña","9","asal_indef",2051105,0.82
+2014,"Cataluña","9","asal_parc",177035,0.07
+2014,"Cataluña","9","asal_parc_inv",231077,0.09
+2014,"Cataluña","9","asal_temp",460021,0.18
+2014,"Cataluña","9","asalariados",2511123,0.83
+2014,"Cataluña","9","c_propia",519746,0.17
+2014,"Cataluña","9","inac_desanim",35390,0.01
+2014,"Cataluña","9","inactivos",2271087,0.37
+2014,"Cataluña","9","ocupados",3030876,0.5
+2014,"Cataluña","9","para_b_1a2a",162717,0.21
+2014,"Cataluña","9","para_b_2a4a",186228,0.24
+2014,"Cataluña","9","para_b_4mas_a",129207,0.17
+2014,"Cataluña","9","para_b_6ma1a",100710,0.13
+2014,"Cataluña","9","para_b_menos6m",158502,0.2
+2014,"Cataluña","9","parados",773301,0.13
+2014,"Cataluña","9","total",6075262,1
+2014,"Ceuta","18","activos",38067,0.59
+2014,"Ceuta","18","asal_comp",20584,0.91
+2014,"Ceuta","18","asal_indef",19649,0.86
+2014,"Ceuta","18","asal_parc",574,0.03
+2014,"Ceuta","18","asal_parc_inv",1556,0.07
+2014,"Ceuta","18","asal_temp",3068,0.14
+2014,"Ceuta","18","asalariados",22716,0.88
+2014,"Ceuta","18","c_propia",3228,0.12
+2014,"Ceuta","18","inac_desanim",991,0.02
+2014,"Ceuta","18","inactivos",26548,0.41
+2014,"Ceuta","18","ocupados",25943,0.4
+2014,"Ceuta","18","para_b_1a2a",2055,0.17
+2014,"Ceuta","18","para_b_2a4a",3094,0.26
+2014,"Ceuta","18","para_b_4mas_a",4524,0.37
+2014,"Ceuta","18","para_b_6ma1a",1027,0.08
+2014,"Ceuta","18","para_b_menos6m",1341,0.11
+2014,"Ceuta","18","parados",12126,0.19
+2014,"Ceuta","18","total",64617,1
+2014,"Comunidad Valenciana","10","activos",2427769,0.59
+2014,"Comunidad Valenciana","10","asal_comp",1156818,0.79
+2014,"Comunidad Valenciana","10","asal_indef",1069097,0.73
+2014,"Comunidad Valenciana","10","asal_parc",98148,0.07
+2014,"Comunidad Valenciana","10","asal_parc_inv",206482,0.14
+2014,"Comunidad Valenciana","10","asal_temp",392354,0.27
+2014,"Comunidad Valenciana","10","asalariados",1461449,0.81
+2014,"Comunidad Valenciana","10","c_propia",339460,0.19
+2014,"Comunidad Valenciana","10","inac_desanim",59798,0.01
+2014,"Comunidad Valenciana","10","inactivos",1688570,0.41
+2014,"Comunidad Valenciana","10","ocupados",1800914,0.44
+2014,"Comunidad Valenciana","10","para_b_1a2a",116796,0.19
+2014,"Comunidad Valenciana","10","para_b_2a4a",178421,0.28
+2014,"Comunidad Valenciana","10","para_b_4mas_a",113315,0.18
+2014,"Comunidad Valenciana","10","para_b_6ma1a",76078,0.12
+2014,"Comunidad Valenciana","10","para_b_menos6m",110535,0.18
+2014,"Comunidad Valenciana","10","parados",626854,0.15
+2014,"Comunidad Valenciana","10","total",4116334,1
+2014,"Extremadura","11","activos",504038,0.55
+2014,"Extremadura","11","asal_comp",232392,0.83
+2014,"Extremadura","11","asal_indef",187538,0.67
+2014,"Extremadura","11","asal_parc",13983,0.05
+2014,"Extremadura","11","asal_parc_inv",35114,0.12
+2014,"Extremadura","11","asal_temp",93943,0.33
+2014,"Extremadura","11","asalariados",281482,0.8
+2014,"Extremadura","11","c_propia",72423,0.2
+2014,"Extremadura","11","inac_desanim",23445,0.03
+2014,"Extremadura","11","inactivos",410681,0.45
+2014,"Extremadura","11","ocupados",353904,0.39
+2014,"Extremadura","11","para_b_1a2a",27151,0.18
+2014,"Extremadura","11","para_b_2a4a",38785,0.26
+2014,"Extremadura","11","para_b_4mas_a",26598,0.18
+2014,"Extremadura","11","para_b_6ma1a",19642,0.13
+2014,"Extremadura","11","para_b_menos6m",32323,0.22
+2014,"Extremadura","11","parados",150134,0.16
+2014,"Extremadura","11","total",914717,1
+2014,"Galicia","12","activos",1273873,0.54
+2014,"Galicia","12","asal_comp",657650,0.84
+2014,"Galicia","12","asal_indef",596608,0.77
+2014,"Galicia","12","asal_parc",35676,0.05
+2014,"Galicia","12","asal_parc_inv",86176,0.11
+2014,"Galicia","12","asal_temp",182896,0.23
+2014,"Galicia","12","asalariados",779503,0.78
+2014,"Galicia","12","c_propia",218527,0.22
+2014,"Galicia","12","inac_desanim",32517,0.01
+2014,"Galicia","12","inactivos",1094743,0.46
+2014,"Galicia","12","ocupados",998026,0.42
+2014,"Galicia","12","para_b_1a2a",56098,0.2
+2014,"Galicia","12","para_b_2a4a",64734,0.23
+2014,"Galicia","12","para_b_4mas_a",47441,0.17
+2014,"Galicia","12","para_b_6ma1a",39195,0.14
+2014,"Galicia","12","para_b_menos6m",53394,0.19
+2014,"Galicia","12","parados",275847,0.12
+2014,"Galicia","12","total",2368613,1
+2014,"Madrid (Comunidad de)","13","activos",3341112,0.64
+2014,"Madrid (Comunidad de)","13","asal_comp",2040199,0.86
+2014,"Madrid (Comunidad de)","13","asal_indef",1995707,0.84
+2014,"Madrid (Comunidad de)","13","asal_parc",125233,0.05
+2014,"Madrid (Comunidad de)","13","asal_parc_inv",210037,0.09
+2014,"Madrid (Comunidad de)","13","asal_temp",379762,0.16
+2014,"Madrid (Comunidad de)","13","asalariados",2375473,0.87
+2014,"Madrid (Comunidad de)","13","c_propia",339479,0.13
+2014,"Madrid (Comunidad de)","13","inac_desanim",46495,0.01
+2014,"Madrid (Comunidad de)","13","inactivos",1890860,0.36
+2014,"Madrid (Comunidad de)","13","ocupados",2714948,0.52
+2014,"Madrid (Comunidad de)","13","para_b_1a2a",136288,0.22
+2014,"Madrid (Comunidad de)","13","para_b_2a4a",169413,0.27
+2014,"Madrid (Comunidad de)","13","para_b_4mas_a",89739,0.14
+2014,"Madrid (Comunidad de)","13","para_b_6ma1a",82667,0.13
+2014,"Madrid (Comunidad de)","13","para_b_menos6m",122360,0.2
+2014,"Madrid (Comunidad de)","13","parados",626163,0.12
+2014,"Madrid (Comunidad de)","13","total",5231973,1
+2014,"Melilla","19","activos",33970,0.55
+2014,"Melilla","19","asal_comp",17860,0.83
+2014,"Melilla","19","asal_indef",17104,0.8
+2014,"Melilla","19","asal_parc",704,0.03
+2014,"Melilla","19","asal_parc_inv",2878,0.13
+2014,"Melilla","19","asal_temp",4340,0.2
+2014,"Melilla","19","asalariados",21442,0.88
+2014,"Melilla","19","c_propia",2885,0.12
+2014,"Melilla","19","inac_desanim",569,0.01
+2014,"Melilla","19","inactivos",27509,0.45
+2014,"Melilla","19","ocupados",24328,0.4
+2014,"Melilla","19","para_b_1a2a",2123,0.22
+2014,"Melilla","19","para_b_2a4a",2154,0.22
+2014,"Melilla","19","para_b_4mas_a",3013,0.31
+2014,"Melilla","19","para_b_6ma1a",1070,0.11
+2014,"Melilla","19","para_b_menos6m",1462,0.15
+2014,"Melilla","19","parados",9644,0.16
+2014,"Melilla","19","total",61480,1
+2014,"Murcia (Región de)","14","activos",722027,0.61
+2014,"Murcia (Región de)","14","asal_comp",357548,0.82
+2014,"Murcia (Región de)","14","asal_indef",293283,0.67
+2014,"Murcia (Región de)","14","asal_parc",25172,0.06
+2014,"Murcia (Región de)","14","asal_parc_inv",54989,0.13
+2014,"Murcia (Región de)","14","asal_temp",144418,0.33
+2014,"Murcia (Región de)","14","asalariados",437704,0.83
+2014,"Murcia (Región de)","14","c_propia",92360,0.17
+2014,"Murcia (Región de)","14","inac_desanim",10746,0.01
+2014,"Murcia (Región de)","14","inactivos",459965,0.39
+2014,"Murcia (Región de)","14","ocupados",530064,0.45
+2014,"Murcia (Región de)","14","para_b_1a2a",48253,0.25
+2014,"Murcia (Región de)","14","para_b_2a4a",56229,0.29
+2014,"Murcia (Región de)","14","para_b_4mas_a",39901,0.21
+2014,"Murcia (Región de)","14","para_b_6ma1a",31516,0.16
+2014,"Murcia (Región de)","14","para_b_menos6m",47190,0.25
+2014,"Murcia (Región de)","14","parados",191961,0.16
+2014,"Murcia (Región de)","14","total",1181987,1
+2014,"Nacional","0","activos",22954565,0.6
+2014,"Nacional","0","asal_comp",11835561,0.83
+2014,"Nacional","0","asal_indef",10857115,0.76
+2014,"Nacional","0","asal_parc",832581,0.06
+2014,"Nacional","0","asal_parc_inv",1617649,0.11
+2014,"Nacional","0","asal_temp",3428678,0.24
+2014,"Nacional","0","asalariados",14285791,0.82
+2014,"Nacional","0","c_propia",3058383,0.18
+2014,"Nacional","0","inac_desanim",462758,0.01
+2014,"Nacional","0","inactivos",15559999,0.4
+2014,"Nacional","0","ocupados",17344171,0.45
+2014,"Nacional","0","para_b_1a2a",1111852,0.2
+2014,"Nacional","0","para_b_2a4a",1389593,0.25
+2014,"Nacional","0","para_b_4mas_a",1039607,0.19
+2014,"Nacional","0","para_b_6ma1a",708254,0.13
+2014,"Nacional","0","para_b_menos6m",1102536,0.2
+2014,"Nacional","0","parados",5610393,0.15
+2014,"Nacional","0","total",38514564,1
+2014,"Navarra (Comunidad Foral de)","15","activos",311458,0.6
+2014,"Navarra (Comunidad Foral de)","15","asal_comp",170422,0.81
+2014,"Navarra (Comunidad Foral de)","15","asal_indef",164109,0.78
+2014,"Navarra (Comunidad Foral de)","15","asal_parc",15421,0.07
+2014,"Navarra (Comunidad Foral de)","15","asal_parc_inv",25844,0.12
+2014,"Navarra (Comunidad Foral de)","15","asal_temp",47585,0.22
+2014,"Navarra (Comunidad Foral de)","15","asalariados",211687,0.81
+2014,"Navarra (Comunidad Foral de)","15","c_propia",50822,0.19
+2014,"Navarra (Comunidad Foral de)","15","inac_desanim",3662,0.01
+2014,"Navarra (Comunidad Foral de)","15","inactivos",209791,0.4
+2014,"Navarra (Comunidad Foral de)","15","ocupados",262511,0.5
+2014,"Navarra (Comunidad Foral de)","15","para_b_1a2a",12148,0.25
+2014,"Navarra (Comunidad Foral de)","15","para_b_2a4a",15324,0.31
+2014,"Navarra (Comunidad Foral de)","15","para_b_4mas_a",7780,0.16
+2014,"Navarra (Comunidad Foral de)","15","para_b_6ma1a",8327,0.17
+2014,"Navarra (Comunidad Foral de)","15","para_b_menos6m",12361,0.25
+2014,"Navarra (Comunidad Foral de)","15","parados",48944,0.09
+2014,"Navarra (Comunidad Foral de)","15","total",521248,1
+2014,"País Vasco","16","activos",1034177,0.57
+2014,"País Vasco","16","asal_comp",588662,0.81
+2014,"País Vasco","16","asal_indef",569677,0.78
+2014,"País Vasco","16","asal_parc",52944,0.07
+2014,"País Vasco","16","asal_parc_inv",84696,0.12
+2014,"País Vasco","16","asal_temp",156626,0.22
+2014,"País Vasco","16","asalariados",726305,0.84
+2014,"País Vasco","16","c_propia",138994,0.16
+2014,"País Vasco","16","inac_desanim",14694,0.01
+2014,"País Vasco","16","inactivos",779807,0.43
+2014,"País Vasco","16","ocupados",865301,0.48
+2014,"País Vasco","16","para_b_1a2a",37954,0.22
+2014,"País Vasco","16","para_b_2a4a",40447,0.24
+2014,"País Vasco","16","para_b_4mas_a",31343,0.19
+2014,"País Vasco","16","para_b_6ma1a",19429,0.12
+2014,"País Vasco","16","para_b_menos6m",31221,0.18
+2014,"País Vasco","16","parados",168875,0.09
+2014,"País Vasco","16","total",1813985,1
+2014,"Rioja (La)","17","activos",156706,0.6
+2014,"Rioja (La)","17","asal_comp",86478,0.83
+2014,"Rioja (La)","17","asal_indef",81949,0.78
+2014,"Rioja (La)","17","asal_parc",6850,0.07
+2014,"Rioja (La)","17","asal_parc_inv",11203,0.11
+2014,"Rioja (La)","17","asal_temp",22587,0.22
+2014,"Rioja (La)","17","asalariados",104536,0.82
+2014,"Rioja (La)","17","c_propia",23706,0.18
+2014,"Rioja (La)","17","inac_desanim",3302,0.01
+2014,"Rioja (La)","17","inactivos",103267,0.4
+2014,"Rioja (La)","17","ocupados",128239,0.49
+2014,"Rioja (La)","17","para_b_1a2a",5786,0.2
+2014,"Rioja (La)","17","para_b_2a4a",6792,0.24
+2014,"Rioja (La)","17","para_b_4mas_a",4003,0.14
+2014,"Rioja (La)","17","para_b_6ma1a",4510,0.16
+2014,"Rioja (La)","17","para_b_menos6m",6277,0.22
+2014,"Rioja (La)","17","parados",28464,0.11
+2014,"Rioja (La)","17","total",259971,1
+2015,"Andalucía","1","activos",4042877,0.59
+2015,"Andalucía","1","asal_comp",1746861,0.8
+2015,"Andalucía","1","asal_indef",1422333,0.65
+2015,"Andalucía","1","asal_parc",122226,0.06
+2015,"Andalucía","1","asal_parc_inv",316127,0.14
+2015,"Andalucía","1","asal_temp",762882,0.35
+2015,"Andalucía","1","asalariados",2185215,0.81
+2015,"Andalucía","1","c_propia",498519,0.19
+2015,"Andalucía","1","inac_desanim",100931,0.01
+2015,"Andalucía","1","inactivos",2831091,0.41
+2015,"Andalucía","1","ocupados",2683732,0.39
+2015,"Andalucía","1","para_b_1a2a",215958,0.16
+2015,"Andalucía","1","para_b_2a4a",264801,0.19
+2015,"Andalucía","1","para_b_4mas_a",362644,0.27
+2015,"Andalucía","1","para_b_6ma1a",174072,0.13
+2015,"Andalucía","1","para_b_menos6m",283933,0.21
+2015,"Andalucía","1","parados",1359144,0.2
+2015,"Andalucía","1","total",6873970,1
+2015,"Aragón","2","activos",644299,0.58
+2015,"Aragón","2","asal_comp",362784,0.84
+2015,"Aragón","2","asal_indef",334408,0.78
+2015,"Aragón","2","asal_parc",29933,0.07
+2015,"Aragón","2","asal_parc_inv",38482,0.09
+2015,"Aragón","2","asal_temp",96789,0.22
+2015,"Aragón","2","asalariados",431198,0.82
+2015,"Aragón","2","c_propia",93350,0.18
+2015,"Aragón","2","inac_desanim",6524,0.01
+2015,"Aragón","2","inactivos",457787,0.42
+2015,"Aragón","2","ocupados",524548,0.48
+2015,"Aragón","2","para_b_1a2a",19047,0.16
+2015,"Aragón","2","para_b_2a4a",27753,0.23
+2015,"Aragón","2","para_b_4mas_a",19063,0.16
+2015,"Aragón","2","para_b_6ma1a",15712,0.13
+2015,"Aragón","2","para_b_menos6m",31151,0.26
+2015,"Aragón","2","parados",119748,0.11
+2015,"Aragón","2","total",1102085,1
+2015,"Asturias (Principado de)","3","activos",458908,0.5
+2015,"Asturias (Principado de)","3","asal_comp",254093,0.85
+2015,"Asturias (Principado de)","3","asal_indef",229850,0.77
+2015,"Asturias (Principado de)","3","asal_parc",13923,0.05
+2015,"Asturias (Principado de)","3","asal_parc_inv",31914,0.11
+2015,"Asturias (Principado de)","3","asal_temp",70078,0.23
+2015,"Asturias (Principado de)","3","asalariados",299932,0.81
+2015,"Asturias (Principado de)","3","c_propia",71829,0.19
+2015,"Asturias (Principado de)","3","inac_desanim",10208,0.01
+2015,"Asturias (Principado de)","3","inactivos",456575,0.5
+2015,"Asturias (Principado de)","3","ocupados",371757,0.41
+2015,"Asturias (Principado de)","3","para_b_1a2a",12131,0.14
+2015,"Asturias (Principado de)","3","para_b_2a4a",22598,0.26
+2015,"Asturias (Principado de)","3","para_b_4mas_a",15138,0.17
+2015,"Asturias (Principado de)","3","para_b_6ma1a",13539,0.16
+2015,"Asturias (Principado de)","3","para_b_menos6m",20453,0.23
+2015,"Asturias (Principado de)","3","parados",87152,0.1
+2015,"Asturias (Principado de)","3","total",915483,1
+2015,"Balears (Illes)","4","activos",586591,0.63
+2015,"Balears (Illes)","4","asal_comp",300188,0.83
+2015,"Balears (Illes)","4","asal_indef",277820,0.77
+2015,"Balears (Illes)","4","asal_parc",26554,0.07
+2015,"Balears (Illes)","4","asal_parc_inv",34366,0.1
+2015,"Balears (Illes)","4","asal_temp",83285,0.23
+2015,"Balears (Illes)","4","asalariados",361111,0.79
+2015,"Balears (Illes)","4","c_propia",94746,0.21
+2015,"Balears (Illes)","4","inac_desanim",3518,0
+2015,"Balears (Illes)","4","inactivos",347240,0.37
+2015,"Balears (Illes)","4","ocupados",455851,0.49
+2015,"Balears (Illes)","4","para_b_1a2a",18502,0.14
+2015,"Balears (Illes)","4","para_b_2a4a",22159,0.17
+2015,"Balears (Illes)","4","para_b_4mas_a",17349,0.13
+2015,"Balears (Illes)","4","para_b_6ma1a",14940,0.11
+2015,"Balears (Illes)","4","para_b_menos6m",45977,0.35
+2015,"Balears (Illes)","4","parados",130737,0.14
+2015,"Balears (Illes)","4","total",933832,1
+2015,"Canarias","5","activos",1114984,0.62
+2015,"Canarias","5","asal_comp",532553,0.82
+2015,"Canarias","5","asal_indef",460207,0.71
+2015,"Canarias","5","asal_parc",24907,0.04
+2015,"Canarias","5","asal_parc_inv",89152,0.14
+2015,"Canarias","5","asal_temp",186405,0.29
+2015,"Canarias","5","asalariados",646613,0.84
+2015,"Canarias","5","c_propia",124844,0.16
+2015,"Canarias","5","inac_desanim",18511,0.01
+2015,"Canarias","5","inactivos",676513,0.38
+2015,"Canarias","5","ocupados",771457,0.43
+2015,"Canarias","5","para_b_1a2a",55751,0.16
+2015,"Canarias","5","para_b_2a4a",91770,0.27
+2015,"Canarias","5","para_b_4mas_a",93543,0.27
+2015,"Canarias","5","para_b_6ma1a",33482,0.1
+2015,"Canarias","5","para_b_menos6m",55401,0.16
+2015,"Canarias","5","parados",343528,0.19
+2015,"Canarias","5","total",1791497,1
+2015,"Cantabria","6","activos",277857,0.56
+2015,"Cantabria","6","asal_comp",155784,0.85
+2015,"Cantabria","6","asal_indef",143600,0.78
+2015,"Cantabria","6","asal_parc",10664,0.06
+2015,"Cantabria","6","asal_parc_inv",17008,0.09
+2015,"Cantabria","6","asal_temp",39857,0.22
+2015,"Cantabria","6","asalariados",183457,0.81
+2015,"Cantabria","6","c_propia",42886,0.19
+2015,"Cantabria","6","inac_desanim",5734,0.01
+2015,"Cantabria","6","inactivos",216659,0.44
+2015,"Cantabria","6","ocupados",226343,0.46
+2015,"Cantabria","6","para_b_1a2a",8981,0.17
+2015,"Cantabria","6","para_b_2a4a",12871,0.25
+2015,"Cantabria","6","para_b_4mas_a",11321,0.22
+2015,"Cantabria","6","para_b_6ma1a",4992,0.1
+2015,"Cantabria","6","para_b_menos6m",11509,0.22
+2015,"Cantabria","6","parados",51509,0.1
+2015,"Cantabria","6","total",494516,1
+2015,"Castilla y León","7","activos",1147034,0.55
+2015,"Castilla y León","7","asal_comp",594581,0.83
+2015,"Castilla y León","7","asal_indef",572185,0.8
+2015,"Castilla y León","7","asal_parc",45296,0.06
+2015,"Castilla y León","7","asal_parc_inv",78657,0.11
+2015,"Castilla y León","7","asal_temp",146348,0.2
+2015,"Castilla y León","7","asalariados",718531,0.79
+2015,"Castilla y León","7","c_propia",194755,0.21
+2015,"Castilla y León","7","inac_desanim",25706,0.01
+2015,"Castilla y León","7","inactivos",953167,0.45
+2015,"Castilla y León","7","ocupados",913284,0.43
+2015,"Castilla y León","7","para_b_1a2a",51527,0.22
+2015,"Castilla y León","7","para_b_2a4a",58860,0.25
+2015,"Castilla y León","7","para_b_4mas_a",47511,0.2
+2015,"Castilla y León","7","para_b_6ma1a",30451,0.13
+2015,"Castilla y León","7","para_b_menos6m",51586,0.22
+2015,"Castilla y León","7","parados",233749,0.11
+2015,"Castilla y León","7","total",2100201,1
+2015,"Castilla-La Mancha","8","activos",991460,0.59
+2015,"Castilla-La Mancha","8","asal_comp",476235,0.84
+2015,"Castilla-La Mancha","8","asal_indef",434086,0.77
+2015,"Castilla-La Mancha","8","asal_parc",29929,0.05
+2015,"Castilla-La Mancha","8","asal_parc_inv",60281,0.11
+2015,"Castilla-La Mancha","8","asal_temp",132360,0.23
+2015,"Castilla-La Mancha","8","asalariados",566443,0.8
+2015,"Castilla-La Mancha","8","c_propia",140551,0.2
+2015,"Castilla-La Mancha","8","inac_desanim",22003,0.01
+2015,"Castilla-La Mancha","8","inactivos",698056,0.41
+2015,"Castilla-La Mancha","8","ocupados",706990,0.42
+2015,"Castilla-La Mancha","8","para_b_1a2a",66506,0.23
+2015,"Castilla-La Mancha","8","para_b_2a4a",72808,0.26
+2015,"Castilla-La Mancha","8","para_b_4mas_a",57327,0.2
+2015,"Castilla-La Mancha","8","para_b_6ma1a",45977,0.16
+2015,"Castilla-La Mancha","8","para_b_menos6m",52015,0.18
+2015,"Castilla-La Mancha","8","parados",284464,0.17
+2015,"Castilla-La Mancha","8","total",1689516,1
+2015,"Cataluña","9","activos",3781251,0.62
+2015,"Cataluña","9","asal_comp",2112964,0.85
+2015,"Cataluña","9","asal_indef",2039654,0.82
+2015,"Cataluña","9","asal_parc",166936,0.07
+2015,"Cataluña","9","asal_parc_inv",214076,0.09
+2015,"Cataluña","9","asal_temp",454322,0.18
+2015,"Cataluña","9","asalariados",2493977,0.82
+2015,"Cataluña","9","c_propia",529232,0.18
+2015,"Cataluña","9","inac_desanim",29579,0
+2015,"Cataluña","9","inactivos",2293971,0.38
+2015,"Cataluña","9","ocupados",3023209,0.5
+2015,"Cataluña","9","para_b_1a2a",147240,0.19
+2015,"Cataluña","9","para_b_2a4a",152699,0.2
+2015,"Cataluña","9","para_b_4mas_a",164735,0.22
+2015,"Cataluña","9","para_b_6ma1a",90590,0.12
+2015,"Cataluña","9","para_b_menos6m",173986,0.23
+2015,"Cataluña","9","parados",758043,0.12
+2015,"Cataluña","9","total",6075223,1
+2015,"Ceuta","18","activos",36953,0.57
+2015,"Ceuta","18","asal_comp",19274,0.89
+2015,"Ceuta","18","asal_indef",18362,0.85
+2015,"Ceuta","18","asal_parc",632,0.03
+2015,"Ceuta","18","asal_parc_inv",1672,0.08
+2015,"Ceuta","18","asal_temp",3215,0.15
+2015,"Ceuta","18","asalariados",21576,0.86
+2015,"Ceuta","18","c_propia",3638,0.14
+2015,"Ceuta","18","inac_desanim",784,0.01
+2015,"Ceuta","18","inactivos",27799,0.43
+2015,"Ceuta","18","ocupados",25214,0.39
+2015,"Ceuta","18","para_b_1a2a",2589,0.22
+2015,"Ceuta","18","para_b_2a4a",2699,0.23
+2015,"Ceuta","18","para_b_4mas_a",3912,0.33
+2015,"Ceuta","18","para_b_6ma1a",1045,0.09
+2015,"Ceuta","18","para_b_menos6m",2116,0.18
+2015,"Ceuta","18","parados",11739,0.18
+2015,"Ceuta","18","total",64753,1
+2015,"Comunidad Valenciana","10","activos",2425136,0.59
+2015,"Comunidad Valenciana","10","asal_comp",1170996,0.79
+2015,"Comunidad Valenciana","10","asal_indef",1089467,0.73
+2015,"Comunidad Valenciana","10","asal_parc",102710,0.07
+2015,"Comunidad Valenciana","10","asal_parc_inv",211829,0.14
+2015,"Comunidad Valenciana","10","asal_temp",396065,0.27
+2015,"Comunidad Valenciana","10","asalariados",1485534,0.81
+2015,"Comunidad Valenciana","10","c_propia",350805,0.19
+2015,"Comunidad Valenciana","10","inac_desanim",54984,0.01
+2015,"Comunidad Valenciana","10","inactivos",1687256,0.41
+2015,"Comunidad Valenciana","10","ocupados",1836338,0.45
+2015,"Comunidad Valenciana","10","para_b_1a2a",104931,0.18
+2015,"Comunidad Valenciana","10","para_b_2a4a",148808,0.25
+2015,"Comunidad Valenciana","10","para_b_4mas_a",134792,0.23
+2015,"Comunidad Valenciana","10","para_b_6ma1a",60779,0.1
+2015,"Comunidad Valenciana","10","para_b_menos6m",117215,0.2
+2015,"Comunidad Valenciana","10","parados",588797,0.14
+2015,"Comunidad Valenciana","10","total",4112393,1
+2015,"Extremadura","11","activos",501782,0.55
+2015,"Extremadura","11","asal_comp",227188,0.82
+2015,"Extremadura","11","asal_indef",186852,0.67
+2015,"Extremadura","11","asal_parc",17399,0.06
+2015,"Extremadura","11","asal_parc_inv",32878,0.12
+2015,"Extremadura","11","asal_temp",90612,0.33
+2015,"Extremadura","11","asalariados",277463,0.79
+2015,"Extremadura","11","c_propia",72586,0.21
+2015,"Extremadura","11","inac_desanim",21131,0.02
+2015,"Extremadura","11","inactivos",410375,0.45
+2015,"Extremadura","11","ocupados",350049,0.38
+2015,"Extremadura","11","para_b_1a2a",25379,0.17
+2015,"Extremadura","11","para_b_2a4a",29933,0.2
+2015,"Extremadura","11","para_b_4mas_a",33427,0.22
+2015,"Extremadura","11","para_b_6ma1a",27175,0.18
+2015,"Extremadura","11","para_b_menos6m",28309,0.19
+2015,"Extremadura","11","parados",151732,0.17
+2015,"Extremadura","11","total",912157,1
+2015,"Galicia","12","activos",1263230,0.53
+2015,"Galicia","12","asal_comp",646596,0.84
+2015,"Galicia","12","asal_indef",591518,0.76
+2015,"Galicia","12","asal_parc",35895,0.05
+2015,"Galicia","12","asal_parc_inv",91492,0.12
+2015,"Galicia","12","asal_temp",182469,0.24
+2015,"Galicia","12","asalariados",773989,0.78
+2015,"Galicia","12","c_propia",213530,0.22
+2015,"Galicia","12","inac_desanim",32309,0.01
+2015,"Galicia","12","inactivos",1098340,0.47
+2015,"Galicia","12","ocupados",987519,0.42
+2015,"Galicia","12","para_b_1a2a",55299,0.2
+2015,"Galicia","12","para_b_2a4a",63863,0.23
+2015,"Galicia","12","para_b_4mas_a",53460,0.19
+2015,"Galicia","12","para_b_6ma1a",35444,0.13
+2015,"Galicia","12","para_b_menos6m",57236,0.21
+2015,"Galicia","12","parados",275714,0.12
+2015,"Galicia","12","total",2361571,1
+2015,"Madrid (Comunidad de)","13","activos",3389379,0.65
+2015,"Madrid (Comunidad de)","13","asal_comp",2081300,0.85
+2015,"Madrid (Comunidad de)","13","asal_indef",2079738,0.85
+2015,"Madrid (Comunidad de)","13","asal_parc",145278,0.06
+2015,"Madrid (Comunidad de)","13","asal_parc_inv",228229,0.09
+2015,"Madrid (Comunidad de)","13","asal_temp",375068,0.15
+2015,"Madrid (Comunidad de)","13","asalariados",2454806,0.88
+2015,"Madrid (Comunidad de)","13","c_propia",331767,0.12
+2015,"Madrid (Comunidad de)","13","inac_desanim",32863,0.01
+2015,"Madrid (Comunidad de)","13","inactivos",1860415,0.35
+2015,"Madrid (Comunidad de)","13","ocupados",2786575,0.53
+2015,"Madrid (Comunidad de)","13","para_b_1a2a",132935,0.22
+2015,"Madrid (Comunidad de)","13","para_b_2a4a",177280,0.29
+2015,"Madrid (Comunidad de)","13","para_b_4mas_a",95836,0.16
+2015,"Madrid (Comunidad de)","13","para_b_6ma1a",77615,0.13
+2015,"Madrid (Comunidad de)","13","para_b_menos6m",101724,0.17
+2015,"Madrid (Comunidad de)","13","parados",602805,0.11
+2015,"Madrid (Comunidad de)","13","total",5249797,1
+2015,"Melilla","19","activos",35877,0.58
+2015,"Melilla","19","asal_comp",17715,0.88
+2015,"Melilla","19","asal_indef",15374,0.76
+2015,"Melilla","19","asal_parc",538,0.03
+2015,"Melilla","19","asal_parc_inv",1967,0.1
+2015,"Melilla","19","asal_temp",4843,0.24
+2015,"Melilla","19","asalariados",20219,0.87
+2015,"Melilla","19","c_propia",2959,0.13
+2015,"Melilla","19","inac_desanim",906,0.01
+2015,"Melilla","19","inactivos",25861,0.42
+2015,"Melilla","19","ocupados",23176,0.38
+2015,"Melilla","19","para_b_1a2a",1180,0.09
+2015,"Melilla","19","para_b_2a4a",3279,0.26
+2015,"Melilla","19","para_b_4mas_a",3660,0.29
+2015,"Melilla","19","para_b_6ma1a",1941,0.15
+2015,"Melilla","19","para_b_menos6m",3127,0.25
+2015,"Melilla","19","parados",12700,0.21
+2015,"Melilla","19","total",61738,1
+2015,"Murcia (Región de)","14","activos",700251,0.59
+2015,"Murcia (Región de)","14","asal_comp",345439,0.81
+2015,"Murcia (Región de)","14","asal_indef",283541,0.67
+2015,"Murcia (Región de)","14","asal_parc",25614,0.06
+2015,"Murcia (Región de)","14","asal_parc_inv",53057,0.13
+2015,"Murcia (Región de)","14","asal_temp",140570,0.33
+2015,"Murcia (Región de)","14","asalariados",424113,0.83
+2015,"Murcia (Región de)","14","c_propia",89238,0.17
+2015,"Murcia (Región de)","14","inac_desanim",12316,0.01
+2015,"Murcia (Región de)","14","inactivos",482542,0.41
+2015,"Murcia (Región de)","14","ocupados",513353,0.43
+2015,"Murcia (Región de)","14","para_b_1a2a",44792,0.24
+2015,"Murcia (Región de)","14","para_b_2a4a",71408,0.38
+2015,"Murcia (Región de)","14","para_b_4mas_a",57657,0.31
+2015,"Murcia (Región de)","14","para_b_6ma1a",37342,0.2
+2015,"Murcia (Región de)","14","para_b_menos6m",50523,0.27
+2015,"Murcia (Región de)","14","parados",186901,0.16
+2015,"Murcia (Región de)","14","total",1182793,1
+2015,"Nacional","0","activos",22899415,0.59
+2015,"Nacional","0","asal_comp",11877385,0.83
+2015,"Nacional","0","asal_indef",10997261,0.76
+2015,"Nacional","0","asal_parc",887677,0.06
+2015,"Nacional","0","asal_parc_inv",1628831,0.11
+2015,"Nacional","0","asal_temp",3396625,0.24
+2015,"Nacional","0","asalariados",14393892,0.82
+2015,"Nacional","0","c_propia",3060896,0.18
+2015,"Nacional","0","inac_desanim",402001,0.01
+2015,"Nacional","0","inactivos",15617774,0.41
+2015,"Nacional","0","ocupados",17454789,0.45
+2015,"Nacional","0","para_b_1a2a",979828,0.18
+2015,"Nacional","0","para_b_2a4a",1240823,0.23
+2015,"Nacional","0","para_b_4mas_a",1182786,0.22
+2015,"Nacional","0","para_b_6ma1a",683183,0.13
+2015,"Nacional","0","para_b_menos6m",1115749,0.2
+2015,"Nacional","0","parados",5444628,0.14
+2015,"Nacional","0","total",38517188,1
+2015,"Navarra (Comunidad Foral de)","15","activos",306108,0.59
+2015,"Navarra (Comunidad Foral de)","15","asal_comp",165664,0.8
+2015,"Navarra (Comunidad Foral de)","15","asal_indef",159896,0.77
+2015,"Navarra (Comunidad Foral de)","15","asal_parc",16149,0.08
+2015,"Navarra (Comunidad Foral de)","15","asal_parc_inv",24874,0.12
+2015,"Navarra (Comunidad Foral de)","15","asal_temp",46795,0.23
+2015,"Navarra (Comunidad Foral de)","15","asalariados",206687,0.8
+2015,"Navarra (Comunidad Foral de)","15","c_propia",51480,0.2
+2015,"Navarra (Comunidad Foral de)","15","inac_desanim",5233,0.01
+2015,"Navarra (Comunidad Foral de)","15","inactivos",215575,0.41
+2015,"Navarra (Comunidad Foral de)","15","ocupados",258164,0.49
+2015,"Navarra (Comunidad Foral de)","15","para_b_1a2a",12363,0.26
+2015,"Navarra (Comunidad Foral de)","15","para_b_2a4a",17510,0.37
+2015,"Navarra (Comunidad Foral de)","15","para_b_4mas_a",9507,0.2
+2015,"Navarra (Comunidad Foral de)","15","para_b_6ma1a",7006,0.15
+2015,"Navarra (Comunidad Foral de)","15","para_b_menos6m",13867,0.29
+2015,"Navarra (Comunidad Foral de)","15","parados",47944,0.09
+2015,"Navarra (Comunidad Foral de)","15","total",521682,1
+2015,"País Vasco","16","activos",1041489,0.57
+2015,"País Vasco","16","asal_comp",579923,0.79
+2015,"País Vasco","16","asal_indef",575773,0.78
+2015,"País Vasco","16","asal_parc",66659,0.09
+2015,"País Vasco","16","asal_parc_inv",90117,0.12
+2015,"País Vasco","16","asal_temp",160927,0.22
+2015,"País Vasco","16","asalariados",736696,0.85
+2015,"País Vasco","16","c_propia",133634,0.15
+2015,"País Vasco","16","inac_desanim",15808,0.01
+2015,"País Vasco","16","inactivos",772630,0.43
+2015,"País Vasco","16","ocupados",870331,0.48
+2015,"País Vasco","16","para_b_1a2a",29812,0.17
+2015,"País Vasco","16","para_b_2a4a",40612,0.24
+2015,"País Vasco","16","para_b_4mas_a",40301,0.24
+2015,"País Vasco","16","para_b_6ma1a",21977,0.13
+2015,"País Vasco","16","para_b_menos6m",32016,0.19
+2015,"País Vasco","16","parados",171155,0.09
+2015,"País Vasco","16","total",1814117,1
+2015,"Rioja (La)","17","activos",153947,0.59
+2015,"Rioja (La)","17","asal_comp",87252,0.82
+2015,"Rioja (La)","17","asal_indef",82597,0.78
+2015,"Rioja (La)","17","asal_parc",6430,0.06
+2015,"Rioja (La)","17","asal_parc_inv",12645,0.12
+2015,"Rioja (La)","17","asal_temp",23732,0.22
+2015,"Rioja (La)","17","asalariados",106328,0.84
+2015,"Rioja (La)","17","c_propia",20557,0.16
+2015,"Rioja (La)","17","inac_desanim",2958,0.01
+2015,"Rioja (La)","17","inactivos",105920,0.41
+2015,"Rioja (La)","17","ocupados",126886,0.49
+2015,"Rioja (La)","17","para_b_1a2a",6889,0.25
+2015,"Rioja (La)","17","para_b_2a4a",6040,0.22
+2015,"Rioja (La)","17","para_b_4mas_a",4295,0.16
+2015,"Rioja (La)","17","para_b_6ma1a",3618,0.13
+2015,"Rioja (La)","17","para_b_menos6m",6357,0.23
+2015,"Rioja (La)","17","parados",27062,0.1
+2015,"Rioja (La)","17","total",259868,1
