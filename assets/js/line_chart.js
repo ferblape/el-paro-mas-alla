@@ -2,7 +2,7 @@ var Lines = function(session){
 
   var margin = {top: 80, right: 220, bottom: 70, left: 40},
     //width = 1200 - margin.left - margin.right,
-    width = d3.select('#one').node().getBoundingClientRect().width,// - margin.left - margin.right,
+    width = d3.select('#one').node().getBoundingClientRect().width - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
   var parseDate = d3.time.format("%Y").parse;
@@ -65,7 +65,7 @@ var Lines = function(session){
     inac_desanim: "Inactivos desanimados"
   }
 
-  d3.csv("assets/data/df_agrupado.csv?234", function(error, rawData) {
+  d3.csv("assets/data/df_agrupado_new.csv?987", function(error, rawData) {
 
     // Format the data
     rawData.forEach(function(d) {
@@ -73,6 +73,8 @@ var Lines = function(session){
       d.porcentaje = +d.porcentaje;
       d.count = +d.count;
     });
+
+
     
     var situations = d3.set(rawData.map(function(d) { return d.situation; })).values();
 
@@ -80,20 +82,22 @@ var Lines = function(session){
     x.domain(d3.extent(rawData, function(d) { return d.year; }));
     y.domain([0, 1]);
    
+   console.log(situations)
     var fuera = ["total", "asalariados", "activos"]
-    data = rawData;
+    data = rawData.filter(function(d) { return fuera.indexOf(d.situation) == -1; })
 
     data.sort(function(a,b){
       return a.year - b.year
     });
 
     var data_ccaa = data.filter(function(d) { return d.codigo == session.get('autonomousRegion'); });
+        console.log(data_ccaa)
 
     var nested_data_ccaa = d3.nest()
                         .key(function(d) { return d.situation; })
                         .entries(data_ccaa);
 
-    console.log(nested_data_ccaa);
+    
 
     var data_esp = data
                     .filter(function(d) { return d.codigo === "0"; });
@@ -101,6 +105,8 @@ var Lines = function(session){
     var nested_data_esp = d3.nest()
                         .key(function(d) { return d.situation; })
                         .entries(data_esp);
+
+    console.log(nested_data_esp);
 
     // Draw the axis
     svgLines.append("g")
@@ -150,7 +156,7 @@ var Lines = function(session){
   lines_esp.append("path")
       .attr("class", "line esp")
       .attr("id", function(d){ return d.key;})
-      .attr("d", function(d) { return line(d.values); })
+      .attr("d", function(d) { console.log(d);return line(d.values); })
       .style('fill', 'none')
       .style("opacity", function(d) {
         if (d.key === "parados" || d.key === "ocupados" || d.key === "inactivos") {
