@@ -12,7 +12,6 @@ var randomBars = function(session){
 
   var xScale = d3.scale.ordinal().rangeRoundBands([0, width], .2);
   var yScale = d3.scale.linear().range([0, height]);
-
   var color = d3.scale.ordinal()
                 .range(["#aed292", "#ed9391", "#fcde8a"])
                 .domain(["ocupados", "parados", "inactivos"]);
@@ -20,8 +19,7 @@ var randomBars = function(session){
   var svgBars = d3.select('#random_bars').append('svg')
       .attr('width', width + margin.left + margin.right)
       .attr('height', height + margin.top + margin.bottom)
-    .append('g')
-      .attr('transform', 'translate(' + margin.left + ',0)');
+
 
 
   var niceCategory = {
@@ -48,7 +46,7 @@ var randomBars = function(session){
     });
 
     xScale.domain(levelVariables);
-    yScale.domain([0, d3.max(rawData, function(d) { return d.porcentaje*500; })]);
+    yScale.domain([0, 400]);
 
     var xAxis = d3.svg.axis()
                     .scale(xScale)
@@ -68,11 +66,7 @@ var randomBars = function(session){
           .style('width', xScale.rangeBand() - margin.left + 'px')
           .html(function(d) { return niceCategory[d.situation] + ' ' + (Math.floor(d.porcentaje * 100)) + '%'; });
 
-    var random1 = (Math.random() * .4) + .2,  
-        random2 = (Math.random() * .4) + .2,
-        random3 = 1 - (random1 + random2);
-
-    var random_data = [random1, random2, random3]
+    var random_data = [0.31, 0.43, 0.26]
 
     svgBars.selectAll('.random')
       .data(random_data)
@@ -82,7 +76,7 @@ var randomBars = function(session){
       .attr('x', function(d,i) { return xScale.range()[i]; })
       .attr('width', xScale.rangeBand())
       .attr('y', function(d) { return height - yScale(d * 500); })
-      .attr('height', height)
+      .attr('height', function(d) { return yScale(d * 500); })
       .attr('fill', function(d, i) { return color.range()[i]; });
 
     svgBars.selectAll('.randomLabel')
@@ -90,10 +84,35 @@ var randomBars = function(session){
       .enter()
       .append('text')
       .attr('class', 'randomLabel')
-      .attr('x', function(d,i) { return xScale.range()[i] + xScale.rangeBand()/2; })
-      .attr('y', function(d) { return height - yScale(d * 500) + 15; })
+      .attr('x', function(d,i) { return xScale.range()[i] + xScale.rangeBand() - 3; })
+      .attr('y', function(d) { return height - yScale(d * 500) + 17; })
       .attr('fill', "#fff")
+      .attr('text-anchor', 'end')
       .text(function(d,i) { return  levelVariables[i] + " " + Math.round(d * 100) + "%"; });
+
+    svgBars.selectAll('.vline')
+      .data([0,1])
+      .enter()
+      .append('line')
+      .attr('class', 'vline')
+      .attr('x1', function(d,i) { return xScale.range()[0]+1; })
+      .attr('x2', function(d,i) { return xScale.range()[0]+1; })
+      .attr('y1', function(d) { return height - yScale(0.8 * 500); })
+      .attr('y2', yScale(0.8 * 500))
+      .style("stroke", function(d, i) { return color.range()[0]; })
+      .style("stroke-width", .75);
+
+    svgBars.selectAll('.vline2')
+      .data([0,1])
+      .enter()
+      .append('line')
+      .attr('class', 'vline2')
+      .attr('x1', function(d,i) { return xScale.range()[0]+xScale.rangeBand()-1; })
+      .attr('x2', function(d,i) { return xScale.range()[0]+xScale.rangeBand()-1; })
+      .attr('y1', function(d) { return height - yScale(0.8 * 500); })
+      .attr('y2', yScale(0.8 * 500))
+      .style("stroke", function(d, i) { return color.range()[0]; })
+
 
     var hlines = svgBars.selectAll('.hlines')
       .data(data_n)
@@ -113,12 +132,12 @@ var randomBars = function(session){
     hlines.append("text")
       .attr("class","real-label")
       .attr("x", function(d) { return xScale(d.situation) + (xScale.rangeBand() / 2); })
-      .attr("y", function(d,i){return height - yScale(d.porcentaje * 500) - 10})
+      .attr("y", function(d,i){return height - yScale(d.porcentaje * 500) + 13})
       .attr("text-anchor", "middle")
       .attr("dy", 3)
       .attr("dx", "0.2em")
       .style("fill", "#424242")
-      .text(function(d) { return "Valor real de " + d.situation + " " + Math.floor(d.porcentaje * 100) + "%"; });
+      .text(function(d) { return "Realidad: " + d.situation + " " + Math.floor(d.porcentaje * 100) + "%"; });
     
   });
   
