@@ -5,8 +5,8 @@ var Balls = function(session){
 
   var format = d3.time.format("%Y").parse;
 
-  var margin = { top: 0, right: 10, bottom: 0, left: 10 },
-      width = 960 - margin.left - margin.right,
+  var margin = { top: 0, right: 0, bottom: 0, left: 0 },
+      width = 736 - margin.left - margin.right,
       height = 400 - margin.top - margin.bottom;
 
   var xScale = d3.scale.ordinal().rangeRoundBands([0, width], .2);
@@ -93,7 +93,7 @@ var Balls = function(session){
         .data(data_n)
         .enter()
         .append('a')
-          .attr("class", function(d){return 'n3 axis ' + d.situation; })
+          .attr("class", function(d){return 'n3 axis button icon fa-filter ' + d.situation; })
           .attr('id', function(d) { return d.situation; } )
           .attr("xlink:href", '#bolitas_n3')
           .style('position', 'absolute')
@@ -162,7 +162,7 @@ var Balls = function(session){
         .data(data_n)
         .enter()
         .append('a')
-          .attr("class", function(d){return 'n2 axis ' + d.situation; })
+          .attr("class", function(d){return 'n2 axis button icon fa-filter ' + d.situation; })
           .attr('id', function(d) { return d.situation; } )
           .attr("xlink:href", '#bolitas_n2')
           .style('position', 'absolute')
@@ -200,6 +200,7 @@ var Balls = function(session){
           .attr('fill', color(situation));
     });
 
+    /*
     var firstChild = data_n[0];
     if(niveles[firstChild.situation] !== undefined){
       d3.selectAll(".n2").
@@ -207,9 +208,10 @@ var Balls = function(session){
           level3(this.id);
         });
     }
+    */
   }
 
-  d3.csv("assets/data/df_per.csv?1", function(error, csvData) {
+  d3.csv("assets/data/df_per.csv", function(error, csvData) {
     rawData = csvData;
     data = rawData
             .filter(function(d) { return d.year == '2015'; })
@@ -217,9 +219,13 @@ var Balls = function(session){
             .filter(function(d) { return d.edad == session.get('age'); })
             .filter(function(d) { return d.sexo == session.get('sex'); });
 
+    console.log(session.toJSON());
+
     var levelVariables = ['ocupados', 'parados', 'inactivos'];
 
     var data_n = data.filter(function(d) { return levelVariables.indexOf(d.situation) != -1; });
+
+    console.log(data_n);
 
     data_n.forEach(function(d) {
       d.count = +d.count;
@@ -238,7 +244,7 @@ var Balls = function(session){
         .data(data_n)
         .enter()
         .append('a')
-          .attr("class", function(d){return 'n1 axis ' + d.situation; })
+          .attr("class", function(d){return 'n1 axis button icon fa-filter ' + d.situation; })
           .attr('id', function(d) { return d.situation; } )
           .attr("xlink:href", '#bolitas_n2')
           .style('position', 'absolute')
@@ -250,6 +256,7 @@ var Balls = function(session){
     // generar nuevos datos, un array tan largo como número de bolas quiera, para cada n1 generar un data set   
     levelVariables.forEach(function(situation) {
       var n = data_n.filter(function(s) { return s.situation == situation; });
+      console.log(n);
       var n_data = new Array(Math.round(n[0].porcentaje * 500, 0));
       var rows = n_data.length/cols;
 
@@ -271,9 +278,11 @@ var Balls = function(session){
           .attr("cy", function(d,i){return height - 20 - Math.floor(i/cols)*12;})
     });
 
+    /*
     d3.selectAll(".n1").
       on("click", function(){
         level2(this.id);
       });
+    */
   });
 }
