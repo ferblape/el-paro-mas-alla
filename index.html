@@ -1,114 +1,201 @@
 <!DOCTYPE HTML>
+<!--
+  Strata by HTML5 UP
+  html5up.net | @n33co
+  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
   <head>
-    <meta charset="utf-8" />
-    <link href='http://fonts.googleapis.com/css?family=Dosis:300,400' rel='stylesheet' type='text/css'>
-    <link rel="icon" type="image/png" href="images/logo.png">
     <title>Paro: más allá</title>
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="assets/css/vendor/pure-min.css" />
-    <link rel="stylesheet" href="assets/css/stream.css" />
-    <link rel="stylesheet" href="assets/css/bolitas.css" />
+    <meta charset="utf-8" />
+    <!--<link href='http://fonts.googleapis.com/css?family=Dosis:300,400' rel='stylesheet' type='text/css'>-->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="assets/css/d3.slider.css" />
+    <link rel="stylesheet" href="assets/css/jquery.modal.css" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
     <script type="text/javascript" src="assets/js/vendor/jquery-2.1.4.min.js"></script>
     <script type="text/javascript" src="assets/js/vendor/d3.min.js"></script>
     <script type="text/javascript" src="assets/js/vendor/handlebars-v3.0.3.js"></script>
-  </head>
+    <script type="text/javascript" src="assets/js/jquery.modal.min.js"></script>
+	</head>
 
-  <body class="index">
+  <script id="header-template" type="text/x-handlebars-template">
+    <h2>
+      <i class="fa {{sexIcon}} fa-6">&nbsp;</i><br>
+      Tienes {{age}}<br>
+      Eres de {{autonomousRegionText}}
+    </h2>
+  </script>
 
-    <header></header>
+  <script id="results-template" type="text/x-handlebars-template">
+    <p class="response">{{sentence}}</p>
+    <ul>
+      <li>Te has equivocado en <strong>{{ocupadosDiff}} puntos</strong> respecto al total de ocupados</li>
+      <li>Te has equivocado en <strong>{{paradosDiff}} puntos</strong> respecto al total de parados</li>
+      <li>Te has equivocado en <strong>{{inactivosDiff}} puntos</strong> respecto al total de inactivos</li>
+    </ul>
+  </script>
 
-    <script id="header-template" type="text/x-handlebars-template">
-      Eres {{sexText}}, tienes {{age}} y eres de {{autonomousRegionText}}
-    </script>
+  <body id="top">
 
-    <div class="pure-g">
-      <div class="pure-u-1-1">
-        <form class="pure-form pure-form-aligned">
-          <fieldset>
-            <div class="pure-control-group">
-              <label for="sex">Sexo</label>
-              <select name="sex">
-                <option value="">-- Selecciona tu sexo --</option>
-                <option value="Mujer" selected>Mujer</option>
-                <option value="Varón">Hombre</option>
-              </select>
+    <!-- Header -->
+    <header id="header">
+    </header>
+
+    <div id="main">
+
+      <section id="one">
+        <header class="major">
+          <h1>Los lunes, ¿al sol?</h1>
+        </header>
+        <p>
+¿Cuántas personas crees que están en tu misma situación laboral? Creemos que
+los ciudadanos no tenemos una percepción muy acertada de cuántas personas hay empleadas, paradas o inactivas ahora mismo en España.
+Te proponemos jugar a acertar la cifra y conocer los datos reales, según la Encuesta de Población Activa.
+        </p>
+
+        <ul class="actions">
+          <li><a href="#two" class="button transition">¡Empezar!</a></li>
+        </ul>
+      </section>
+
+      <section id="two">
+        <h2>¿Cómo distribuirías la cantidad de ocupados, parados e inactivos de tu misma edad y sexo en tu comunidad?</h2>
+
+        <div class="slider-container">
+          <div id="slider"></div>
+
+          <div id="slider-ocupados" class="slider-element">
+          <p>33% Ocupados</p>
+          </div>
+          <div id="slider-parados" class="slider-element">
+          <p>33% Parados</p>
+          </div>
+          <div id="slider-inactivos" class="slider-element">
+          <p>33% Inactivos</p>
+          </div>
+        </div>
+
+        <div id="three">
+          <h2>Para saber cuál es la distribución real, cuéntanos:</h2>
+
+          <form method="get" action="#">
+            <div class="row uniform 50%">
+              <div class="4u 8u$(small)">
+                <div class="select-wrapper">
+                  <select name="sex">
+                    <option value="">-- Eres chico o chica --</option>
+                    <option value="Mujer" selected>Chica</option>
+                    <option value="Varón">Chico</option>
+                  </select>
+                </div>
+              </div>
+              <div class="4u 8u$(small)">
+                <div class="select-wrapper">
+                  <select name="age">
+                    <option value="">-- ¿Cuántos años tienes? --</option>
+                    <option value="de 16 a 19 años">de 16 a 19 años</option>
+                    <option value="de 20 a 24 años">de 20 a 24 años</option>
+                    <option value="de 25 a 29 años">de 25 a 29 años</option>
+                    <option value="de 30 a 34 años" selected>de 30 a 34 años</option>
+                    <option value="de 35 a 39 años">de 35 a 39 años</option>
+                    <option value="de 40 a 44 años">de 40 a 44 años</option>
+                    <option value="de 45 a 49 años">de 45 a 49 años</option>
+                    <option value="de 50 a 54 años">de 50 a 54 años</option>
+                    <option value="de 55 a 59 años">de 55 a 59 años</option>
+                    <option value="de 60 a 64 años">de 60 a 64 años</option>
+                    <option value="65 o más años">65 o más años</option>
+                  </select>
+                </div>
+              </div>
+              <div class="8u 8u$(small)">
+                <div class="select-wrapper">
+                  <select name="autonomous_region">
+                    <option value="">-- ¿De dónde eres? --</option>
+                    <option value="1" selected>Andalucía</option>
+                    <option value="2">Aragón</option>
+                    <option value="3">Principado de Asturias</option>
+                    <option value="4">Balears</option>
+                    <option value="5">Canarias</option>
+                    <option value="6">Cantabria</option>
+                    <option value="8">Castilla-La Mancha</option>
+                    <option value="7">Castilla y León</option>
+                    <option value="9">Cataluña</option>
+                    <option value="18">Ceuta</option>
+                    <option value="13">Comunidad de Madrid</option>
+                    <option value="10">Comunidad Valenciana</option>
+                    <option value="11">Extremadura</option>
+                    <option value="12">Galicia</option>
+                    <option value="17">La Rioja</option>
+                    <option value="19">Melilla</option>
+                    <option value="14">Región de Murcia</option>
+                    <option value="15">Comunidad Foral de Navarra</option>
+                    <option value="16">País Vasco</option>
+                  </select>
+                </div>
+              </div>
+              <div class="8u$">
+                <ul class="actions">
+                  <li><input type="submit" value="¿He acertado?" class="special" /></li>
+                </ul>
+              </div>
             </div>
+          </form>
+        </div>
+        <div id="bolitas_n1" style="position:relative;"></div>
 
-            <div class="pure-control-group">
-              <label for="age">Grupo de Edad</label>
-              <select name="age">
-                <option value="">-- Selecciona tu grupo de edad --</option>
-                <option value="de 16 a 19 años">de 16 a 19 años</option>
-                <option value="de 20 a 24 años">de 20 a 24 años</option>
-                <option value="de 25 a 29 años" selected>de 25 a 29 años</option>
-                <option value="de 30 a 34 años">de 30 a 34 años</option>
-                <option value="de 35 a 39 años">de 35 a 39 años</option>
-                <option value="de 40 a 44 años">de 40 a 44 años</option>
-                <option value="de 45 a 49 años">de 45 a 49 años</option>
-                <option value="de 50 a 54 años">de 50 a 54 años</option>
-                <option value="de 55 a 59 años">de 55 a 59 años</option>
-                <option value="de 60 a 64 años">de 60 a 64 años</option>
-                <option value="65 o más años">65 o más años</option>
-              </select>
-            </div>
+        <div id="results" class="modal"></div>
 
-            <div class="pure-control-group">
-              <label for="autonomous_region">Comunidad Autónoma</label>
-              <select name="autonomous_region">
-                <option value="">-- Selecciona tu comunidad --</option>
-                <option value="1">Andalucía</option>
-                <option value="2" selected>Aragón</option>
-                <option value="3">Principado de Asturias</option>
-                <option value="4">Balears</option>
-                <option value="5">Canarias</option>
-                <option value="6">Cantabria</option>
-                <option value="8">Castilla-La Mancha</option>
-                <option value="7">Castilla y León</option>
-                <option value="9">Cataluña</option>
-                <option value="18">Ceuta</option>
-                <option value="13">Comunidad de Madrid</option>
-                <option value="10">Comunidad Valenciana</option>
-                <option value="11">Extremadura</option>
-                <option value="12">Galicia</option>
-                <option value="17">La Rioja</option>
-                <option value="19">Melilla</option>
-                <option value="14">Región de Murcia</option>
-                <option value="15">Comunidad Foral de Navarra</option>
-                <option value="16">País Vasco</option>
-              </select>
-            </div>
+        <ul class="actions" style="display:none;">
+          <li><a href="#five" class="button tofive">¿Quieres saber lo que ha opina la gente de tu comunidad?</a></li>
+        </ul>
+      </section>
 
-            <div class="pure-controls">
-              <button type="submit" class="pure-button pure-button-primary">¡Empezar!</button>
-            </div>
-          </fieldset>
-        </form>
-      </div>
+      <section id="five">
+        <h2 style="display:none;">¿Cómo percibe la gente de tu comunidad la situación laboral?</h2>
+
+
+        <div id="random_bars">
+        </div>
+    
+        <h2 style="display:none;">¿Qué ha pasado realmente en mi comunidad?</h2>
+
+        <p style="display:none">La poblacion en paro comenzó a ascender a mediados de 2008 hasta
+          situarse en 2013 en el 34%, donde se ha mantenido hasta ahora.
+          Asimismo, los ocupados han estado por debajo de la media nacional
+        durante toda la década pasada, situándose en el último año en apenas un
+        49%, un 10% menos que el resto del conjunto español. </p>
+
+        <h2 style="display:none;">Explora todos los datos</h2>
+        <div id="line_chart"></div>
+      </section>
     </div>
 
-    <div id="bolitas_n1" class="balls">
-    </div>
-    <div id="bolitas_n2" class="balls">
-    </div>
-    <div id="bolitas_n3" class="balls">
-    </div>
+    <footer id="footer">
+      <ul class="copyright">
+        <li>
+          <i class="fa fa-info-circle"></i>
+          <em>Datos obtenidos de la EPA, primer trimestre de 2015</em>
+        </li>
+        <li>Equipo del Diario de Navarra</li>
+        <li>Diseño: <a href="http://html5up.net">HTML5 UP</a></li>
+      </ul>
+    </footer>
 
-    <div id="random_bars">
-    </div>
-
-    <div id="line_chart">
-    </div>
-
-    <!-- Scripts -->
-    <!-- <script src="assets/js/stream.js"></script> -->
+    <script src="assets/js/jquery.poptrox.min.js"></script>
+    <script src="assets/js/d3.slider.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/util.js"></script>
     <script src="assets/js/session.js"></script>
+    <script src="assets/js/myslider.js"></script>
     <script src="assets/js/bolitas.js"></script>
-    <script src="assets/js/main.js"></script>
     <script src="assets/js/line_chart.js"></script>
     <script src="assets/js/random_bars.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/old-main.js"></script>
   </body>
 </html>
+
