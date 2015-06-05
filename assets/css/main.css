@@ -1942,6 +1942,11 @@
     margin-top: 150px;
   }
 
+  #six h2 {
+  	margin-top: 3em !important;
+  	text-align: center !important;
+  }
+
   #line_chart {
     margin-left: -60px;
   }
@@ -2232,6 +2237,11 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
+			text-align: center;
+		}
+
+		#six ul.actions {
+			margin-top: 3em;
 		}
 
 			ul.actions li {
