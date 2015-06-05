@@ -83,7 +83,7 @@ $(function(){
 
         randomBars(session);
         Lines(session);
-      }, 3000);
+      }, 4000);
     });
   });
 

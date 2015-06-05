@@ -1942,6 +1942,10 @@
     margin-top: 150px;
   }
 
+  #line_chart {
+    margin-left: -60px;
+  }
+
   .slider-control {
     position: absolute;
     width: 1.2em;
