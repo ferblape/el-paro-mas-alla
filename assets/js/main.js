@@ -26,6 +26,7 @@ $(function(){
 
       Balls(session);
       Lines(session);
+      randomBars(session);
     });
   });
 
