@@ -6,8 +6,9 @@ var randomBars = function(session){
   var format = d3.time.format("%Y").parse;
 
   var margin = { top: 0, right: 10, bottom: 0, left: 10 },
-      width = 960 - margin.left - margin.right,
-      height = 400 - margin.top - margin.bottom;
+      //width = 960 - margin.left - margin.right,
+      width = d3.select('#one').node().getBoundingClientRect().width - margin.left - margin.right,
+      height = 250 - margin.top - margin.bottom;
 
   var xScale = d3.scale.ordinal().rangeRoundBands([0, width], .2);
   var yScale = d3.scale.linear().range([0, height]);
@@ -117,7 +118,7 @@ var randomBars = function(session){
       .attr("dy", 3)
       .attr("dx", "0.2em")
       .style("fill", "#424242")
-      .text(function(d) { return "Valor real de " + d.situation + " " + d.porcentaje * 100 + "%"; });
+      .text(function(d) { return "Valor real de " + d.situation + " " + Math.floor(d.porcentaje * 100) + "%"; });
     
   });
   

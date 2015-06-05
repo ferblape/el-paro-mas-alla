@@ -11,8 +11,6 @@ $(function(){
   var session = new Session();
 
   $('a.tofive').on('click', function(e){
-    e.preventDefault();
-
     $('#five').children().each(function(){
       $(this).show();
       $.modal.close();
