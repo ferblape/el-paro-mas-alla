@@ -67,6 +67,8 @@ $(function(){
     session.set('autonomousRegion', this.autonomous_region.value);
     session.set('autonomousRegionText', this.autonomous_region.options[this.autonomous_region.selectedIndex].text);
 
+    Lines(session);
+
     $('#three').fadeOut('slow', function(){
 
       var source   = $("#header-template").html(),
@@ -102,7 +104,7 @@ $(function(){
         $('#two').css('height', '800px');
 
         randomBars(session);
-        Lines(session);
+        //Lines(session);
       }, 4000);
     });
   });

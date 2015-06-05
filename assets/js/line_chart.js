@@ -15,11 +15,7 @@ var Lines = function(session){
 
   var color = d3.scale.ordinal()
               .range(["#708259", "#3EB79E", "#3EA889", "#C8E99C", "#C8E99C", "#C8E99C", "#A4BF81", "#C8E99C", "#C8E99C", "#3F9975", "#BD2D28", "#BD2D28", "#BD2D28", "#BD2D28", "#BD2D28", "#BD2D28", "#E3BA22", "#E3BA22"])
-              .domain(["ocupados", "c_propia", "asal_indef", "asal_temp", "asal_parc", "asal_parc_inv", "asal_comp", "parados", "para_b_4mas_a", "para_b_2a4a", "para_b_1a2a", "para_b_6ma1a", "para_b_menos6m", "inactivos", "inac_desanim"]);
-
-// #3EB79E,#3EA889,#3F9975,#3F8A62,#3F7B52,#3D6D42,#3A5E35,#365029,#31431F
-
-
+              .domain(["ocupados", "c_propia", "asal_indef", "asal_temp", "asal_parc_inv", "asal_comp", "parados", "para_b_4mas_a", "para_b_2a4a", "para_b_1a2a", "para_b_6ma1a", "para_b_menos6m", "inactivos", "inac_desanim"]);
 
   var xAxis = d3.svg.axis()
       .scale(x)
@@ -69,7 +65,7 @@ var Lines = function(session){
     inac_desanim: "Inactivos desanimados"
   }
 
-  d3.csv("assets/data/df_agrupado.csv?4", function(error, rawData) {
+  d3.csv("assets/data/df_agrupado.csv?234", function(error, rawData) {
 
     // Format the data
     rawData.forEach(function(d) {
@@ -85,22 +81,20 @@ var Lines = function(session){
     y.domain([0, 1]);
    
     var fuera = ["total", "asalariados", "activos"]
-    data = rawData
-              .filter(function(d) { return d.edad == session.get('age'); })
-              .filter(function(d) { return d.sexo == session.get('sex'); })
-              .filter(function(d) { return fuera.indexOf(d.situation) == -1});
+    data = rawData;
 
     data.sort(function(a,b){
       return a.year - b.year
     });
 
-    
-    var data_ccaa = data
-                      .filter(function(d) { return d.codigo == session.get('autonomousRegion'); });
+    var data_ccaa = data.filter(function(d) { return d.codigo == session.get('autonomousRegion'); });
 
     var nested_data_ccaa = d3.nest()
                         .key(function(d) { return d.situation; })
                         .entries(data_ccaa);
+
+    console.log(nested_data_ccaa);
+
     var data_esp = data
                     .filter(function(d) { return d.codigo === "0"; });
 
@@ -108,9 +102,7 @@ var Lines = function(session){
                         .key(function(d) { return d.situation; })
                         .entries(data_esp);
 
-    console.log(nested_data_esp)
-
-    // Draw the axis  
+    // Draw the axis
     svgLines.append("g")
         .attr("class", "x axis")
         .attr("transform", "translate(0," + (height + 5) + ")")
@@ -127,9 +119,6 @@ var Lines = function(session){
         .style("text-anchor", "end")
         .style("fill", "black")
         .text("%"); 
-
-  console.log(color.range())
-  console.log(color.domain())
 
   // Draw the lines 
   var lines_ccaa = svgLines.selectAll(".lines.ccaa")
@@ -220,7 +209,6 @@ var Lines = function(session){
             .style("stroke-width", newStroke);
         // Update whether or not the elements are active
         d.active = active;
-        console.log(d.active)
     });             
                
 
