@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="assets/css/d3.slider.css" />
     <link rel="stylesheet" href="assets/css/jquery.modal.css" />
     <link rel="stylesheet" href="assets/css/tooltipster.css" />
+    <link rel="stylesheet" href="assets/css/themes/tooltipster-light.css" />
     <link rel="stylesheet" href="assets/css/main.css" />
     <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
@@ -66,7 +67,14 @@
       </section>
 
       <section id="two">
-        <h2>¿Cómo distribuirías la cantidad de ocupados, parados e inactivos de tu misma edad y sexo en tu comunidad?</h2>
+        <h2>¿Cómo distribuirías la cantidad de ocupados
+          <i class="fa fa-info-circle tooltip" title="Las personas de 16 años o más que han trabajado por cuenta ajena o propia durante la semana en que se realizó la Encuesta de Población Activa (EPA)."></i>
+          , parados
+          <i class="fa fa-info-circle tooltip" title="Las personas de 16 años o más que no han trabajado durante la semana en que se realizó la Encuesta de Población Activa (EPA), que buscan empleo y están disponibles para trabajar."></i>
+          e inactivos
+          <i class="fa fa-info-circle tooltip" title="Colectivo que abarca a estudiantes, personas que se ocupan de su hogar, que trabajan sin remuneración, jubilados, pensionistas, discapacitados, que ya encontraron empleo pero no han comenzado a trabajar, afectados por un ERE y desanimados. Este último grupo no tiene empleo y tampoco busca porque cree que no lo encontrará."></i>
+          de tu misma edad y sexo en tu comunidad?</h2>
+
         <p>
           <i class="fa fa-info-circle"></i>
           Desliza con el ratón las dos barras grises del centro para seleccionar los porcentajes.
@@ -95,7 +103,7 @@
                 <div class="select-wrapper">
                   <select name="sex">
                     <option value="">-- Eres chico o chica --</option>
-                    <option value="Mujer">Chica</option>
+                    <option value="Mujer" selected>Chica</option>
                     <option value="Varón">Chico</option>
                   </select>
                 </div>
@@ -107,7 +115,7 @@
                     <option value="de 16 a 19 años">de 16 a 19 años</option>
                     <option value="de 20 a 24 años">de 20 a 24 años</option>
                     <option value="de 25 a 29 años">de 25 a 29 años</option>
-                    <option value="de 30 a 34 años">de 30 a 34 años</option>
+                    <option value="de 30 a 34 años" selected>de 30 a 34 años</option>
                     <option value="de 35 a 39 años">de 35 a 39 años</option>
                     <option value="de 40 a 44 años">de 40 a 44 años</option>
                     <option value="de 45 a 49 años">de 45 a 49 años</option>
@@ -122,7 +130,7 @@
                 <div class="select-wrapper">
                   <select name="autonomous_region">
                     <option value="">-- ¿De dónde eres? --</option>
-                    <option value="1">Andalucía</option>
+                    <option value="1" selected>Andalucía</option>
                     <option value="2">Aragón</option>
                     <option value="3">Principado de Asturias</option>
                     <option value="4">Balears</option>
@@ -181,6 +189,13 @@
         <li>
           <i class="fa fa-info-circle"></i>
           <em>Datos de la Encuesta de Población Activa</em>
+        </li>
+
+        <li class="tooltip" title="La información sobre edad, sexo, comunidad autónoma y situación laboral utilizada en este proyecto fue obtenida de la Encuesta de Población Activa (EPA) que publica trimestral y anualmente el Instituto Nacional de Estadística (INE). Los datos reales que se comparan con la percepción del usuario según su sexo, edad y comunidad corresponden al primer trimestre de 2015, los más recientes publicados. En el caso del gráfico de evolución, muestra la información anual recogida de 2016-2014. Los datos fueron extraídos en un paquete R, mientras que la herramienta ha sido elaborada con HTML, CSS y d3.">
+          <i class="fa fa-info-circle"></i>
+          <em>
+            Metodología
+          </em>
         </li>
         <li>Equipo del Diario de Navarra</li>
         <li>Diseño: <a href="http://html5up.net">HTML5 UP</a></li>
