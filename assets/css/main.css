@@ -2024,6 +2024,60 @@
     fill: none;
   }
 
+  svg {
+		background-color: #F5F3F2;
+	}
+	svg text {
+		font-family: "Oswald", "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+		font-size: 12px;
+		font-weight: 100;
+	}
+
+	.arc text {
+		fill: #F5F3F2;
+		font-weight: 300;
+	}
+
+	.label-text {
+		font-size: 1em;
+	}
+
+	.label-value {
+		font-size: 1.5em;
+	}
+
+	.axis line {
+		fill: none;
+		stroke: #FFFFFF;
+		shape-rendering: crispEdges;
+		stroke-width: 2px;
+	}
+
+	.axis ticks,
+	.axis path {
+		stroke-width: 0px;
+		fill: none;
+	}
+
+	.x.axis line {
+		stroke-width: 0px;
+	}
+
+	.line {
+		fill: none;
+	}
+
+	.yTitle {
+	font-size: 14px;
+	}
+
+	.source, 
+	.legend {
+		font-weight: 300; 
+		cursor: pointer;
+		cursor: hand;
+	}
+
 /* Box */
 
 	.box {

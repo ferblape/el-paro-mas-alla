@@ -14,8 +14,9 @@ var Lines = function(session){
       .range([height, 0]);
 
   var color = d3.scale.ordinal()
-              .range(["#708259", "#3EB79E", "#3EA889", "#C8E99C", "#C8E99C", "#C8E99C", "#A4BF81", "#C8E99C", "#C8E99C", "#3F9975", "#BD2D28", "#BD2D28", "#BD2D28", "#BD2D28", "#BD2D28", "#BD2D28", "#E3BA22", "#E3BA22"])
-              .domain(["ocupados", "c_propia", "asal_indef", "asal_temp", "asal_parc_inv", "asal_comp", "parados", "para_b_4mas_a", "para_b_2a4a", "para_b_1a2a", "para_b_6ma1a", "para_b_menos6m", "inactivos", "inac_desanim"]);
+              .range(["#C3EE76","#88D07A","#57B07B","#328F75","#1E6E68","#1A4D54","#182F39", "#6C3431","#884453","#9B5B7B","#A177A6","#9599CD","#78BCEC","#E8924E","#8C5A2A"])
+              .domain(["ocupados", "c_propia", "asal_indef", "asal_temp", "asal_parc", "asal_parc_inv", "asal_comp", "parados", "para_b_4mas_a", "para_b_2a4a", "para_b_1a2a", "para_b_6ma1a", "para_b_menos6m", "inactivos", "inac_desanim"]);
+
 
   var xAxis = d3.svg.axis()
       .scale(x)
@@ -25,6 +26,7 @@ var Lines = function(session){
       .scale(y)
       .orient("left")
       .tickSubdivide(0)
+      .tickFormat(function(d) { return d * 100 + '%'; })
       .tickSize(0-width);
 
   var line = d3.svg.line()
@@ -113,15 +115,7 @@ var Lines = function(session){
 
     svgLines.append("g")
         .attr("class", "y axis")
-        .call(yAxis)
-      .append("text")
-        .attr("class", "yTitle")
-        .attr("transform", "rotate(-90)")
-        .attr("y", 6)
-        .attr("dy", "-3em")
-        .style("text-anchor", "end")
-        .style("fill", "black")
-        .text("%"); 
+        .call(yAxis); 
 
   // Draw the lines 
   var lines_ccaa = svgLines.selectAll(".lines.ccaa")
@@ -170,7 +164,7 @@ var Lines = function(session){
   // Add the legend.
 
   var legendScale = d3.scale.ordinal()
-                      .rangeBands([-margin.top, height + margin.top], 0.1)
+                      .rangeBands([-margin.top, height], 0.1)
                       .domain(color.domain()); 
 
   console.log(nested_data_ccaa);
