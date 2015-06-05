@@ -6,8 +6,9 @@ var Balls = function(session){
   var format = d3.time.format("%Y").parse;
 
   var margin = { top: 0, right: 0, bottom: 0, left: 0 },
-      width = 736 - margin.left - margin.right,
-      height = 400 - margin.top - margin.bottom;
+      //width = 736 - margin.left - margin.right,
+      width = d3.select('#one').node().getBoundingClientRect().width,
+      height = 360 - margin.top - margin.bottom;
 
   var xScale = d3.scale.ordinal().rangeRoundBands([0, width], .2);
   var yScale = d3.scale.linear().range([0, height]);
@@ -219,13 +220,9 @@ var Balls = function(session){
             .filter(function(d) { return d.edad == session.get('age'); })
             .filter(function(d) { return d.sexo == session.get('sex'); });
 
-    console.log(session.toJSON());
-
     var levelVariables = ['ocupados', 'parados', 'inactivos'];
 
     var data_n = data.filter(function(d) { return levelVariables.indexOf(d.situation) != -1; });
-
-    console.log(data_n);
 
     data_n.forEach(function(d) {
       d.count = +d.count;
@@ -243,20 +240,19 @@ var Balls = function(session){
     d3.select('#bolitas_n1').selectAll('a.axis')
         .data(data_n)
         .enter()
-        .append('a')
-          .attr("class", function(d){return 'n1 axis button icon fa-filter ' + d.situation; })
+        .append('span')
+          .attr("class", function(d){return 'n1 axis ' + d.situation; })
           .attr('id', function(d) { return d.situation; } )
-          .attr("xlink:href", '#bolitas_n2')
+          //.attr("xlink:href", '#bolitas_n2')
           .style('position', 'absolute')
           .style('left', function(d) { return xScale(d.situation) + margin.left + "px"; })
-          .style('margin-top', height + margin.top + "px")
+          //.style('margin-top', height + margin.top + "px")
           .style('width', xScale.rangeBand() - margin.left + 'px')
-          .html(function(d) { return niceCategory[d.situation] + ' ' + (Math.floor(d.porcentaje * 100)) + '%'; });
+          .html(function(d){ return (Math.floor(d.porcentaje * 100)) + '% ' + niceCategory[d.situation]; });
 
     // generar nuevos datos, un array tan largo como número de bolas quiera, para cada n1 generar un data set   
     levelVariables.forEach(function(situation) {
       var n = data_n.filter(function(s) { return s.situation == situation; });
-      console.log(n);
       var n_data = new Array(Math.round(n[0].porcentaje * 500, 0));
       var rows = n_data.length/cols;
 
@@ -268,7 +264,7 @@ var Balls = function(session){
         .append('circle')
           .attr('class', 'n1 ' + situation)
           .attr('cx', xScale(situation) + (xScale.rangeBand() / 2))
-          .attr('cy', 4)
+          .attr('cy', 0)
           .attr('r', 6)
           .attr('fill', color(situation) )
         .transition()

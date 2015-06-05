@@ -21,7 +21,25 @@
 	</head>
 
   <script id="header-template" type="text/x-handlebars-template">
-    Eres {{sexText}}, tienes {{age}} y eres de {{autonomousRegionText}}
+    <h2>
+      <i class="fa {{sexIcon}} fa-6">&nbsp;</i><br>
+      Tienes {{age}}<br>
+      Eres de {{autonomousRegionText}}
+    </h2>
+  </script>
+
+  <script id="results-template" type="text/x-handlebars-template">
+    <small>
+      <i class="fa fa-info-circle"></i>
+      <em>Datos según la EPA de 2015</em>
+    </small>
+    <p class="response">{{sentence}}</p>
+    <ul>
+      <li>Te has equivocado en <strong>{{ocupadosDiff}} puntos</strong> respecto al total de ocupados</li>
+      <li>Te has equivocado en <strong>{{paradosDiff}} puntos</strong> respecto al total de parados</li>
+      <li>Te has equivocado en <strong>{{inactivosDiff}} puntos</strong> respecto al total de inactivos</li>
+    </ul>
+    <p>Pero es normal, esto es lo que ha contestado la gente de tu provincia:</p>
   </script>
 
   <body id="top">
@@ -34,8 +52,7 @@
 
       <section id="one">
         <header class="major">
-          <h2>Ipsum lorem dolor aliquam ante commodo<br />
-            magna sed accumsan arcu neque.</h2>
+          <h1>Los lunes, ¿al sol?</h1>
         </header>
         <p>¿Cuántas personas crees que están en tu misma situación laboral? El siguiente buscador te permitirá conocer exactamente el porcentaje de ciudadanos de tu edad y sexo que están ocupadas, paradas e inactivas en tu comunidad autónoma. Juega a acertar la cifra y conoce los datos reales, según la Encuesta de Población Activa.</p>
 
@@ -65,7 +82,7 @@
               <div class="select-wrapper">
                 <select name="sex">
                   <option value="">-- Eres chico o chica --</option>
-                  <option value="Mujer">Chica</option>
+                  <option value="Mujer" selected>Chica</option>
                   <option value="Varón">Chico</option>
                 </select>
               </div>
@@ -77,7 +94,7 @@
                   <option value="de 16 a 19 años">de 16 a 19 años</option>
                   <option value="de 20 a 24 años">de 20 a 24 años</option>
                   <option value="de 25 a 29 años">de 25 a 29 años</option>
-                  <option value="de 30 a 34 años">de 30 a 34 años</option>
+                  <option value="de 30 a 34 años" selected>de 30 a 34 años</option>
                   <option value="de 35 a 39 años">de 35 a 39 años</option>
                   <option value="de 40 a 44 años">de 40 a 44 años</option>
                   <option value="de 45 a 49 años">de 45 a 49 años</option>
@@ -92,7 +109,7 @@
               <div class="select-wrapper">
                 <select name="autonomous_region">
                   <option value="">-- ¿De dónde eres? --</option>
-                  <option value="1">Andalucía</option>
+                  <option value="1" selected>Andalucía</option>
                   <option value="2">Aragón</option>
                   <option value="3">Principado de Asturias</option>
                   <option value="4">Balears</option>
@@ -123,27 +140,19 @@
         </form>
       </section>
 
-      <section id="four">
+      <section id="three">
         <div id="bolitas_n1" style="position:relative;"></div>
 
+        <div id="results"></div>
 
+        <div id="results_graph"></div>
       </section>
 
-      <section id="four">
-        <p>Uy, casi aciertas</p>
-        <p>Vaya, por poco</p>
-        <p>Ohhh, eres muy pesimista</p>
-        <p>Anda, te has quedado un poco lejos</p>
-        <br/>
-        <p>La gente de tu provincia piensa que:</p>
-        <p>Pintar tres barras con la media de lo que piensan y una barrita que representa la realidad</p>
-      </section>
       <section id="four">
         <div id="line_chart"></div>
       </section>
     </div>
 
-    <!-- Footer -->
     <footer id="footer">
       <ul class="icons">
         <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
@@ -153,7 +162,8 @@
       </ul>
 
       <ul class="copyright">
-        <li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+        <li>Equipo del Diario de Navarra</li>
+        <li>Diseño: <a href="http://html5up.net">HTML5 UP</a></li>
       </ul>
     </footer>
 
@@ -162,6 +172,7 @@
     <script src="assets/js/skel.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/session.js"></script>
+    <script src="assets/js/myslider.js"></script>
     <script src="assets/js/bolitas.js"></script>
     <script src="assets/js/line_chart.js"></script>
     <script src="assets/js/main.js"></script>

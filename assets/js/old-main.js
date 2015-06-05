@@ -1,39 +1,5 @@
 "use strict";
 
-var mySlider = window.mySlider = function() {
-  var self = {},
-      $ocupados = $('#slider-ocupados'),
-      $parados = $('#slider-parados'),
-      $inactivos = $('#slider-inactivos'),
-      ocupadosValue,
-      paradosValue,
-      inactivosValue;
-
-  self.updatePositions = function(values){
-    ocupadosValue  = Math.floor(values[0]);
-    paradosValue   = Math.floor(values[1] - values[0]);
-    inactivosValue = Math.ceil(100 - values[1]);
-
-    $ocupados.css('width', ocupadosValue + '%');
-    $parados.css('width', paradosValue + '%');
-    $inactivos.css('width', inactivosValue + '%');
-
-    $ocupados.html(ocupadosValue + '% Ocupados');
-    $parados.html(paradosValue + '% Parados');
-    $inactivos.html(inactivosValue + '% Inactivos');
-  }
-
-  self.getValues = function(){
-    return {
-      ocupados: ocupadosValue,
-      parados: paradosValue,
-      inactivos: inactivosValue
-    };
-  }
-
-  return self;
-}
-
 $(function(){
 
   var pollSlider = new mySlider();
@@ -48,19 +14,49 @@ $(function(){
     e.preventDefault();
 
     session.set('sex', this.sex.value);
+    if(this.sex.value == 'Mujer') {
+      session.set('sexIcon', 'fa-female');
+    } else {
+      session.set('sexIcon', 'fa-male');
+    }
     session.set('sexText', this.sex.options[this.sex.selectedIndex].text.toLowerCase());
     session.set('age', this.age.value);
     session.set('autonomousRegion', this.autonomous_region.value);
     session.set('autonomousRegionText', this.autonomous_region.options[this.autonomous_region.selectedIndex].text);
 
-    var source   = $("#header-template").html(),
-        template = Handlebars.compile(source),
-        html     = template(session.toJSON());
+    $('#two').fadeOut('slow', function(){
 
-    // $('header').html(html).fadeIn('slow');
+      var source   = $("#header-template").html(),
+          template = Handlebars.compile(source),
+          html     = template(session.toJSON());
+      $('#header').html(html).fadeIn('slow');
 
-    Balls(session);
-    //Lines(session);
+      Balls(session);
+      //Lines(session);
+
+      setTimeout(function(){
+        var sentences = [
+          '¡Vaya, por poco!',
+          'Ohhhh, ¡eres un poco pesimista!',
+          'Ohhhh, ¡eres muy pesimista!',
+          'Anda, te has quedado un poco lejos',
+          '¡Uyyyy, casi!'
+        ];
+
+        var results = {
+          sentence: sentences[Math.floor(Math.random() * sentences.length)],
+          ocupadosDiff: pollSlider.diff('ocupados'),
+          paradosDiff: pollSlider.diff('parados'),
+          inactivosDiff: pollSlider.diff('inactivos')
+        }
+
+        var source   = $("#results-template").html(),
+            template = Handlebars.compile(source),
+            html     = template(results);
+
+        $('#results').html(html).fadeIn();
+      }, 3000);
+    });
   });
 
   // $('form').submit();
