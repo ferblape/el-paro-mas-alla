@@ -95,7 +95,7 @@
                 <div class="select-wrapper">
                   <select name="sex">
                     <option value="">-- Eres chico o chica --</option>
-                    <option value="Mujer" selected>Chica</option>
+                    <option value="Mujer">Chica</option>
                     <option value="Varón">Chico</option>
                   </select>
                 </div>
@@ -107,7 +107,7 @@
                     <option value="de 16 a 19 años">de 16 a 19 años</option>
                     <option value="de 20 a 24 años">de 20 a 24 años</option>
                     <option value="de 25 a 29 años">de 25 a 29 años</option>
-                    <option value="de 30 a 34 años" selected>de 30 a 34 años</option>
+                    <option value="de 30 a 34 años">de 30 a 34 años</option>
                     <option value="de 35 a 39 años">de 35 a 39 años</option>
                     <option value="de 40 a 44 años">de 40 a 44 años</option>
                     <option value="de 45 a 49 años">de 45 a 49 años</option>
@@ -122,7 +122,7 @@
                 <div class="select-wrapper">
                   <select name="autonomous_region">
                     <option value="">-- ¿De dónde eres? --</option>
-                    <option value="1" selected>Andalucía</option>
+                    <option value="1">Andalucía</option>
                     <option value="2">Aragón</option>
                     <option value="3">Principado de Asturias</option>
                     <option value="4">Balears</option>
@@ -133,14 +133,14 @@
                     <option value="9">Cataluña</option>
                     <option value="18">Ceuta</option>
                     <option value="13">Comunidad de Madrid</option>
-                    <option value="10">Comunidad Valenciana</option>
-                    <option value="11">Extremadura</option>
-                    <option value="12">Galicia</option>
-                    <option value="17">La Rioja</option>
-                    <option value="19">Melilla</option>
-                    <option value="14">Región de Murcia</option>
-                    <option value="15">Comunidad Foral de Navarra</option>
-                    <option value="16">País Vasco</option>
+                    <!--<option value="10">Comunidad Valenciana</option>-->
+                    <!--<option value="11">Extremadura</option>-->
+                    <!--<option value="12">Galicia</option>-->
+                    <!--<option value="17">La Rioja</option>-->
+                    <!--<option value="19">Melilla</option>-->
+                    <!--<option value="14">Región de Murcia</option>-->
+                    <!--<option value="15">Comunidad Foral de Navarra</option>-->
+                    <!--<option value="16">País Vasco</option>-->
                   </select>
                 </div>
               </div>
@@ -162,21 +162,17 @@
       </section>
 
       <section id="five">
-        <h2 style="display:none;">¿Cómo percibe la gente de tu comunidad la situación laboral?</h2>
+        <h2 style="display:none;">Descubre lo que piensan otras personas de tu comunidad</h2>
 
+        <div style="display:none;"id="random_bars"></div>
 
-        <div id="random_bars"></div>
+        <h2 style="display:none;">¿Qué ha pasado en los últimos 10 años?</h2>
 
-        <h2 style="display:none;">¿Qué ha pasado realmente en mi comunidad?</h2>
-
-        <p style="display:none">La poblacion en paro comenzó a ascender a mediados de 2008 hasta
-          situarse en 2013 en el 34%, donde se ha mantenido hasta ahora.
-          Asimismo, los ocupados han estado por debajo de la media nacional
-        durante toda la década pasada, situándose en el último año en apenas un
-        49%, un 10% menos que el resto del conjunto español. </p>
+        <p style="display:none" id="autonomy-text"></p>
 
         <h2 style="display:none;">Explora todos los datos en el tiempo</h2>
-        <div id="line_chart"></div>
+
+        <div style="display:none;"id="line_chart"></div>
       </section>
     </div>
 
@@ -197,6 +193,7 @@
     <script src="assets/js/skel.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/session.js"></script>
+    <script src="assets/js/autonomies-texts.js"></script>
     <script src="assets/js/myslider.js"></script>
     <script src="assets/js/bolitas.js"></script>
     <script src="assets/js/line_chart.js"></script>

@@ -18,6 +18,8 @@ $(function(){
 
     $($(this).attr('href')).show();
 
+    $('#autonomy-text').html(autonomiesTexts['a' + session.get('autonomousRegion')]);
+
     $('html, body').animate({
       scrollTop: $($(this).attr('href')).offset().top + 70
     }, 200);
@@ -79,7 +81,7 @@ $(function(){
         // TODO: remove me
         $('#results').html(html).modal();
         $('#two .actions').show();
-        $('#two').css('height', '1200px');
+        $('#two').css('height', '800px');
 
         randomBars(session);
         Lines(session);
