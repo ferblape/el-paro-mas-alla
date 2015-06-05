@@ -88,7 +88,7 @@ var randomBars = function(session){
       .attr('y', function(d) { return height - yScale(d * 500) + 17; })
       .attr('fill', "#fff")
       .attr('text-anchor', 'end')
-      .text(function(d,i) { return  levelVariables[i] + " " + Math.round(d * 100) + "%"; });
+      .text(function(d,i) { return  niceCategory[levelVariables[i]] + " " + Math.round(d * 100) + "%"; });
 
     svgBars.selectAll('.vline')
       .data([0,1])
@@ -137,7 +137,7 @@ var randomBars = function(session){
       .attr("dy", 3)
       .attr("dx", "0.2em")
       .style("fill", "#424242")
-      .text(function(d) { return "Realidad: " + d.situation + " " + Math.floor(d.porcentaje * 100) + "%"; });
+      .text(function(d) { console.log(niceCategory);console.log(d.situation); return "Realidad: " + niceCategory[d.situation] + " " + Math.floor(d.porcentaje * 100) + "%"; });
     
   });
   

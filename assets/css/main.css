@@ -1951,6 +1951,10 @@
     margin-left: -60px;
   }
 
+  #five .actions {
+    margin-top: 20px;
+  }
+
   .slider-control {
     position: absolute;
     width: 1.2em;
@@ -3051,7 +3055,7 @@
 			#main {
 				margin-left: 27%;
 				max-width: none;
-				padding: 6em 3em 3em 3em;
+				padding: 6em 2em 3em 2em;
 				width: calc(100% - 30%);
 			}
 
