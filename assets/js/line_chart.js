@@ -1,6 +1,6 @@
 var Lines = function(session){
 
-  var margin = {top: 80, right: 100, bottom: 70, left: 20},
+  var margin = {top: 80, right: 220, bottom: 70, left: 40},
     //width = 1200 - margin.left - margin.right,
     width = d3.select('#one').node().getBoundingClientRect().width,// - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
