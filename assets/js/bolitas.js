@@ -241,7 +241,7 @@ var Balls = function(session){
         .data(data_n)
         .enter()
         .append('span')
-          .attr("class", function(d){return 'n1 axis button ' + d.situation; })
+          .attr("class", function(d){return 'n1 axis ' + d.situation; })
           .attr('id', function(d) { return d.situation; } )
           //.attr("xlink:href", '#bolitas_n2')
           .style('position', 'absolute')
