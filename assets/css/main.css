@@ -1952,9 +1952,25 @@
   }
 
   #five .actions {
-    margin-top: 20px;
+    margin-top: 160px;
   }
 
+  .fa-info-circle {
+  	font-size: 18px;
+  	color: #49bf9d;
+  	vertical-align: super;
+  }
+
+
+  h2 {
+  	font-family: Oswald;
+  	font-weight: 200;
+  }
+
+  header h1 {
+  	font-family: Lemon;
+  	letter-spacing: .03em;
+  }
   .slider-control {
     position: absolute;
     width: 1.2em;
@@ -2480,7 +2496,7 @@
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		background-color: transparent;
 		border-radius: 0.35em;
-		border: solid 3px #efefef;
+		border: solid 3px #49bf9d;
 		color: #787878 !important;
 		cursor: pointer;
 		display: inline-block;
