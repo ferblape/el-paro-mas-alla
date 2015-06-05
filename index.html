@@ -12,12 +12,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
     <link rel="stylesheet" href="assets/css/d3.slider.css" />
+    <link rel="stylesheet" href="assets/css/jquery.modal.css" />
     <link rel="stylesheet" href="assets/css/main.css" />
     <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
     <script type="text/javascript" src="assets/js/vendor/jquery-2.1.4.min.js"></script>
     <script type="text/javascript" src="assets/js/vendor/d3.min.js"></script>
     <script type="text/javascript" src="assets/js/vendor/handlebars-v3.0.3.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.modal.min.js"></script>
 	</head>
 
   <script id="header-template" type="text/x-handlebars-template">
@@ -29,17 +31,12 @@
   </script>
 
   <script id="results-template" type="text/x-handlebars-template">
-    <small>
-      <i class="fa fa-info-circle"></i>
-      <em>Datos según la EPA de 2015</em>
-    </small>
     <p class="response">{{sentence}}</p>
     <ul>
       <li>Te has equivocado en <strong>{{ocupadosDiff}} puntos</strong> respecto al total de ocupados</li>
       <li>Te has equivocado en <strong>{{paradosDiff}} puntos</strong> respecto al total de parados</li>
       <li>Te has equivocado en <strong>{{inactivosDiff}} puntos</strong> respecto al total de inactivos</li>
     </ul>
-    <p>Pero es normal, esto es lo que ha contestado la gente de tu provincia:</p>
   </script>
 
   <body id="top">
@@ -54,8 +51,18 @@
         <header class="major">
           <h1>Los lunes, ¿al sol?</h1>
         </header>
-        <p>¿Cuántas personas crees que están en tu misma situación laboral? El siguiente buscador te permitirá conocer exactamente el porcentaje de ciudadanos de tu edad y sexo que están ocupadas, paradas e inactivas en tu comunidad autónoma. Juega a acertar la cifra y conoce los datos reales, según la Encuesta de Población Activa.</p>
+        <p>
+¿Cuántas personas crees que están en tu misma situación laboral? Creemos que
+los ciudadanos no tenemos una percepción muy acertada de cuántas personas hay empleadas, paradas o inactivas ahora mismo en España.
+Te proponemos jugar a acertar la cifra y conocer los datos reales, según la Encuesta de Población Activa.
+        </p>
 
+        <ul class="actions">
+          <li><a href="#two" class="button transition">¡Empezar!</a></li>
+        </ul>
+      </section>
+
+      <section id="two">
         <h2>¿Cómo distribuirías la cantidad de ocupados, parados e inactivos de tu misma edad y sexo en tu comunidad?</h2>
 
         <div class="slider-container">
@@ -71,107 +78,107 @@
           <p>33% Inactivos</p>
           </div>
         </div>
-      </section>
 
-      <section id="two">
-        <h2>Para saber cuál es la distribución real, cuéntanos:</h2>
+        <div id="three">
+          <h2>Para saber cuál es la distribución real, cuéntanos:</h2>
 
-        <form method="get" action="#">
-          <div class="row uniform 50%">
-            <div class="4u 8u$(small)">
-              <div class="select-wrapper">
-                <select name="sex">
-                  <option value="">-- Eres chico o chica --</option>
-                  <option value="Mujer" selected>Chica</option>
-                  <option value="Varón">Chico</option>
-                </select>
+          <form method="get" action="#">
+            <div class="row uniform 50%">
+              <div class="4u 8u$(small)">
+                <div class="select-wrapper">
+                  <select name="sex">
+                    <option value="">-- Eres chico o chica --</option>
+                    <option value="Mujer" selected>Chica</option>
+                    <option value="Varón">Chico</option>
+                  </select>
+                </div>
+              </div>
+              <div class="4u 8u$(small)">
+                <div class="select-wrapper">
+                  <select name="age">
+                    <option value="">-- ¿Cuántos años tienes? --</option>
+                    <option value="de 16 a 19 años">de 16 a 19 años</option>
+                    <option value="de 20 a 24 años">de 20 a 24 años</option>
+                    <option value="de 25 a 29 años">de 25 a 29 años</option>
+                    <option value="de 30 a 34 años" selected>de 30 a 34 años</option>
+                    <option value="de 35 a 39 años">de 35 a 39 años</option>
+                    <option value="de 40 a 44 años">de 40 a 44 años</option>
+                    <option value="de 45 a 49 años">de 45 a 49 años</option>
+                    <option value="de 50 a 54 años">de 50 a 54 años</option>
+                    <option value="de 55 a 59 años">de 55 a 59 años</option>
+                    <option value="de 60 a 64 años">de 60 a 64 años</option>
+                    <option value="65 o más años">65 o más años</option>
+                  </select>
+                </div>
+              </div>
+              <div class="8u 8u$(small)">
+                <div class="select-wrapper">
+                  <select name="autonomous_region">
+                    <option value="">-- ¿De dónde eres? --</option>
+                    <option value="1" selected>Andalucía</option>
+                    <option value="2">Aragón</option>
+                    <option value="3">Principado de Asturias</option>
+                    <option value="4">Balears</option>
+                    <option value="5">Canarias</option>
+                    <option value="6">Cantabria</option>
+                    <option value="8">Castilla-La Mancha</option>
+                    <option value="7">Castilla y León</option>
+                    <option value="9">Cataluña</option>
+                    <option value="18">Ceuta</option>
+                    <option value="13">Comunidad de Madrid</option>
+                    <option value="10">Comunidad Valenciana</option>
+                    <option value="11">Extremadura</option>
+                    <option value="12">Galicia</option>
+                    <option value="17">La Rioja</option>
+                    <option value="19">Melilla</option>
+                    <option value="14">Región de Murcia</option>
+                    <option value="15">Comunidad Foral de Navarra</option>
+                    <option value="16">País Vasco</option>
+                  </select>
+                </div>
+              </div>
+              <div class="8u$">
+                <ul class="actions">
+                  <li><input type="submit" value="¿He acertado?" class="special" /></li>
+                </ul>
               </div>
             </div>
-            <div class="4u 8u$(small)">
-              <div class="select-wrapper">
-                <select name="age">
-                  <option value="">-- ¿Cuántos años tienes? --</option>
-                  <option value="de 16 a 19 años">de 16 a 19 años</option>
-                  <option value="de 20 a 24 años">de 20 a 24 años</option>
-                  <option value="de 25 a 29 años">de 25 a 29 años</option>
-                  <option value="de 30 a 34 años" selected>de 30 a 34 años</option>
-                  <option value="de 35 a 39 años">de 35 a 39 años</option>
-                  <option value="de 40 a 44 años">de 40 a 44 años</option>
-                  <option value="de 45 a 49 años">de 45 a 49 años</option>
-                  <option value="de 50 a 54 años">de 50 a 54 años</option>
-                  <option value="de 55 a 59 años">de 55 a 59 años</option>
-                  <option value="de 60 a 64 años">de 60 a 64 años</option>
-                  <option value="65 o más años">65 o más años</option>
-                </select>
-              </div>
-            </div>
-            <div class="8u 8u$(small)">
-              <div class="select-wrapper">
-                <select name="autonomous_region">
-                  <option value="">-- ¿De dónde eres? --</option>
-                  <option value="1" selected>Andalucía</option>
-                  <option value="2">Aragón</option>
-                  <option value="3">Principado de Asturias</option>
-                  <option value="4">Balears</option>
-                  <option value="5">Canarias</option>
-                  <option value="6">Cantabria</option>
-                  <option value="8">Castilla-La Mancha</option>
-                  <option value="7">Castilla y León</option>
-                  <option value="9">Cataluña</option>
-                  <option value="18">Ceuta</option>
-                  <option value="13">Comunidad de Madrid</option>
-                  <option value="10">Comunidad Valenciana</option>
-                  <option value="11">Extremadura</option>
-                  <option value="12">Galicia</option>
-                  <option value="17">La Rioja</option>
-                  <option value="19">Melilla</option>
-                  <option value="14">Región de Murcia</option>
-                  <option value="15">Comunidad Foral de Navarra</option>
-                  <option value="16">País Vasco</option>
-                </select>
-              </div>
-            </div>
-            <div class="8u$">
-              <ul class="actions">
-                <li><input type="submit" value="¿He acertado?" class="special" /></li>
-              </ul>
-            </div>
-          </div>
-        </form>
-      </section>
-
-      <section id="three">
+          </form>
+        </div>
         <div id="bolitas_n1" style="position:relative;"></div>
 
-        <div id="results"></div>
+        <div id="results" class="modal"></div>
+
+        <ul class="actions" style="display:none;">
+          <li><a href="#five" class="button tofive">¿Quieres saber lo que ha opina la gente de tu comunidad?</a></li>
+        </ul>
+      </section>
+
+      <section id="five">
+        <h2 style="display:none;">¿Cómo percibe la gente de tu comunidad?</h2>
 
         <div id="results_graph" style="display:none;">
           <img src="http://wijmo.com/files/img/barchart_columncharts.png" />
         </div>
-      </section>
 
-      <section id="four">
-        <p>La poblacion en paro comenzó a ascender a mediados de 2008 hasta
+        <h2 style="display:none;">¿Qué ha pasado realmente en mi comunidad?</h2>
+
+        <p style="display:none">La poblacion en paro comenzó a ascender a mediados de 2008 hasta
           situarse en 2013 en el 34%, donde se ha mantenido hasta ahora.
           Asimismo, los ocupados han estado por debajo de la media nacional
         durante toda la década pasada, situándose en el último año en apenas un
         49%, un 10% menos que el resto del conjunto español. </p>
-      </section>
 
-      <section id="fifth">
         <div id="line_chart"></div>
       </section>
     </div>
 
     <footer id="footer">
-      <ul class="icons">
-        <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-        <li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-        <li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-        <li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
-      </ul>
-
       <ul class="copyright">
+        <li>
+          <i class="fa fa-info-circle"></i>
+          <em>Datos obtenidos de la EPA, primer trimestre de 2015</em>
+        </li>
         <li>Equipo del Diario de Navarra</li>
         <li>Diseño: <a href="http://html5up.net">HTML5 UP</a></li>
       </ul>

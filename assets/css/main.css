@@ -13,8 +13,8 @@
 		margin: 0;
 		padding: 0;
 		border: 0;
-		font-size: 100%;
-		font: inherit;
+		font-size: 104%;
+		//font: inherit;
 		vertical-align: baseline;
 	}
 
@@ -1938,6 +1938,10 @@
 		opacity: 1.0;
 	}
 
+  #three {
+    margin-top: 150px;
+  }
+
   .slider-control {
     position: absolute;
     width: 1.2em;
@@ -1968,7 +1972,7 @@
     float:left;
     height: 100px;
     color: white;
-    font-size:1.6em;
+    font-size:1.2em;
     text-align: center;
     padding-top:1.4em;
     font-weight: 400;
@@ -1993,9 +1997,13 @@
     margin-top: 75px;
   }
 
+  #bolitas_n1 {
+    margin-bottom: 75px;
+  }
+
   #results p.response {
     text-align: center;
-    font-size: 2.6em;
+    font-size: 1.6em;
     font-weight: bold;
     margin-top: 20px;
     margin-bottom: 40px;
@@ -2411,7 +2419,6 @@
 
   .axis.button { 
    text-align: center;
-   font-size: 1.4em;
    cursor: default;
   }
 
@@ -2626,12 +2633,13 @@
 
 	#main {
 		margin-left: 20%;
-		padding: 0em 4em 4em 4em;
+		padding: 8em 4em 4em 10em;
 		width: calc(100% - 20%);
 	}
 
 		#main > section {
-			border-top: solid 2px #efefef;
+      height: 500px;
+      min-height: 500px;
 			margin: 4em 0 0 0;
 			padding: 4em 0 0 0;
 		}
@@ -2926,6 +2934,10 @@
 
 		/* Header */
 
+			body, input, select, textarea {
+				font-size: 14pt;
+			}
+
 			#header {
 				padding: 6em 3em 3em 3em;
 				width: 30%;
@@ -2970,6 +2982,11 @@
 	@media screen and (max-width: 980px) {
 
 		/* Basic */
+
+			body, input, select, textarea {
+				font-size: 12pt;
+			}
+
 
 			h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
 				display: none;

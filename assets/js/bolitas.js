@@ -246,7 +246,7 @@ var Balls = function(session){
           //.attr("xlink:href", '#bolitas_n2')
           .style('position', 'absolute')
           .style('left', function(d) { return xScale(d.situation) + margin.left + "px"; })
-          //.style('margin-top', height + margin.top + "px")
+          .style('margin-top', height + margin.top + "px")
           .style('width', xScale.rangeBand() - margin.left + 'px')
           .html(function(d){ return (Math.floor(d.porcentaje * 100)) + '% ' + niceCategory[d.situation]; });
 
