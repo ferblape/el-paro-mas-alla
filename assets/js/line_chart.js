@@ -1,8 +1,8 @@
 var Lines = function(session){
 
-  var margin = {top: 80, right: 270, bottom: 70, left: 60},
+  var margin = {top: 80, right: 100, bottom: 70, left: 20},
     //width = 1200 - margin.left - margin.right,
-    width = d3.select('#one').node().getBoundingClientRect().width - margin.left - margin.right,
+    width = d3.select('#one').node().getBoundingClientRect().width,// - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
   var parseDate = d3.time.format("%Y").parse;

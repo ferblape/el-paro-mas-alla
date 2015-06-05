@@ -29,7 +29,7 @@ $(function(){
     $($(this).attr('href')).show();
 
     $('html, body').animate({
-      scrollTop: $($(this).attr('href')).offset().top
+      scrollTop: $($(this).attr('href')).offset().top + 80
     }, 200);
   });
 
@@ -76,6 +76,7 @@ $(function(){
             template = Handlebars.compile(source),
             html     = template(results);
 
+        // TODO: remove me
         $('#results').html(html).modal();
         $('#two .actions').show();
         $('#two').css('height', '1200px');
