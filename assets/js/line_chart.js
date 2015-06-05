@@ -79,7 +79,6 @@ var Lines = function(session){
     x.domain(d3.extent(rawData, function(d) { return d.year; }));
     y.domain([0, 1]);
    
-   console.log(situations)
     var fuera = ["total", "asalariados", "activos"]
     data = rawData.filter(function(d) { return fuera.indexOf(d.situation) == -1; })
 
@@ -88,7 +87,6 @@ var Lines = function(session){
     });
 
     var data_ccaa = data.filter(function(d) { return d.codigo == session.get('autonomousRegion'); });
-        console.log(data_ccaa)
 
     var nested_data_ccaa = d3.nest()
                         .key(function(d) { return d.situation; })
@@ -103,7 +101,6 @@ var Lines = function(session){
                         .key(function(d) { return d.situation; })
                         .entries(data_esp);
 
-    console.log(nested_data_esp);
 
     // Draw the axis
     svgLines.append("g")
@@ -153,7 +150,7 @@ var Lines = function(session){
   lines_esp.append("path")
       .attr("class", "line esp")
       .attr("id", function(d){ return d.key;})
-      .attr("d", function(d) { console.log(d);return line(d.values); })
+      .attr("d", function(d) { return line(d.values); })
       .style('fill', 'none')
       .style("opacity", function(d) {
         if (d.key === "parados" || d.key === "ocupados" || d.key === "inactivos") {
@@ -172,10 +169,6 @@ var Lines = function(session){
   var legendScale = d3.scale.ordinal()
                       .rangeBands([-margin.top, height + margin.top], 0.1)
                       .domain(color.domain()); 
-
-  console.log(nested_data_ccaa);
-  console.log(legendScale.domain().length);
-  console.log(nested_data_ccaa.length);
 
   var legend = svgLines.selectAll(".legend")
       .data(nested_data_ccaa)

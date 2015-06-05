@@ -137,8 +137,7 @@ var randomBars = function(session){
       .attr("dy", 3)
       .attr("dx", "0.2em")
       .style("fill", "#424242")
-      .text(function(d) { return "Realidad: " + d.situation + " " + Math.floor(d.porcentaje * 100) + "%"; });
-    
+      .text(function(d) { return "Realidad: " + niceCategory(d.situation) + " " + Math.floor(d.porcentaje * 100) + "%"; });
   });
   
 }
