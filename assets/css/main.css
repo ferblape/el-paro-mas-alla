@@ -1970,11 +1970,11 @@
 
   .slider-element {
     float:left;
-    height: 100px;
+    height: 60px;
     color: white;
     font-size:1.2em;
     text-align: center;
-    padding-top:1.4em;
+    padding-top:1em;
     font-weight: 400;
   }
 
@@ -2007,6 +2007,11 @@
     font-weight: bold;
     margin-top: 20px;
     margin-bottom: 40px;
+  }
+
+  .axis path,
+  .axis line {
+    fill: none;
   }
 
 /* Box */

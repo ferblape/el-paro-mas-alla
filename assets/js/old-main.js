@@ -57,7 +57,6 @@ $(function(){
       $('#header').html(html).fadeIn('slow');
 
       Balls(session);
-      //Lines(session);
 
       setTimeout(function(){
         var sentences = [
@@ -82,6 +81,8 @@ $(function(){
         $('#results').html(html).modal();
         $('#two .actions').show();
         $('#two').css('height', '1200px');
+
+        Lines(session);
       }, 3000);
     });
   });
