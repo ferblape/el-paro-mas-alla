@@ -39,7 +39,7 @@ $(function(){
     $('#autonomy-text').html(autonomiesTexts['a' + session.get('autonomousRegion')]);
 
     $('html, body').animate({
-      scrollTop: $($(this).attr('href')).offset().top + 70
+      scrollTop: $($(this).attr('href')).offset().top
     }, 200);
   });
 
