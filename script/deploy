@@ -1,1 +1,1 @@
-rsync -av  * blato01:/var/www/dn.blat.es/
+rsync -av  * blato03:/var/www/dn.blat.es/
